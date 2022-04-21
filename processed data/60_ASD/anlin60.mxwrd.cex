@@ -1,0 +1,21 @@
+*CHI:	妈妈 我 去 把 那 个 衣服 放 到 那 上面 去 .
+%mor:	n:relat|ma1&DIM=mother pro:per|wo3=I v:dirc|qu4=go
+	prep|ba3=object_marker det|na4=that cl|ge4 n|yi1fu2=clothes
+	v|fang4=put v:resc|dao4=arrive pro:dem|na4=that
+	post|shang4mian4=above v:dirc|qu4=go .
+*CHI:	我 的 和 哥哥 的 都 是 可以 借 给 妈妈 .
+%mor:	pro:per|wo3=I poss|de conj|he2=and n:relat|ge1&DIM=older_brother
+	poss|de adv|dou1=all v:cop|shi4=is v:aux|ke3yi3=may v|jie4=lend
+	prep|gei3=for n:relat|ma1&DIM=mother .
+*CHI:	他们 想 <他们 想>[/] 把 它们 的 放 下 倒 起 .
+%mor:	pro:per|ta1-PL=he v|xiang3=think prep|ba3=object_marker
+	pro:per|ta1-PL=it poss|de v|fang4=put v:dirc|xia4=go_down
+	v|dao4=pour v:dirc|qi3=go_up .
+*CHI:	走 到 半路 又 饿 了, 又 回家 吃 饭 .
+%mor:	v:dirc|zou3=go_away v:resc|dao4=arrive n|ban4lu4=halfway
+	adv|you4=again adj|e4=hungry asp|le cm|cm adv|you4=again
+	v|hui2jia1=go_home v|chi1=eat n|fan4=food .
+*CHI:	妈 ‡ 这 是 它 的 斗车 要 连 起来 的 .
+%mor:	n:relat|ma1=mother beg|beg pro:dem|zhe4=this v:cop|shi4=is
+	pro:per|ta1=it poss|de n|dou3che1=wheelbarrow v:aux|yao4=should
+	prep|lian2=including v|qi3lai2=come_up cleft|de .

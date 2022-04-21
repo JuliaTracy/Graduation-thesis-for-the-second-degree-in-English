@@ -1,0 +1,5024 @@
+@UTF8
+@PID:	11312/a-00003914-1
+@Window:	0_0_0_0_125553_1_125434_0_125434_0
+@Begin
+@Languages:	zho
+@Participants:	CHI Chen Target_Child, MOT Mother
+@ID:	zho|Shanghai|CHI|4;06.|male|||Target_Child|||
+@ID:	zho|Shanghai|MOT||female|||Mother|||
+@Comment:	Birth of CHI 14-JUN-2002
+@Date:	01-DEC-2006
+@Transcriber:	lixiaoyan
+@Types:	long, toyplay, ASD
+*MOT:	坐 好 玩 .
+%mor:	v|zuo4=sit adj|hao3=good v|wan2=play .
+%gra:	1|0|PROOT 2|1|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$NIA:RP
+*CHI:	这 个 掉掉 了 .
+%mor:	det|zhe4=this cl|ge4 v:resc|diao4&DIM=done asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|5|ENDP 4|3|OBJ 5|0|PROOT
+%spa:	$DHA:ST
+*MOT:	没 有 掉掉 .
+%mor:	adv|mei2=not v|you3=have v:resc|diao4&DIM=done .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$DJF:DW
+*MOT:	坐 好 .
+%mor:	v|zuo4=sit adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+%act:	M和C同时朝地 上看
+*MOT:	什么 掉掉 了 ?
+%mor:	pro:wh|shen2me=what v:resc|diao4&DIM=done asp|le ?
+%gra:	1|0|PROOT 2|0|OBJ 3|0|OBJ 4|0|NONE
+%spa:	$DCC:QN
+*MOT:	没 掉 .
+%mor:	adv|mei2=not v:resc|diao4=done .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DJF:ST
+*MOT:	坐 正 .
+%mor:	v|zuo4=sit adv|zheng4=precisely .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$NIA:RP
+%act:	M把C的头朝上推
+*MOT:	来 ‡ 坐 好 .
+%mor:	co|lai2=come_on beg|beg v|zuo4=sit adj|hao3=good .
+%gra:	1|0|OBJ 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$NIA:RP
+*MOT:	开始 .
+%mor:	v|kai1shi3=begin .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:SS
+*MOT:	坐 起来 .
+%mor:	v|zuo4=sit v|qi3lai2=come_up .
+%gra:	1|0|PROOT 2|1|VD 3|0|PROOT
+%spa:	$NIA:RP
+%act:	C坐正
+*MOT:	好 ‡ 开始 了 .
+%mor:	adj|hao3=good beg|beg v|kai1shi3=begin asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|OBJ 5|0|NONE
+%spa:	$NIA:DC
+*CHI:	这 要 打架 了 .
+%mor:	pro:dem|zhe4=this v:aux|yao4=should v|da3jia4=struggle asp|le .
+%gra:	1|3|SUBJ 2|1|PROOT 3|0|PROOT 4|0|OBJ 5|0|NONE
+%spa:	$DFW:ST
+%cod:	$CID
+*MOT:	这 要 什么 ?
+%mor:	pro:dem|zhe4=this v|yao4=want pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|4|ENDP 3|2|PROOT 4|0|NONE
+%spa:	$DCC:QN
+%act:	C朝M的脸看了一下
+*MOT:	这 是 什么 东西 啦 ?
+%mor:	pro:dem|zhe4=this v:cop|shi4=is pro:wh|shen2me=what n|dong1xi=thing
+	sfp|la1 ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|PROOT 5|6|ENDP 6|0|NONE
+%spa:	$DJF:QN
+*MOT:	小 棍子 .
+%mor:	adj|xiao3=small n|gun4zi=rod .
+%gra:	1|0|PROOT 2|1|APP 3|0|PROOT
+%spa:	$DJF:SA
+*CHI:	哎哟 ‡ 打架 了 .
+%mor:	co|ai1yo1=arrgh beg|beg v|da3jia4=struggle asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|OBJ 5|0|NONE
+%spa:	$DFW:ST
+%cod:	$CCD
+*MOT:	没 有 打架 .
+%mor:	adv|mei2=not v|you3=have v|da3jia4=struggle .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$DFW:DW
+*MOT:	谁 打架 啦 ?
+%mor:	pro:wh|shei2=who v|da3jia4=struggle sfp|la1 ?
+%gra:	1|0|OBJ 2|1|PUNCT 3|4|ENDP 4|0|PROOT
+%spa:	$DFW:QN
+*MOT:	不 能 打架 的 .
+%mor:	adv|bu4=not v:aux|neng2=can v|da3jia4=struggle cleft|de .
+%gra:	1|0|PROOT 2|1|SRL 3|1|CPT 4|5|ENDP 5|0|PROOT
+%spa:	$DFW:ST
+*MOT:	这 是 什么 ?
+%mor:	pro:dem|zhe4=this v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|NONE
+%spa:	$DHA:QN
+%act:	M拿手中绿色的树积木让C看
+*CHI:	房子 ?
+%mor:	n|fang2-NOM=room ?
+%gra:	1|0|PROOT 2|0|NONE
+%spa:	$DJF:NA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	什么 啊 ?
+%mor:	pro:wh|shen2me=what sfp|a1 ?
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DJF:AQ
+*CHI:	大 树 .
+%mor:	v|da4=poop n|shu4=tree .
+%gra:	1|0|PROOT 2|1|TAG 3|2|PUNCT
+%spa:	$DJF:SA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	大 树 .
+%mor:	v|da4=poop n|shu4=tree .
+%gra:	1|0|PROOT 2|1|TAG 3|2|PUNCT
+%spa:	$DJF:AC
+*MOT:	什么 颜色 的 ?
+%mor:	pro:wh|shen2me=what n|yan2se4=color poss|de ?
+%gra:	1|0|PROOT 2|1|APP 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:QN
+*CHI:	红 颜色 .
+%mor:	adj|hong2=red n|yan2se4=color .
+%gra:	1|0|PROOT 2|1|APP 3|0|PROOT
+%spa:	$DJF:NA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	什么 颜色 啊 ?
+%mor:	pro:wh|shen2me=what n|yan2se4=color sfp|a1 ?
+%gra:	1|0|PROOT 2|1|APP 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:AQ
+*MOT:	看 清楚 .
+%mor:	v|kan4=look adj|qing1chu3=clear .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DHA:RP
+*MOT:	哎 ‡ 什么 颜色 ?
+%mor:	co|ai1=ugh beg|beg pro:wh|shen2me=what n|yan2se4=color ?
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$DJF:QN
+*MOT:	快 告诉 妈妈 .
+%mor:	adv|kuai4=quickly v|gao4su4=tell n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$NIA:RP
+*CHI:	黄 颜色 .
+%mor:	adj|huang2=yellow n|yan2se4=color .
+%gra:	1|0|PROOT 2|1|APP 3|0|PROOT
+%spa:	$DJF:NA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	去 .
+%mor:	v:dirc|qu4=go .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DJF:DS
+*MOT:	这 个 什么 颜色 ?
+%mor:	det|zhe4=this cl|ge4 pro:wh|shen2me=what n|yan2se4=color ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|3|APP 5|0|NONE
+%spa:	$DJF:QN
+*CHI:	绿 颜色 .
+%mor:	adj|lv4=green n|yan2se4=color .
+%gra:	1|0|PROOT 2|1|APP 3|0|PROOT
+%spa:	$DJF:SA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	哎 .
+%mor:	co|ai1=ugh .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:AC
+*MOT:	<瞎 讲>[/] 瞎 讲 .
+%mor:	adv|xia1=messily v|jiang3=speak .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DRE:DS
+*MOT:	把 大 树 装 起来 „ 好 吗 ?
+%mor:	prep|ba3=object_marker v|da4=poop n|shu4=tree v|zhuang1=install
+	v|qi3lai2=come_up end|end adj|hao3=good sfp|ma ?
+%gra:	1|0|PROOT 2|1|CPT 3|1|VD 4|1|SRL 5|1|SRL 6|0|PROOT 7|0|NONE
+	8|9|ENDP 9|7|PROOT
+%spa:	$NIA:RQ
+*CHI:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:AD
+%tur:	$turn
+*MOT:	哎 ‡ 这 个 给 妈妈 .
+%mor:	co|ai1=ugh beg|beg det|zhe4=this cl|ge4 v|gei3=give
+	n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|0|PROOT 7|0|PROOT
+%spa:	$DHA:RP
+%act:	M要C手中的棍子
+*MOT:	这 个 给 妈妈 .
+%mor:	det|zhe4=this cl|ge4 v|gei3=give n:relat|ma1&DIM=mother .
+%gra:	1|3|DET 2|1|LP 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DHA:RP
+*MOT:	棍子 给 我 .
+%mor:	n|gun4zi=rod v|gei3=give pro:per|wo3=I .
+%gra:	1|0|PROOT 2|4|ENDP 3|2|PROOT 4|0|PROOT
+%spa:	$DJF:RP
+*MOT:	把 棍子 给 我 .
+%mor:	prep|ba3=object_marker n|gun4zi=rod v|gei3=give pro:per|wo3=I .
+%gra:	1|0|PROOT 2|0|PROOT 3|5|ENDP 4|3|PROOT 5|0|PROOT
+%spa:	$DJF:RP
+*MOT:	小 棍子 给 我 .
+%mor:	adj|xiao3=small n|gun4zi=rod v|gei3=give pro:per|wo3=I .
+%gra:	1|0|OBJ 2|1|PTOP 3|1|SRL 4|1|ATT 5|0|PROOT
+%spa:	$DJF:RP
+*MOT:	穿 不 上去 的 .
+%mor:	v|chuan1=put_on adv|bu4=not v|shang4qu4=go_up cleft|de .
+%gra:	1|0|OBJ 2|1|PROOT 3|1|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$DJF:ST
+*CHI:	粘 [/] 粘 .
+%mor:	v|nian2=glue .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DJF:ST
+*MOT:	什么 粘 啊 ?
+%mor:	pro:wh|shen2me=what v|nian2=glue sfp|a1 ?
+%gra:	1|0|PROOT 2|4|ENDP 3|2|END 4|0|PROOT
+%spa:	$DCC:QN
+*MOT:	你 再 跟 妈妈 做 个 大 树 .
+%mor:	pro:per|ni3=you adv|zai4=again prep|gen1=with
+	n:relat|ma1&DIM=mother v|zuo4=make cl|ge4 v|da4=poop n|shu4=tree .
+%gra:	1|0|OBJ 2|0|PROOT 3|2|PROOT 4|0|PROOT 5|7|JCT 6|5|PROOT 7|0|PROOT
+	8|7|OBJ 9|0|PROOT
+%spa:	$NIA:RP
+*MOT:	快 装 .
+%mor:	adv|kuai4=quickly v|zhuang1=install .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*CHI:	粘 .
+%mor:	v|nian2=glue .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DJF:ST
+*MOT:	树 装 起来 .
+%mor:	n|shu4=tree v|zhuang1=install v|qi3lai2=come_up .
+%gra:	1|0|PROOT 2|4|ENDP 3|2|VD 4|0|PROOT
+%spa:	$NIA:RP
+*CHI:	粘 .
+%mor:	v|nian2=glue .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DJF:ST
+*MOT:	来 .
+%mor:	v:dirc|lai2=come .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DHA:RP
+*MOT:	跟 妈妈 做 棵 树 呢 .
+%mor:	prep|gen1=with n:relat|ma1&DIM=mother v|zuo4=make cl|ke1
+	n|shu4=tree sfp|ne .
+%gra:	1|0|PROOT 2|3|SUBJ 3|0|PROOT 4|0|OBJ 5|0|PROOT 6|7|ENDP 7|0|PROOT
+%spa:	$NIA:RP
+*MOT:	装 .
+%mor:	v|zhuang1=install .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$NIA:RP
+%act:	M把积木放到C的面前
+*MOT:	把 树 装 到 这 个 棍子 上 .
+%mor:	prep|ba3=object_marker n|shu4=tree v|zhuang1=install
+	v:resc|dao4=arrive det|zhe4=this cl|ge4 n|gun4zi=rod
+	post|shang4=above .
+%gra:	1|0|PROOT 2|1|APP 3|0|NONE 4|3|PROOT 5|3|PROOT 6|3|PROOT 7|3|PROOT
+	8|3|OBJ 9|3|PROOT
+%spa:	$NIA:RP
+*MOT:	装 好 .
+%mor:	v|zhuang1=install adj|hao3=good .
+%gra:	1|0|PROOT 2|1|JCT 3|0|PROOT
+%spa:	$DHA:RP
+*MOT:	插 进去 .
+%mor:	v|cha1=insert v|jin4qu4=go_into .
+%gra:	1|0|PROOT 2|1|JCT 3|0|PROOT
+%spa:	$DJF:RP
+*MOT:	插 进去 .
+%mor:	v|cha1=insert v|jin4qu4=go_into .
+%gra:	1|0|PROOT 2|1|JCT 3|0|PROOT
+%spa:	$DJF:RP
+*MOT:	装 呀 .
+%mor:	v|zhuang1=install sfp|ya .
+%gra:	1|3|ENDP 2|1|END 3|0|PROOT
+%spa:	$DJF:RP
+*MOT:	插 .
+%mor:	v|cha1=insert .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DJF:RP
+*MOT:	好 ‡ 插 .
+%mor:	adj|hao3=good beg|beg v|cha1=insert .
+%gra:	1|0|PROOT 2|0|OBJ 3|4|ENDP 4|0|PROOT
+%spa:	$DCA:AB
+*MOT:	好 ‡ 摆 这 上面 .
+%mor:	adj|hao3=good beg|beg v|bai3=arrange pro:dem|zhe4=this
+	post|shang4mian4=above .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|CPT 4|3|OBJ 5|3|JCT 6|3|ENUM
+%spa:	$DJF:RP
+*MOT:	摆 好 .
+%mor:	v|bai3=arrange adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DJF:RP
+*MOT:	摆 在 这 上面 .
+%mor:	v|bai3=arrange prep|zai4=at pro:dem|zhe4=this
+	post|shang4mian4=above .
+%gra:	1|0|PROOT 2|0|NONE 3|2|OBJ 4|2|OBJ 5|2|PROOT
+%spa:	$DJF:RP
+*MOT:	排队 .
+%mor:	v|pai2dui4=stand_in_line .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DJF:RP
+*CHI:	哎哟 .
+%mor:	co|ai1yo1=arrgh .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$TXT:TX
+*MOT:	来 ‡ 还 有 一 个 .
+%mor:	co|lai2=come_on beg|beg adv|hai2=still v|you3=have num|yi1=one
+	cl|ge4 .
+%gra:	1|0|PROOT 2|0|OBJ 3|5|JCT 4|3|SRL 5|6|QUANT 6|0|PROOT 7|0|PROOT
+%spa:	$DJF:TO
+*MOT:	再 插 .
+%mor:	adv|zai4=again v|cha1=insert .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DJF:RP
+*MOT:	拿 个 棍子 .
+%mor:	v|na2=hold cl|ge4 n|gun4zi=rod .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$DJF:RP
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	哎 ‡ 小 棍子 呢 .
+%mor:	co|ai1=ugh beg|beg adj|xiao3=small n|gun4zi=rod sfp|ne .
+%gra:	1|0|OBJ 2|0|OBJ 3|5|MOD 4|3|SRL 5|6|ENDP 6|0|PROOT
+%spa:	$DHA:ST
+%act:	C插
+*MOT:	哎 ‡ 把 它 插 上去 .
+%mor:	co|ai1=ugh beg|beg prep|ba3=object_marker pro:per|ta1=it
+	v|cha1=insert v|shang4qu4=go_up .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|3|PREPO 5|0|PROOT 6|0|NONE 7|6|PROOT
+%spa:	$DCA:AB
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	怎么 插 的 ?
+%mor:	adv:wh|zen3me=how v|cha1=insert cleft|de ?
+%gra:	1|0|PROOT 2|1|SRL 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:CR
+*MOT:	插 上去 .
+%mor:	v|cha1=insert v|shang4qu4=go_up .
+%gra:	1|0|PROOT 2|0|NONE 3|2|PROOT
+%spa:	$DJF:RP
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	好 .
+%mor:	adj|hao3=good .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DJF:MK
+*MOT:	哪 个 胖 ?
+%mor:	pro:wh|na3=where cl|ge4 v|pang4=fat ?
+%gra:	1|4|ENDP 2|1|LP 3|1|PUNCT 4|0|NONE
+*MOT:	哪 个 瘦 啊 ?
+%mor:	pro:wh|na3=where cl|ge4 v|shou4=skinny sfp|a1 ?
+%gra:	1|4|MOD 2|1|LP 3|1|PUNCT 4|0|NONE 5|4|PUNCT
+%spa:	$DJF:TQ
+%act:	M拿了两棵树让C比较
+*CHI:	这 个 .
+%mor:	det|zhe4=this cl|ge4 .
+%gra:	1|3|ENDP 2|1|LP 3|0|PROOT
+%spa:	$DJF:SA
+%tur:	$turn
+%cod:	$CCD
+*CHI:	这 个 .
+%mor:	det|zhe4=this cl|ge4 .
+%gra:	1|3|ENDP 2|1|LP 3|0|PROOT
+%spa:	$DJF:SA
+%act:	C在两棵树上指来指去
+%cod:	$CCD
+*CHI:	这 胖 .
+%mor:	pro:dem|zhe4=this v|pang4=fat .
+%gra:	1|2|SUBJ 2|0|PROOT 3|0|PROOT
+%cod:	$CCD
+*CHI:	这 瘦 .
+%mor:	pro:dem|zhe4=this v|shou4=skinny .
+%gra:	1|2|SUBJ 2|0|PROOT 3|0|PROOT
+%spa:	$DJF:TA
+%cod:	$CCD
+*MOT:	哪 个 胖 啊 ?
+%mor:	pro:wh|na3=where cl|ge4 v|pang4=fat sfp|a1 ?
+%gra:	1|4|MOD 2|1|LP 3|1|PUNCT 4|0|NONE 5|4|PUNCT
+%spa:	$DCC:QN
+*MOT:	说 [/] 说 清楚 .
+%mor:	v|shuo1=say adj|qing1chu3=clear .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$NIA:RP
+*CHI:	这 个 胖 .
+%mor:	det|zhe4=this cl|ge4 v|pang4=fat .
+%gra:	1|3|DET 2|1|LP 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:SA
+%tur:	$turn
+%cod:	$CCD
+%act:	C指着小一点的树
+*MOT:	不 对 .
+%mor:	adv|bu4=not v|dui4=adjust .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DJF:DW
+*CHI:	这 个 胖 .
+%mor:	det|zhe4=this cl|ge4 v|pang4=fat .
+%gra:	1|3|DET 2|1|LP 3|4|ENDP 4|0|PROOT
+%tur:	$turn
+%cod:	$CCD
+*CHI:	这 个 瘦 .
+%mor:	det|zhe4=this cl|ge4 v|shou4=skinny .
+%gra:	1|3|DET 2|1|LP 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:ST
+%cod:	$CCD
+*MOT:	你 猜 的 .
+%mor:	pro:per|ni3=you v|cai1=guess cleft|de .
+%gra:	1|0|PROOT 2|3|LP 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:DS
+*CHI:	这 个 .
+%mor:	det|zhe4=this cl|ge4 .
+%gra:	1|3|ENDP 2|1|LP 3|0|PROOT
+%spa:	$DHA:ST
+%tur:	$turn
+%cod:	$CCD
+*CHI:	这 个 .
+%mor:	det|zhe4=this cl|ge4 .
+%gra:	1|3|ENDP 2|1|LP 3|0|PROOT
+%spa:	$DJF:ST
+%cod:	$CCD
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	这 个 树 装 好 .
+%mor:	det|zhe4=this cl|ge4 n|shu4=tree v|zhuang1=install adj|hao3=good .
+%gra:	1|0|OBJ 2|3|POSTO 3|0|OBJ 4|6|ENDP 5|4|JCT 6|0|PROOT
+%spa:	$DHA:RP
+%act:	M拿一棵树给C
+*MOT:	把 这 个 树 装 好 .
+%mor:	prep|ba3=object_marker det|zhe4=this cl|ge4 n|shu4=tree
+	v|zhuang1=install adj|hao3=good .
+%gra:	1|0|OBJ 2|0|PROOT 3|0|OBJ 4|0|PROOT 5|7|ENDP 6|5|JCT 7|0|PROOT
+%spa:	$DJF:RP
+*MOT:	快 点 .
+%mor:	adv|kuai4=quickly v|dian3=tap .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DJF:RP
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	哎哟 .
+%mor:	co|ai1yo1=arrgh .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$MRK:ET
+*MOT:	小 猫 叫 了 .
+%mor:	adj|xiao3=small n|mao1=pussycat v|jiao4=call asp|le .
+%gra:	1|0|OBJ 2|3|SUBJ 3|0|PROOT 4|0|OBJ 5|0|NONE
+%spa:	$DJF:ST
+*MOT:	手机 有没有 铃声 ?
+%mor:	n|shou3ji1=cell_phone v|you3&DIM=have n|ling2sheng1=ringtone ?
+%gra:	1|0|PROOT 2|0|CPT 3|2|PROOT 4|2|ENUM
+%spa:	$DJF:YQ
+*MOT:	插 上去 .
+%mor:	v|cha1=insert v|shang4qu4=go_up .
+%gra:	1|0|PROOT 2|0|NONE 3|2|PROOT
+%spa:	$DJF:RP
+*MOT:	快 插 好 呀 .
+%mor:	adv|kuai4=quickly v|cha1=insert adj|hao3=good sfp|ya .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DJF:RP
+%act:	C把积木插掉了
+*MOT:	哎哟 .
+%mor:	co|ai1yo1=arrgh .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:ED
+*CHI:	找 不 到 了 .
+%mor:	v|zhao3=search adv|bu4=not v:resc|dao4=arrive asp|le .
+%gra:	1|0|OBJ 2|1|PROOT 3|1|COMP 4|0|OBJ 5|0|NONE
+%spa:	$DJF:ST
+%tur:	$turn
+*MOT:	掉 下去 了 .
+%mor:	v:resc|diao4=done v|xia4qu4=go_down asp|le .
+%gra:	1|0|PROOT 2|1|VD 3|0|OBJ 4|0|NONE
+%spa:	$DJF:DW
+*MOT:	来 .
+%mor:	v:dirc|lai2=come .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DHA:RP
+*MOT:	这 个 树 什么 形状 的 ?
+%mor:	det|zhe4=this cl|ge4 n|shu4=tree pro:wh|shen2me=what
+	n|xing2zhuang4=form poss|de ?
+%gra:	1|0|PROOT 2|3|CLASS 3|0|PROOT 4|6|ENDP 5|4|PTOP 6|7|ENDP 7|0|PROOT
+%spa:	$DJF:QN
+%act:	M把C手中的绿树拿 到自己的手中问C
+*CHI:	黄 颜色 的 .
+%mor:	adj|huang2=yellow n|yan2se4=color poss|de .
+%gra:	1|0|PROOT 2|0|NONE 3|4|ENDP 4|2|PROOT
+%spa:	$DJF:NA
+%tur:	$turn
+*MOT:	什么 形状 的 ?
+%mor:	pro:wh|shen2me=what n|xing2zhuang4=form poss|de ?
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:QN
+*CHI:	绿 颜色 的 .
+%mor:	adj|lv4=green n|yan2se4=color poss|de .
+%gra:	1|0|PROOT 2|0|NONE 3|4|ENDP 4|2|PROOT
+%spa:	$DJF:NA
+%tur:	$turn
+*MOT:	什么 形状 的 ?
+%mor:	pro:wh|shen2me=what n|xing2zhuang4=form poss|de ?
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:QN
+*CHI:	三角形 .
+%mor:	n|san1jiao3xing2=triangle .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:SA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	哎 .
+%mor:	co|ai1=ugh .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:AC
+*MOT:	听 好 妈妈 讲话 再 说 啊 .
+%mor:	v|ting1=listen adj|hao3=good n:relat|ma1&DIM=mother
+	v|jiang3hua4=lecture adv|zai4=again v|shuo1=say sfp|a1 .
+%gra:	1|0|PROOT 2|1|PROOT 3|4|SUBJ 4|0|PROOT 5|8|ENDP 6|5|SRL 7|5|ATT
+	8|0|PROOT
+%spa:	$DRE:DS
+*MOT:	把 这 个 车 装 起来 .
+%mor:	prep|ba3=object_marker det|zhe4=this cl|ge4 n|che1=vehicle
+	v|zhuang1=install v|qi3lai2=come_up .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|7|ENDP 6|5|VD 7|0|PROOT
+%spa:	$NIA:RP
+*MOT:	这 个 什么 颜色 的 ?
+%mor:	det|zhe4=this cl|ge4 pro:wh|shen2me=what n|yan2se4=color poss|de ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|NONE 5|6|ENDP 6|4|PROOT
+%spa:	$DHA:QN
+%act:	M举起手里的蓝颜色的积木问C
+*CHI:	绿 .
+%mor:	adj|lv4=green .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DJF:NA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	问 你 话 .
+%mor:	v|wen4=ask pro:per|ni3=you n|hua4=speech .
+%gra:	1|0|PROOT 2|0|PROOT 3|2|SUBJ 4|0|NONE
+*MOT:	这 个 什么 颜色 的 ?
+%mor:	det|zhe4=this cl|ge4 pro:wh|shen2me=what n|yan2se4=color poss|de ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|NONE 5|6|ENDP 6|4|PROOT
+%spa:	$DJF:QN
+*CHI:	黄 颜色 .
+%mor:	adj|huang2=yellow n|yan2se4=color .
+%gra:	1|0|PROOT 2|1|APP 3|0|PROOT
+%spa:	$DJF:NA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	看看 .
+%mor:	v|kan4&DIM=look .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:RP
+*MOT:	眼睛 在 看 吗 ?
+%mor:	n|yan3jing1=eye adv|zai4=currently v|kan4=look sfp|ma ?
+%gra:	1|0|PROOT 2|4|MOD 3|2|CPT 4|5|ENDP 5|0|NONE
+%spa:	$DCA:YQ
+*CHI:	看 什么 ?
+%mor:	v|kan4=look pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|NONE
+%spa:	$DCC:QA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	看看 我 手 里 拿 的 这 个 东西 啊 ?
+%mor:	v|kan4&DIM=look pro:per|wo3=I n|shou3=hand post|li3=inside
+	v|na2=hold cleft|de det|zhe4=this cl|ge4 n|dong1xi=thing sfp|a1 ?
+%gra:	1|3|JCT 2|1|PROOT 3|5|SUBJ 4|3|VD 5|0|PROOT 6|10|MOD 7|6|PROOT
+	8|6|OBJ 9|6|PROOT 10|0|PROOT 11|0|PROOT
+%spa:	$DJF:SA
+*CHI:	这 是 绿 颜色 .
+%mor:	pro:dem|zhe4=this v:cop|shi4=is adj|lv4=green n|yan2se4=color .
+%gra:	1|0|PROOT 2|5|ENDP 3|2|PROOT 4|2|OBJ2 5|0|PROOT
+%spa:	$DJF:DS
+%tur:	$turn
+%cod:	$CCD
+*MOT:	去 .
+%mor:	v:dirc|qu4=go .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DJF:SA
+*MOT:	哎呀 .
+%mor:	co|ai1ya1=jeez .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:DS
+*CHI:	这 个 .
+%mor:	det|zhe4=this cl|ge4 .
+%gra:	1|3|ENDP 2|1|LP 3|0|PROOT
+%spa:	$DJF:ST
+%act:	C在弄自己手中的小积木车轮子
+*MOT:	把 它 做 好 呀 .
+%mor:	prep|ba3=object_marker pro:per|ta1=it v|zuo4=make adj|hao3=good
+	sfp|ya .
+%gra:	1|0|OBJ 2|3|SUBJ 3|0|PROOT 4|0|NONE 5|6|ENDP 6|4|PROOT
+%spa:	$DJF:RP
+*MOT:	这 个 什么 形状 的 ?
+%mor:	det|zhe4=this cl|ge4 pro:wh|shen2me=what n|xing2zhuang4=form
+	poss|de ?
+%gra:	1|0|PROOT 2|0|PROOT 3|5|ENDP 4|3|PTOP 5|6|ENDP 6|0|PROOT
+%spa:	$DHA:QN
+%act:	M抢过C手中的积木问C
+*CHI:	蓝 颜色 的 .
+%mor:	n|lan2=blue n|yan2se4=color poss|de .
+%gra:	1|2|JCT 2|0|NONE 3|4|ENDP 4|2|PROOT
+%spa:	$DJF:NA
+%tur:	$turn
+*MOT:	什么 形状 的 ?
+%mor:	pro:wh|shen2me=what n|xing2zhuang4=form poss|de ?
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:QN
+%act:	C想走开, M拉住C
+*MOT:	告诉 妈妈 什么 形状 的 ?
+%mor:	v|gao4su4=tell n:relat|ma1&DIM=mother pro:wh|shen2me=what
+	n|xing2zhuang4=form poss|de ?
+%gra:	1|0|PROOT 2|0|PROOT 3|5|ENDP 4|3|PTOP 5|6|ENDP 6|0|PROOT
+%spa:	$NIA:RP
+*CHI:	咖啡 色 .
+%mor:	n|ka1fei1=coffee cl|se4=kind .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT
+%spa:	$DJF:NA
+%tur:	$turn
+*MOT:	哪里 咖啡 色 的 .
+%mor:	pro:wh|na3li3=where n|ka1fei1=coffee cl|se4=kind poss|de .
+%gra:	1|0|PROOT 2|1|PROOT 3|0|OBJ 4|5|ENDP 5|0|PROOT
+%spa:	$DJF:AQ
+%act:	M帮C坐正
+*MOT:	坐 好 .
+%mor:	v|zuo4=sit adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	不 要 离开 .
+%mor:	adv|bu4=not v:aux|yao4=should v|li2kai1=leave .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$NIA:PF
+*MOT:	哟 .
+%mor:	co|yo=yelp .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$MRK:MK
+%act:	C在玩手中的车轮子
+*MOT:	车子 的 轮子 .
+%mor:	n|che1zi=vehicle poss|de n|lun2zi=wheel .
+%gra:	1|2|ENDP 2|0|ROOT 3|2|PROOT 4|2|ENUM
+%spa:	$DHA:ST
+*MOT:	轮子 装 .
+%mor:	n|lun2zi=wheel v|zhuang1=install .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DJF:RP
+*MOT:	车子 的 轮子 .
+%mor:	n|che1zi=vehicle poss|de n|lun2zi=wheel .
+%gra:	1|2|ENDP 2|0|ROOT 3|2|PROOT 4|2|ENUM
+%spa:	$DJF:ST
+*MOT:	轮子 加 上去 .
+%mor:	n|lun2zi=wheel v|jia1=dramatise v|shang4qu4=go_up .
+%gra:	1|3|SUBJ 2|1|PUNCT 3|0|PROOT 4|0|PROOT
+%spa:	$DJF:RP
+*CHI:	车轮子 .
+%mor:	n|che1lun2-NOM=wheel .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:AD
+*CHI:	车轮子 .
+%mor:	n|che1lun2-NOM=wheel .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:AD
+*MOT:	怎么 装 ?
+%mor:	adv:wh|zen3me=how v|zhuang1=install ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|NONE
+%spa:	$DJF:QN
+*CHI:	车轮子 .
+%mor:	n|che1lun2-NOM=wheel .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:ST
+%act:	C装
+*MOT:	这 个 是 怎么 装 .
+%mor:	det|zhe4=this cl|ge4 v:cop|shi4=is adv:wh|zen3me=how
+	v|zhuang1=install .
+%gra:	1|2|DET 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|NONE 6|5|PROOT
+%spa:	$DJF:AQ
+*MOT:	不 是 这样 装 的 .
+%mor:	adv|bu4=not v:cop|shi4=is pro:dem|zhe4yang4=so_such
+	v|zhuang1=install cleft|de .
+%gra:	1|0|PROOT 2|0|PROOT 3|2|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$DJF:CR
+*MOT:	不 对 的 .
+%mor:	adv|bu4=not v|dui4=adjust cleft|de .
+%gra:	1|0|PROOT 2|1|SRL 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:CR
+*MOT:	重 装 .
+%mor:	adv|chong2=again v|zhuang1=install .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DJF:RP
+*MOT:	装 这 个 .
+%mor:	v|zhuang1=install det|zhe4=this cl|ge4 .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$DJF:RP
+*MOT:	快 点 .
+%mor:	adv|kuai4=quickly v|dian3=tap .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DJF:RP
+*CHI:	轮子 .
+%mor:	n|lun2zi=wheel .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:ST
+*CHI:	车轮子 .
+%mor:	n|che1lun2-NOM=wheel .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:ST
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	这 是 什么 啦 ?
+%mor:	pro:dem|zhe4=this v:cop|shi4=is pro:wh|shen2me=what sfp|la1 ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$DJF:QN
+*MOT:	这 是 什么 啦 ?
+%mor:	pro:dem|zhe4=this v:cop|shi4=is pro:wh|shen2me=what sfp|la1 ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$DHA:QN
+*MOT:	你 说说 .
+%mor:	pro:per|ni3=you v|shuo1&DIM=say .
+%gra:	1|2|SUBJ 2|0|OBJ 3|0|PROOT
+%spa:	$DHA:RP
+*MOT:	啊 ?
+%mor:	sfp|a1 ?
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DJF:YQ
+%act:	C朝外看
+*MOT:	你 在 看 什么 ?
+%mor:	pro:per|ni3=you adv|zai4=currently v|kan4=look pro:wh|shen2me=what
+	?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DCA:QN
+*MOT:	就 会 看 了 .
+%mor:	adv|jiu4=just v:aux|hui4=will v|kan4=look asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|OBJ 5|0|PROOT
+%spa:	$DCA:DS
+*CHI:	这 是 什么 呀 ?
+%mor:	pro:dem|zhe4=this v:cop|shi4=is pro:wh|shen2me=what sfp|ya ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$DHA:QN
+%cod:	$CID
+%act:	C拿起警察叔叔的积木问M
+*MOT:	你 说 这 是 谁 啦 ?
+%mor:	pro:per|ni3=you v|shuo1=say pro:dem|zhe4=this v:cop|shi4=is
+	pro:wh|shei2=who sfp|la1 ?
+%gra:	1|0|PROOT 2|1|SUBJ 3|4|SUBJ 4|0|PROOT 5|0|PROOT 6|7|ENDP 7|0|PROOT
+%spa:	$DJF:QA
+*CHI:	滑滑梯 .
+%mor:	n|hua2hua2ti1=playground_slide .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:SA
+*MOT:	哪里 有 滑滑梯 呀 ?
+%mor:	pro:wh|na3li3=where v|you3=have n|hua2hua2ti1=playground_slide
+	sfp|ya ?
+%gra:	1|0|PROOT 2|0|NONE 3|2|PROOT 4|2|PROOT 5|2|PROOT
+%spa:	$DJF:DS
+*MOT:	我 问 你 这 个 谁 ?
+%mor:	pro:per|wo3=I v|wen4=ask pro:per|ni3=you det|zhe4=this cl|ge4
+	pro:wh|shei2=who ?
+%gra:	1|0|PROOT 2|7|ENDP 3|2|PROOT 4|2|PROOT 5|2|PROOT 6|2|PROOT 7|0|NONE
+%spa:	$DHA:QN
+*CHI:	警察 叔叔 .
+%mor:	n|jing3cha2=policeman n:relat|shu2&DIM=uncle .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT
+%spa:	$DJF:SA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	嗯 .
+%mor:	co|en1=okay .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:AC
+*MOT:	警察 叔叔 是 干 什么 的 ?
+%mor:	n|jing3cha2=policeman n:relat|shu2&DIM=uncle v:cop|shi4=is
+	v|gan4=do pro:wh|shen2me=what poss|de ?
+%gra:	1|0|PROOT 2|0|PROOT 3|6|ENDP 4|3|PROOT 5|3|PUNCT 6|7|ENDP 7|0|PROOT
+%spa:	$DNP:QN
+*CHI:	警察 叔叔 是 装 空气 的 .
+%mor:	n|jing3cha2=policeman n:relat|shu2&DIM=uncle v:cop|shi4=is
+	v|zhuang1=install n|kong1qi4=air poss|de .
+%gra:	1|0|PROOT 2|0|PROOT 3|6|CMOD 4|3|PROOT 5|3|PROOT 6|7|ENDP 7|0|PROOT
+%spa:	$DNP:NA
+%tur:	$turn
+*MOT:	警察 叔叔 是 装 空气 的 ?
+%mor:	n|jing3cha2=policeman n:relat|shu2&DIM=uncle v:cop|shi4=is
+	v|zhuang1=install n|kong1qi4=air poss|de ?
+%gra:	1|0|PROOT 2|3|SUBJ 3|0|PROOT 4|0|PROOT 5|0|NONE 6|7|ENDP 7|5|PROOT
+%spa:	$DNP:AQ
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:FP
+%act:	C要拿警察 叔叔
+*MOT:	指挥 交通 .
+%mor:	v|zhi3hui1=conduct n|jiao1tong1=traffic .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DNP:CT
+*CHI:	指挥 交通 .
+%mor:	v|zhi3hui1=conduct n|jiao1tong1=traffic .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DNP:RT
+%tur:	$turn
+*MOT:	警察 叔叔 干 什么 的 ?
+%mor:	n|jing3cha2=policeman n:relat|shu2&DIM=uncle adj|gan1=dry
+	pro:wh|shen2me=what poss|de ?
+%gra:	1|0|PROOT 2|0|PROOT 3|4|JCT 4|0|PROOT 5|4|BEGP 6|0|NONE
+%spa:	$DNP:QN
+*CHI:	指挥 交通 .
+%mor:	v|zhi3hui1=conduct n|jiao1tong1=traffic .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DNP:SA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	还有 呢 ?
+%mor:	conj|hai2you3=as_well_as sfp|ne ?
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DNP:EQ
+*MOT:	还有 干 什么 的 ?
+%mor:	conj|hai2you3=as_well_as v|gan4=do pro:wh|shen2me=what poss|de ?
+%gra:	1|0|PROOT 2|1|OBJ 3|5|JCT 4|5|ENDP 5|0|NONE
+%spa:	$DNP:EQ
+*CHI:	还有 +/.
+%mor:	conj|hai2you3=as_well_as +/.
+%gra:	1|0|PROOT 2|0|NONE
+%spa:	$DNP:NA
+%cod:	$CCD
+*MOT:	你 说 .
+%mor:	pro:per|ni3=you v|shuo1=say .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|NONE
+%spa:	$NIA:RP
+*MOT:	警察 叔叔 还 能 干 什么 ?
+%mor:	n|jing3cha2=policeman n:relat|shu2&DIM=uncle adv|hai2=still
+	v:aux|neng2=can v|gan4=do pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|OBJ 3|7|ENDP 4|3|PROOT 5|3|CPT 6|3|SRL 7|0|NONE
+%spa:	$DNP:QN
+*CHI:	还 +/.
+%mor:	adv|hai2=still +/.
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DNP:NA
+%cod:	$CCD
+*MOT:	还 可以 干 什么 ?
+%mor:	adv|hai2=still v:aux|ke3yi3=may v|gan4=do pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DNP:QN
+*CHI:	还 有 +/.
+%mor:	adv|hai2=still v|you3=have +/.
+%gra:	1|0|OBJ 2|0|PROOT 3|0|PROOT
+%spa:	$DNP:NA
+%cod:	$CCD
+*MOT:	还 可以 干 什么 ?
+%mor:	adv|hai2=still v:aux|ke3yi3=may v|gan4=do pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DNP:QN
+*CHI:	还 要 抓 东西 .
+%mor:	adv|hai2=still v:aux|yao4=should v|zhua1=catch n|dong1xi=thing .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|PROOT 5|0|PROOT
+%spa:	$DNP:SA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	抓 什么 ?
+%mor:	v|zhua1=catch pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|NONE
+%spa:	$DCC:QN
+*CHI:	抓 什么 ?
+%mor:	v|zhua1=catch pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|NONE
+%spa:	$DCC:RT
+%cod:	$CCD
+*MOT:	抓 坏 人 .
+%mor:	v|zhua1=catch adj|huai4=bad n|ren2=person .
+%gra:	1|0|PROOT 2|0|PROOT 3|2|APP 4|0|PROOT
+%spa:	$DNP:SA
+*CHI:	抓 坏 人 看 &哈哈 .
+%mor:	v|zhua1=catch adj|huai4=bad n|ren2=person v|kan4=look .
+%gra:	1|0|PROOT 2|0|PROOT 3|4|SUBJ 4|0|PROOT 5|0|PROOT
+%spa:	$DNP:AP
+%act:	C朝外看
+%cod:	$CCD
+%tur:	$turn
+*MOT:	看 好 .
+%mor:	v|kan4=look adj|hao3=good .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+*MOT:	不 动 .
+%mor:	adv|bu4=not v|dong4=move .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DCA:CR
+*MOT:	你 看 这 个 .
+%mor:	pro:per|ni3=you v|kan4=look det|zhe4=this cl|ge4 .
+%gra:	1|2|SUBJ 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$NIA:RP
+*MOT:	做 好 了 给 你 看 .
+%mor:	v|zuo4=make adj|hao3=good asp|le prep|gei3=for pro:per|ni3=you
+	v|kan4=look .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|PROOT 5|0|PROOT 6|5|SUBJ 7|0|NONE
+%spa:	$NFA:PD
+*MOT:	警察 叔叔 是 抓 什么 的 ?
+%mor:	n|jing3cha2=policeman n:relat|shu2&DIM=uncle v:cop|shi4=is
+	v|zhua1=catch pro:wh|shen2me=what poss|de ?
+%gra:	1|0|PROOT 2|0|PROOT 3|6|ENDP 4|3|PROOT 5|3|PUNCT 6|7|ENDP 7|0|PROOT
+%spa:	$DNP:QN
+*CHI:	抓 坏 人 .
+%mor:	v|zhua1=catch adj|huai4=bad n|ren2=person .
+%gra:	1|0|PROOT 2|0|PROOT 3|2|APP 4|0|PROOT
+%cod:	$CCD
+%spa:	$DNP:SA
+*MOT:	你 是 坏 人 吗 ?
+%mor:	pro:per|ni3=you v:cop|shi4=is adj|huai4=bad n|ren2=person sfp|ma ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$DHS:YQ
+*CHI:	不 是 坏 人 .
+%mor:	adv|bu4=not v:cop|shi4=is adj|huai4=bad n|ren2=person .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DSS:AN
+%tur:	$turn
+%cod:	$CCD
+*MOT:	你 就 是 坏 人 .
+%mor:	pro:per|ni3=you adv|jiu4=just v:cop|shi4=is adj|huai4=bad
+	n|ren2=person .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|0|PROOT
+%spa:	$DSS:DW
+*CHI:	不 是 坏 人 .
+%mor:	adv|bu4=not v:cop|shi4=is adj|huai4=bad n|ren2=person .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DSS:DW
+%cod:	$CCD
+%tur:	$turn
+*MOT:	你 是 坏 人 .
+%mor:	pro:per|ni3=you v:cop|shi4=is adj|huai4=bad n|ren2=person .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DSS:DW
+*CHI:	妈 是 坏 人 .
+%mor:	n:relat|ma1=mother v:cop|shi4=is adj|huai4=bad n|ren2=person .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$DSS:CS
+%cod:	$CCD
+*MOT:	妈 是 什么 ?
+%mor:	n:relat|ma1=mother v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|NONE
+%spa:	$DCC:QN
+*CHI:	你 就 是 坏 人 .
+%mor:	pro:per|ni3=you adv|jiu4=just v:cop|shi4=is adj|huai4=bad
+	n|ren2=person .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|0|PROOT
+%spa:	$DCC:SA
+%cod:	$CCD
+%tur:	$turn
+*MOT:	不 好 乱 讲 的 啊 .
+%mor:	adv|bu4=not adj|hao3=good adv|luan4=carelessly v|jiang3=speak
+	cleft|de sfp|a1 .
+%gra:	1|0|PROOT 2|0|PROOT 3|2|OBJ 4|3|SRL 5|7|ENDP 6|5|END 7|0|PROOT
+%spa:	$NIA:DS
+*CHI:	乱 讲 要 打 的 .
+%mor:	adv|luan4=carelessly v|jiang3=speak v:aux|yao4=should v|da3=hit
+	cleft|de .
+%gra:	1|0|OBJ 2|1|ATT 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$NIA:ST
+%cod:	$CCD
+%tur:	$turn
+*MOT:	哎 ‡ 要 打 的 .
+%mor:	co|ai1=ugh beg|beg v:aux|yao4=should v|da3=hit cleft|de .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|3|POSS 5|6|ENDP 6|0|PROOT
+%spa:	$NIA:AP
+*MOT:	这 个 是 什么 ?
+%mor:	det|zhe4=this cl|ge4 v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|NONE
+%spa:	$DHA:QN
+%act:	M抢过C手中的积木问C
+*MOT:	我 也 不 知道 是 什么 .
+%mor:	pro:per|wo3=I adv|ye3=also adv|bu4=not v|zhi1dao4=know
+	v:cop|shi4=is pro:wh|shen2me=what .
+%gra:	1|0|PROOT 2|7|ENDP 3|2|PROOT 4|3|SRL 5|2|SRL 6|2|PROOT 7|0|NONE
+%spa:	$DJF:SA
+*MOT:	这 个 是 什么 „ 知道 吗 ?
+%mor:	det|zhe4=this cl|ge4 v:cop|shi4=is pro:wh|shen2me=what end|end
+	v|zhi1dao4=know sfp|ma ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|7|ENDP 6|5|ROOT 7|8|ENDP
+	8|0|PROOT
+%spa:	$DJF:QN
+*MOT:	轮子 呀 ?
+%mor:	n|lun2zi=wheel sfp|ya ?
+%gra:	1|0|PROOT 2|3|ENDP 3|0|NONE
+%spa:	$DJF:SA
+*MOT:	装 上去 „ 好 吗 ?
+%mor:	v|zhuang1=install v|shang4qu4=go_up end|end adj|hao3=good sfp|ma ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|NONE 5|6|ENDP 6|4|PROOT
+%spa:	$DJF:RP
+*MOT:	哎 ‡ 这 怎么 办 ?
+%mor:	co|ai1=ugh beg|beg pro:dem|zhe4=this adv:wh|zen3me=how
+	v|ban4=handle ?
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|OBJ 5|4|ATT 6|0|NONE
+%spa:	$DJF:QN
+*MOT:	装 上去 .
+%mor:	v|zhuang1=install v|shang4qu4=go_up .
+%gra:	1|0|PROOT 2|1|JCT 3|0|PROOT
+%spa:	$DJF:RP
+*MOT:	这 是 警 车 这 是 .
+%mor:	pro:dem|zhe4=this v:cop|shi4=is n|jing3=police n|che1=vehicle
+	pro:dem|zhe4=this v:cop|shi4=is .
+%gra:	1|0|OBJ 2|4|JCT 3|2|PROOT 4|0|PROOT 5|6|SUBJ 6|0|PROOT 7|0|PROOT
+%spa:	$DJF:ST
+*MOT:	不 好 拉 车车 .
+%mor:	adv|bu4=not adj|hao3=good v|la1=pull n|che1&DIM=vehicle .
+%gra:	1|0|OBJ 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DJF:ST
+*MOT:	会 开 吗 ?
+%mor:	v:aux|hui4=will v:resc|kai1=open sfp|ma ?
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:YQ
+*CHI:	不 会 开 .
+%mor:	adv|bu4=not v:aux|hui4=will v:resc|kai1=open .
+%gra:	1|0|PROOT 2|1|SRL 3|1|CPT 4|0|PROOT
+%spa:	$DJF:AN
+%tur:	$turn
+*MOT:	不 会 开 .
+%mor:	adv|bu4=not v:aux|hui4=will v:resc|kai1=open .
+%gra:	1|0|PROOT 2|1|SRL 3|1|CPT 4|0|PROOT
+*MOT:	不 是 在 开 吗 ?
+%mor:	adv|bu4=not v:cop|shi4=is prep|zai4=at v:resc|kai1=open sfp|ma ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$DJF:AQ
+*MOT:	再 装 一 个 就 会 开 了 .
+%mor:	adv|zai4=again v|zhuang1=install num|yi1=one cl|ge4 adv|jiu4=just
+	v:aux|hui4=will v:resc|kai1=open asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|0|PROOT
+	7|0|PROOT 8|0|OBJ 9|0|PROOT
+%spa:	$NIA:RP
+*MOT:	这 个 是 方向盘 .
+%mor:	det|zhe4=this cl|ge4 v:cop|shi4=is n|fang1xiang4pan2=steering_wheel
+	.
+%gra:	1|0|PROOT 2|0|PROOT 3|4|CMOD 4|0|PROOT 5|0|PROOT
+*MOT:	知道 吧 ?
+%mor:	v|zhi1dao4=know sfp|ba ?
+%gra:	1|0|OBJ 2|3|ENDP 3|0|PROOT
+%spa:	$DJF:YQ
+*MOT:	警 车 呜呜@o [x 2] .
+%mor:	n|jing3=police n|che1=vehicle on|呜呜 .
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|2|ENUM
+%spa:	$DJF:ST
+*MOT:	警 车 .
+%mor:	n|jing3=police n|che1=vehicle .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DJF:ST
+%act:	一 个 积木 掉 了 下去
+*MOT:	拣 起来 .
+%mor:	v|jian3=select v|qi3lai2=come_up .
+%gra:	1|0|PROOT 2|1|VD 3|0|PROOT
+%spa:	$NIA:RP
+*CHI:	摩托车 .
+%mor:	n|mo2tuo1che1=motorcycle .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:CT
+*MOT:	拣 起来 .
+%mor:	v|jian3=select v|qi3lai2=come_up .
+%gra:	1|0|PROOT 2|1|VD 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	望尘 ‡ 拣 起来 .
+%mor:	n:name|wang4chen2 beg|beg v|jian3=select v|qi3lai2=come_up .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DHA:RP
+*MOT:	自己 拣 .
+%mor:	pro:per|zi4ji3=self v|jian3=select .
+%gra:	1|0|PROOT 2|1|SUBJ 3|0|NONE
+%spa:	$NIA:RP
+*MOT:	这 边 .
+%mor:	pro:dem|zhe4=this n|bian1=side .
+%gra:	1|0|NONE 2|1|LP 3|1|SUBJ
+%spa:	$DHA:RP
+%act:	C拣
+*CHI:	玩 好 去 玩 电脑 .
+%mor:	v|wan2=play adv|hao3=very v:dirc|qu4=go v|wan2=play
+	n|dian4nao3=computer .
+%gra:	1|0|PROOT 2|6|ENDP 3|2|CPT 4|2|SRL 5|2|SRL 6|0|PROOT
+%spa:	$NFA:FP
+%cod:	$CID
+*MOT:	好 ‡ 玩 好 去 玩 电脑 .
+%mor:	adj|hao3=good beg|beg v|wan2=play adv|hao3=very v:dirc|qu4=go
+	v|wan2=play n|dian4nao3=computer .
+%gra:	1|0|PROOT 2|1|JCT 3|1|APP 4|5|JCT 5|0|NONE 6|5|PROOT 7|6|OBJ
+	8|5|PROOT
+%spa:	$NFA:PA
+*MOT:	坐 好 .
+%mor:	v|zuo4=sit adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*CHI:	玩 好 去 玩 电脑 .
+%mor:	v|wan2=play adv|hao3=very v:dirc|qu4=go v|wan2=play
+	n|dian4nao3=computer .
+%gra:	1|0|PROOT 2|6|ENDP 3|2|CPT 4|2|SRL 5|2|SRL 6|0|PROOT
+%spa:	$NFA:ST
+%cod:	$CCD
+*CHI:	哇喔@o .
+%mor:	on|哇喔 .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$MRK:MK
+%cod:	$CID
+*MOT:	哎呀 ‡ 吓 死 人 了 .
+%mor:	co|ai1ya1=jeez beg|beg v|xia4=scare adj|si3=dead n|ren2=person
+	asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|4|APP 6|0|OBJ 7|0|NONE
+%spa:	$DRE:DS
+*MOT:	你 不 要 碰 掉 下来 „ 知道 吧 ?
+%mor:	pro:per|ni3=you adv|bu4=not v:aux|yao4=should v|peng4=bump
+	v:resc|diao4=done v|xia4lai2=come_down end|end v|zhi1dao4=know
+	sfp|ba ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|3|POSS 5|6|LINK 6|0|OBJ 7|0|PROOT
+	8|7|ROOT 9|10|ENDP 10|0|PROOT
+%spa:	$NIA:RP
+*MOT:	桌子 碰 掉 下来 .
+%mor:	n|zhuo1zi=table v|peng4=bump v:resc|diao4=done v|xia4lai2=come_down
+	.
+%gra:	1|0|PROOT 2|5|ENDP 3|2|CPRED 4|2|SRL 5|0|PROOT
+*MOT:	你 不得了 啊 .
+%mor:	pro:per|ni3=you adj|bu4de2liao3=serious sfp|a1 .
+%gra:	1|2|SUBJ 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$NIA:ST
+*MOT:	桌子 碰 掉 下来 .
+%mor:	n|zhuo1zi=table v|peng4=bump v:resc|diao4=done v|xia4lai2=come_down
+	.
+%gra:	1|0|PROOT 2|5|ENDP 3|2|CPRED 4|2|SRL 5|0|PROOT
+*MOT:	你 要 倒霉 了 .
+%mor:	pro:per|ni3=you v:aux|yao4=should v|dao3mei2=have_bad_luck asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|2|POSS 4|0|OBJ 5|0|PROOT
+%spa:	$NIA:ST
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	哎哟 ‡ 这 个 桌子 太 小 了 .
+%mor:	co|ai1yo1=arrgh beg|beg det|zhe4=this cl|ge4 n|zhuo1zi=table
+	adv|tai4=very adj|xiao3=small asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|7|JCT 7|9|ENDP
+	8|7|PTOP 9|0|PROOT
+%spa:	$DJF:ST
+*MOT:	怎么 玩 的 ?
+%mor:	adv:wh|zen3me=how v|wan2=play cleft|de ?
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:QN
+*MOT:	装 不 上去 .
+%mor:	v|zhuang1=install adv|bu4=not v|shang4qu4=go_up .
+%gra:	1|0|PROOT 2|0|OBJ 3|2|ATT 4|0|PROOT
+%spa:	$DJF:ST
+*MOT:	装 得 上去 吗 ?
+%mor:	v|zhuang1=install v:aux|dei3=should_be v|shang4qu4=go_up sfp|ma ?
+%gra:	1|0|OBJ 2|0|PROOT 3|2|POSS 4|5|ENDP 5|0|PROOT
+%spa:	$DJF:YQ
+*CHI:	装 不 上去 .
+%mor:	v|zhuang1=install adv|bu4=not v|shang4qu4=go_up .
+%gra:	1|0|PROOT 2|0|OBJ 3|2|ATT 4|0|PROOT
+%spa:	$DJF:AN
+%tur:	$turn
+%cod:	$CCD
+*MOT:	装 不 上去 就 不 要 装 了 .
+%mor:	v|zhuang1=install adv|bu4=not v|shang4qu4=go_up adv|jiu4=just
+	adv|bu4=not v:aux|yao4=should v|zhuang1=install asp|le .
+%gra:	1|0|PROOT 2|1|PROOT 3|1|PROOT 4|0|PROOT 5|4|PROOT 6|4|PROOT 7|4|SRL
+	8|0|OBJ 9|0|NONE
+%spa:	$DJF:RP
+*MOT:	快 装 .
+%mor:	adv|kuai4=quickly v|zhuang1=install .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DJF:RP
+*MOT:	摁 得 进去 吗 ?
+%mor:	v|en4=press v:aux|dei3=should_be v|jin4qu4=go_into sfp|ma ?
+%gra:	1|0|PROOT 2|1|PROOT 3|1|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$DJF:YQ
+*CHI:	摁 不 进去 .
+%mor:	v|en4=press adv|bu4=not v|jin4qu4=go_into .
+%gra:	1|0|PROOT 2|0|OBJ 3|2|ATT 4|0|PROOT
+%spa:	$DJF:AN
+%cod:	$CCD
+*MOT:	摁 不 进去 .
+%mor:	v|en4=press adv|bu4=not v|jin4qu4=go_into .
+%gra:	1|0|PROOT 2|0|OBJ 3|2|ATT 4|0|PROOT
+%spa:	$DJF:RT
+*MOT:	换 一 个 .
+%mor:	v|huan4=change num|yi1=one cl|ge4 .
+%gra:	1|0|PROOT 2|3|MOD 3|0|PROOT 4|0|PROOT
+%spa:	$NIA:RP
+*MOT:	摁 的 进去 吗 ?
+%mor:	v|en4=press cleft|de v|jin4qu4=go_into sfp|ma ?
+%gra:	1|2|LP 2|4|MOD 3|2|PUNCT 4|5|ENDP 5|0|PROOT
+%spa:	$DJF:YQ
+*CHI:	摁 不 进去 .
+%mor:	v|en4=press adv|bu4=not v|jin4qu4=go_into .
+%gra:	1|0|PROOT 2|0|OBJ 3|2|ATT 4|0|PROOT
+%spa:	$DJF:AN
+%tur:	$turn
+%cod:	$CCD
+*MOT:	这 个 .
+%mor:	det|zhe4=this cl|ge4 .
+%gra:	1|3|ENDP 2|1|LP 3|0|PROOT
+%spa:	$DHA:ST
+*MOT:	这 个 摁 得 进去 吗 ?
+%mor:	det|zhe4=this cl|ge4 v|en4=press v:aux|dei3=should_be
+	v|jin4qu4=go_into sfp|ma ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|3|PROOT 5|3|PROOT 6|7|ENDP
+	7|0|PROOT
+%spa:	$DJF:YQ
+*CHI:	摁 得 进去 .
+%mor:	v|en4=press v:aux|dei3=should_be v|jin4qu4=go_into .
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:AA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	摁 得 进去 „ 是 吗 ?
+%mor:	v|en4=press v:aux|dei3=should_be v|jin4qu4=go_into end|end
+	v:cop|shi4=is sfp|ma ?
+%gra:	1|0|OBJ 2|0|PROOT 3|0|NONE 4|3|PROOT 5|3|ROOT 6|3|END 7|3|ENUM
+%spa:	$DCC:YQ
+*MOT:	摁 得 进去 吗 ?
+%mor:	v|en4=press v:aux|dei3=should_be v|jin4qu4=go_into sfp|ma ?
+%gra:	1|0|PROOT 2|1|PROOT 3|1|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$DJF:YQ
+*CHI:	摁 得 进去 .
+%mor:	v|en4=press v:aux|dei3=should_be v|jin4qu4=go_into .
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:AA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	哎 ‡ 摁 得 进去 就 好 了 .
+%mor:	co|ai1=ugh beg|beg v|en4=press v:aux|dei3=should_be
+	v|jin4qu4=go_into adv|jiu4=just adj|hao3=good asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|3|PROOT 5|3|PROOT 6|0|PROOT 7|0|PROOT
+	8|0|OBJ 9|0|NONE
+%spa:	$DJF:ST
+*MOT:	这样 摁 就 行 啊 .
+%mor:	pro:dem|zhe4yang4=so_such v|en4=press adv|jiu4=just
+	v|xing2=be_all_right sfp|a1 .
+%gra:	1|0|PROOT 2|1|SRL 3|6|ENDP 4|3|CPT 5|3|SRL 6|0|NONE
+%spa:	$DJF:ST
+*CHI:	看 滑滑梯 .
+%mor:	v|kan4=look n|hua2hua2ti1=playground_slide .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DHA:RP
+%cod:	$CID
+*MOT:	哪里 有 滑滑梯 啊 ?
+%mor:	pro:wh|na3li3=where v|you3=have n|hua2hua2ti1=playground_slide
+	sfp|a1 ?
+%gra:	1|0|OBJ 2|1|ATT 3|0|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$DCC:QN
+*CHI:	滑滑梯 呢 ?
+%mor:	n|hua2hua2ti1=playground_slide sfp|ne ?
+%gra:	1|0|PROOT 2|3|ENDP 3|0|NONE
+%spa:	$DNP:EQ
+%cod:	$CCD
+*MOT:	没 有 .
+%mor:	adv|mei2=not v|you3=have .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DNP:SA
+*MOT:	这 次 积木 里面 没 有 滑滑梯 .
+%mor:	pro:dem|zhe4=this cl|ci4=activity n|ji1mu4=toy_building_bricks
+	post|li3mian4=inside adv|mei2=not v|you3=have
+	n|hua2hua2ti1=playground_slide .
+%gra:	1|3|MOD 2|1|OBJ 3|0|OBJ 4|3|END 5|6|JCT 6|7|JCT 7|8|ENDP 8|0|PROOT
+%spa:	$DJF:GR
+*MOT:	过 一会儿 节目 就 会 有 了 .
+%mor:	adv|guo4=excessively n:tm|yi4huir4=for_a_while n|jie2mu4=program
+	adv|jiu4=just v:aux|hui4=will v|you3=have asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|4|PROOT 6|4|CPT 7|0|OBJ
+	8|0|PROOT
+%spa:	$NFA:CM
+*MOT:	等 一会儿 另外 一 个 节目 就 有 滑滑梯 了 .
+%mor:	v|deng3=wait n:tm|yi4huir4=for_a_while pro:dem|ling4wai4=another
+	num|yi1=one cl|ge4 n|jie2mu4=program adv|jiu4=just v|you3=have
+	n|hua2hua2ti1=playground_slide asp|le .
+%gra:	1|0|OBJ 2|3|JCT 3|0|PROOT 4|6|MOD 5|4|JCT 6|0|PROOT 7|11|ENDP
+	8|7|SRL 9|7|SRL 10|7|SRL 11|0|NONE
+%spa:	$NFA:CM
+*MOT:	好 吗 ?
+%mor:	adj|hao3=good sfp|ma ?
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$NFA:YQ
+*MOT:	看 什么 呢 ?
+%mor:	v|kan4=look pro:wh|shen2me=what sfp|ne ?
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DCA:QN
+*MOT:	看 树 倒 下来 了 .
+%mor:	v|kan4=look n|shu4=tree adv|dao4=actually v|xia4lai2=come_down
+	asp|le .
+%gra:	1|0|OBJ 2|0|PROOT 3|6|ENDP 4|3|SRL 5|3|ATT 6|0|NONE
+%spa:	$DCA:SA
+*CHI:	打开 .
+%mor:	v|da3kai1=unscrew .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$NIA:RP
+%cod:	$CID
+*MOT:	你 自己 开 .
+%mor:	pro:per|ni3=you pro:per|zi4ji3=self v:resc|kai1=open .
+%gra:	1|0|PROOT 2|0|PROOT 3|2|SUBJ 4|2|SUBJ
+%spa:	$NIA:DW
+*MOT:	我 又 开 不 开 .
+%mor:	pro:per|wo3=I adv|you4=again v:resc|kai1=open adv|bu4=not
+	v:resc|kai1=open .
+%gra:	1|0|PROOT 2|4|JCT 3|2|SRL 4|6|JCT 5|4|SRL 6|0|NONE
+%spa:	$NIA:GR
+*MOT:	这 个 什么 东西 啊 ?
+%mor:	det|zhe4=this cl|ge4 pro:wh|shen2me=what n|dong1xi=thing sfp|a1 ?
+%gra:	1|0|PROOT 2|0|PROOT 3|5|MOD 4|3|SRL 5|6|ENDP 6|0|PROOT
+%spa:	$DHA:QN
+%act:	M抢过C手中的积木问C
+*CHI:	打开 这 个 .
+%mor:	v|da3kai1=unscrew det|zhe4=this cl|ge4 .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$DJF:RP
+%cod:	$CCD
+*CHI:	妈妈 ‡ 我 想 打开 这 个 .
+%mor:	n:relat|ma1&DIM=mother beg|beg pro:per|wo3=I v|xiang3=think
+	v|da3kai1=unscrew det|zhe4=this cl|ge4 .
+%gra:	1|0|PROOT 2|1|BEGP 3|5|SUBJ 4|3|SUBJ 5|8|ENDP 6|5|PROOT 7|5|OBJ
+	8|0|PROOT
+%cod:	$CCD
+%spa:	$NIA:FP
+*MOT:	我 打不开 .
+%mor:	pro:per|wo3=I v|da3kai1&QUE=unscrew .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|NONE
+%spa:	$NIA:CS
+*CHI:	有 .
+%mor:	v|you3=have .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:DW
+*CHI:	有 .
+%mor:	v|you3=have .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:DW
+*MOT:	什么 有 ?
+%mor:	pro:wh|shen2me=what v|you3=have ?
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DCC:QN
+%act:	C打喷嚏
+*MOT:	过来 .
+%mor:	v|guo4lai2=come_over .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:RP
+*MOT:	不 好 .
+%mor:	adv|bu4=not adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+*MOT:	到 那 边 去 .
+%mor:	v:resc|dao4=arrive pro:dem|na4=that adv|bian1=simultaneously
+	v:dirc|qu4=go .
+%gra:	1|3|JCT 2|1|OBJ 3|0|NONE 4|3|SRL 5|3|SUBJ
+%spa:	$NIA:PF
+*CHI:	看 哈哈 .
+%mor:	v|kan4=look co|ha1&DIM=ha .
+%gra:	1|0|OBJ 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:FP
+%cod:	$CID
+*MOT:	看 哈哈 啊 ?
+%mor:	v|kan4=look n:prop|ha1ha1=Haha_tvshow sfp|a1 ?
+%gra:	1|2|JCT 2|4|ENDP 3|2|PREPO 4|0|PROOT
+%spa:	$NIA:YQ
+*MOT:	你 有 鼻涕 .
+%mor:	pro:per|ni3=you v|you3=have n|bi2ti4=nasal_mucus .
+%gra:	1|2|SUBJ 2|0|PROOT 3|0|PROOT 4|0|PROOT
+*MOT:	哈哈 会 睬 你 呀 ?
+%mor:	n:prop|ha1ha1=Haha_tvshow n|hui4=meeting v|cai3=see pro:per|ni3=you
+	sfp|ya ?
+%gra:	1|2|JCT 2|5|POSTO 3|2|SUBJ 4|2|ATT 5|6|ENDP 6|0|NONE
+%spa:	$NIA:DW
+*MOT:	好 了 .
+%mor:	adj|hao3=good asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|NONE
+%spa:	$DJF:MK
+*MOT:	再 哼 .
+%mor:	adv|zai4=again co|heng1=humph .
+%gra:	1|0|OBJ 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	臭 小子 .
+%mor:	adj|chou4=stinky n|xiao3zi=boy .
+%gra:	1|0|PROOT 2|1|APP 3|0|PROOT
+%spa:	$DSS:ST
+*MOT:	xxx .
+%spa:	$DSS:DS
+%act:	C想走开
+*MOT:	不 能 走 过来 .
+%mor:	adv|bu4=not v:aux|neng2=can v:dirc|zou3=go_away
+	v|guo4lai2=come_over .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DCA:DS
+*MOT:	坐 到 这 边 .
+%mor:	v|zuo4=sit v:resc|dao4=arrive pro:dem|zhe4=this n|bian1=side .
+%gra:	1|4|JCT 2|1|CPRED 3|1|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$NIA:RP
+*MOT:	坐 这儿 来 .
+%mor:	v|zuo4=sit post|zhe4&DIA=here v:dirc|lai2=come .
+%gra:	1|0|PROOT 2|0|OBJ 3|4|ENDP 4|0|PROOT
+%spa:	$DHA:RP
+*CHI:	xxx .
+%spa:	$DJF:ST
+*MOT:	这 两 棵 树 一样 吗 ?
+%mor:	pro:dem|zhe4=this num|liang3=two cl|ke1 n|shu4=tree
+	adj|yi1yang4=same sfp|ma ?
+%gra:	1|0|OBJ 2|1|PROOT 3|0|OBJ 4|0|PROOT 5|0|PROOT 6|7|ENDP 7|0|PROOT
+%spa:	$DJF:YQ
+*CHI:	一样 .
+%cod:	$CCD
+%mor:	adj|yi1yang4=same .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:AA
+*MOT:	看 清楚 一样 吗 ?
+%mor:	v|kan4=look adj|qing1chu3=clear adj|yi1yang4=same sfp|ma ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$DJF:YQ
+*CHI:	不 一样 .
+%cod:	$CCD
+%mor:	adv|bu4=not adj|yi1yang4=same .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DJF:AN
+%tur:	$turn
+*MOT:	没 看 清楚, 怎么 知道 不 一样 .
+%mor:	adv|mei2=not v|kan4=look adj|qing1chu3=clear cm|cm
+	adv:wh|zen3me=how v|zhi1dao4=know adv|bu4=not adj|yi1yang4=same .
+%gra:	1|0|OBJ 2|0|OBJ 3|0|OBJ 4|0|PROOT 5|0|OBJ 6|0|OBJ 7|0|PROOT
+	8|0|PROOT 9|0|PROOT
+%spa:	$DCA:DS
+*MOT:	看看 一样 吗 ?
+%mor:	v|kan4&DIM=look adj|yi1yang4=same sfp|ma ?
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:YQ
+*CHI:	小 .
+%mor:	adj|xiao3=small .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$NIA:SI
+*CHI:	小 .
+%mor:	adj|xiao3=small .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$NIA:SI
+%act:	C又出去走动了
+*MOT:	过来 .
+%mor:	v|guo4lai2=come_over .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:RP
+*CHI:	小 积木 呢 ?
+%cod:	$CID
+%mor:	adj|xiao3=small n|ji1mu4=toy_building_bricks sfp|ne ?
+%gra:	1|3|MOD 2|1|SRL 3|4|ENDP 4|0|PROOT
+%spa:	$NIA:EQ
+*MOT:	小 积木 这里 .
+%mor:	adj|xiao3=small n|ji1mu4=toy_building_bricks post|zhe4li3=here .
+%gra:	1|2|JCT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:SA
+*MOT:	坐 好 .
+%mor:	v|zuo4=sit adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*CHI:	小 积木 呢 ?
+%mor:	adj|xiao3=small n|ji1mu4=toy_building_bricks sfp|ne ?
+%gra:	1|3|MOD 2|1|SRL 3|4|ENDP 4|0|PROOT
+%spa:	$DCC:EQ
+*MOT:	不 要 过去 .
+%mor:	adv|bu4=not v:aux|yao4=should v|guo4qu4=go_over .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$NIA:PF
+*MOT:	要 骂 了 .
+%mor:	v:aux|yao4=should v|ma4=scold asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|PROOT
+%spa:	$NIA:GR
+*CHI:	小 积木 呢 ?
+%mor:	adj|xiao3=small n|ji1mu4=toy_building_bricks sfp|ne ?
+%gra:	1|3|MOD 2|1|SRL 3|4|ENDP 4|0|PROOT
+%spa:	$NIA:EQ
+*MOT:	老师 要 骂 了 .
+%mor:	n|lao3shi1=teacher v:aux|yao4=should v|ma4=scold asp|le .
+%gra:	1|0|PROOT 2|4|AUX 3|2|POSS 4|0|OBJ 5|0|NONE
+%spa:	$NIA:WD
+*CHI:	小 积木 呢 ?
+%mor:	adj|xiao3=small n|ji1mu4=toy_building_bricks sfp|ne ?
+%gra:	1|3|MOD 2|1|SRL 3|4|ENDP 4|0|PROOT
+%spa:	$NIA:EQ
+*MOT:	不 行 .
+%mor:	adv|bu4=not v|xing2=be_all_right .
+%gra:	1|0|OBJ 2|0|OBJ 3|0|PROOT
+%spa:	$DCA:CR
+*MOT:	坐 好 .
+%mor:	v|zuo4=sit adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+%act:	M拉C坐 下
+*CHI:	没 [x 3] .
+%mor:	adv|mei2=not .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:ST
+*MOT:	没 [x 3] .
+%mor:	adv|mei2=not .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:RT
+*MOT:	看看 .
+%mor:	v|kan4&DIM=look .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:RP
+*MOT:	哪 个 大 ?
+%mor:	pro:wh|na3=where cl|ge4 v|da4=poop ?
+%gra:	1|4|ENDP 2|1|LP 3|1|PUNCT 4|0|NONE
+*MOT:	哪 个 小 ?
+%mor:	pro:wh|na3=where cl|ge4 adj|xiao3=small ?
+%gra:	1|3|JCT 2|1|LP 3|0|PROOT 4|0|NONE
+%spa:	$DJF:TQ
+%act:	M举起两棵树的积木让C比大小
+*CHI:	这 大 .
+%mor:	pro:dem|zhe4=this v|da4=poop .
+%gra:	1|2|SUBJ 2|0|PROOT 3|0|PROOT
+%cod:	$CCD
+*CHI:	这 小 .
+%mor:	pro:dem|zhe4=this adj|xiao3=small .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DJF:TA
+%cod:	$CCD
+%act:	C指着两棵树说
+*MOT:	放屁 .
+%mor:	v|fang4pi4=fart .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DJF:DS
+*CHI:	哼 .
+%mor:	co|heng1=humph .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:SI
+*CHI:	还 没 有 拿 .
+%mor:	adv|hai2=still adv|mei2=not v|you3=have v|na2=hold .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DJF:GR
+*MOT:	看 这 .
+%mor:	v|kan4=look pro:dem|zhe4=this .
+%gra:	1|0|PROOT 2|1|TAG 3|2|PUNCT
+%spa:	$DHA:RP
+%act:	一 个积木掉下去了
+*MOT:	去 拣 起来 .
+%mor:	v:dirc|qu4=go v|jian3=select v|qi3lai2=come_up .
+%gra:	1|0|OBJ 2|4|ENDP 3|2|VD 4|0|PROOT
+%spa:	$DHA:RP
+*MOT:	望尘 ‡ 听话 .
+%mor:	n:name|wang4chen2 beg|beg adj|ting1hua4=obedient .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT
+%spa:	$DHA:RP
+*MOT:	快 点 .
+%mor:	adv|kuai4=quickly v|dian3=tap .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+%act:	C拣
+*MOT:	再 给 你 这 个 小 的 .
+%mor:	adv|zai4=again v|gei3=give pro:per|ni3=you det|zhe4=this cl|ge4
+	adj|xiao3=small nom|de .
+%gra:	1|0|PROOT 2|1|SRL 3|0|PROOT 4|0|OBJ 5|0|OBJ 6|0|PROOT 7|8|ENDP
+	8|0|PROOT
+%spa:	$NIA:PD
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	拣 起来 .
+%mor:	v|jian3=select v|qi3lai2=come_up .
+%gra:	1|0|PROOT 2|1|VD 3|0|PROOT
+%spa:	$DJF:RP
+*CHI:	看 .
+%mor:	v|kan4=look .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:RP
+*CHI:	看 .
+%mor:	v|kan4=look .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:RP
+%act:	C举起拣起的积木说
+*MOT:	不 要 叫 .
+%mor:	adv|bu4=not v:aux|yao4=should v|jiao4=call .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$DRE:DS
+*MOT:	看 好 再 说 .
+%mor:	v|kan4=look adj|hao3=good adv|zai4=again v|shuo1=say .
+%gra:	1|3|JCT 2|1|PROOT 3|5|ENDP 4|3|SRL 5|0|NONE
+%spa:	$NFA:PD
+*MOT:	坐 下来 .
+%mor:	v|zuo4=sit v|xia4lai2=come_down .
+%gra:	1|0|OBJ 2|1|NOM 3|0|PROOT
+%spa:	$NIA:RP
+*CHI:	咖啡 色 的 .
+%mor:	n|ka1fei1=coffee cl|se4=kind poss|de .
+%gra:	1|0|PROOT 2|0|OBJ 3|4|ENDP 4|0|PROOT
+%spa:	$DHA:ST
+%cod:	$CID
+*MOT:	咖啡 色 的 .
+%mor:	n|ka1fei1=coffee cl|se4=kind poss|de .
+%gra:	1|0|PROOT 2|0|OBJ 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:RT
+*MOT:	你 说 哪 个 是 咖啡 色 的 啊 ?
+%mor:	pro:per|ni3=you v|shuo1=say pro:wh|na3=where cl|ge4 v:cop|shi4=is
+	n|ka1fei1=coffee cl|se4=kind nom|de sfp|a1 ?
+%gra:	1|0|PROOT 2|0|OBJ 3|5|DET 4|3|LP 5|0|OBJ 6|0|OBJ 7|0|PROOT
+	8|10|ENDP 9|8|PREPO 10|0|PROOT
+%spa:	$DCC:QN
+%act:	C拿了一 个
+*MOT:	这 个 是 绿 的 呀 .
+%mor:	det|zhe4=this cl|ge4 v:cop|shi4=is adj|lv4=green nom|de sfp|ya .
+%gra:	1|3|DET 2|1|LP 3|0|OBJ 4|0|PROOT 5|6|POSTO 6|7|ENDP 7|0|PROOT
+%spa:	$DJF:DW
+*CHI:	要 咖啡 色 的 .
+%mor:	v|yao4=want n|ka1fei1=coffee cl|se4=kind poss|de .
+%gra:	1|0|PROOT 2|1|PROOT 3|0|OBJ 4|5|ENDP 5|0|PROOT
+%spa:	$NIA:FP
+%tur:	$turn
+%cod:	$CCD
+*MOT:	要 咖啡 色 的 .
+%mor:	v|yao4=want n|ka1fei1=coffee cl|se4=kind poss|de .
+%gra:	1|0|PROOT 2|1|PROOT 3|0|OBJ 4|5|ENDP 5|0|PROOT
+%spa:	$NIA:RT
+*MOT:	哦 ‡ 这 个 是 咖啡 色 的 .
+%mor:	co|o1=chant beg|beg det|zhe4=this cl|ge4 v:cop|shi4=is
+	n|ka1fei1=coffee cl|se4=kind poss|de .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|5|PROOT 7|0|PROOT
+	8|9|ENDP 9|0|PROOT
+%spa:	$NIA:PA
+*MOT:	好 .
+%mor:	adj|hao3=good .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$NIA:MK
+%act:	M从C手中抢过树
+*MOT:	哪 个 高 ?
+%mor:	pro:wh|na3=where cl|ge4 adj|gao1=tall ?
+%gra:	1|4|ENDP 2|1|LP 3|1|PUNCT 4|0|NONE
+*MOT:	哪 个 矮 ?
+%mor:	pro:wh|na3=where cl|ge4 adj|ai3=short ?
+%gra:	1|4|ENDP 2|1|LP 3|1|PUNCT 4|0|NONE
+%spa:	$DJF:TQ
+%act:	M举起两棵树问C
+*CHI:	这 个 高 .
+%cod:	$CCD
+%mor:	det|zhe4=this cl|ge4 adj|gao1=tall .
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%tur:	$turn
+*CHI:	这 个 矮 .
+%mor:	det|zhe4=this cl|ge4 adj|ai3=short .
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:TA
+%cod:	$CCD
+%act:	C从M手中抢来一棵树
+*MOT:	哪 个 大 ?
+%mor:	pro:wh|na3=where cl|ge4 v|da4=poop ?
+%gra:	1|4|ENDP 2|1|LP 3|1|PUNCT 4|0|NONE
+*MOT:	告诉 妈妈 ?
+%mor:	v|gao4su4=tell n:relat|ma1&DIM=mother ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DJF:QN
+%act:	M想去抢
+*CHI:	我 要 自己 装 .
+%mor:	pro:per|wo3=I v:aux|yao4=should pro:per|zi4ji3=self
+	v|zhuang1=install .
+%gra:	1|0|PROOT 2|5|ENDP 3|2|PROOT 4|2|POSS 5|0|NONE
+%spa:	$DHA:RP
+%cod:	$CID
+*MOT:	你 会 装 吗 ?
+%mor:	pro:per|ni3=you v:aux|hui4=will v|zhuang1=install sfp|ma ?
+%gra:	1|3|SUBJ 2|1|PROOT 3|0|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$DJF:DR
+*MOT:	你 力气 很 大 的 嘛 .
+%mor:	pro:per|ni3=you n|li4qi4=physical_strength adv|hen3=much v|da4=poop
+	cleft|de sfp|ma .
+%gra:	1|3|SUBJ 2|1|PTOP 3|7|ENDP 4|3|CPT 5|3|ATT 6|3|END 7|0|PROOT
+%spa:	$DSS:ST
+*MOT:	你 看 哪 个 大 ?
+%mor:	pro:per|ni3=you v|kan4=look pro:wh|na3=where cl|ge4 v|da4=poop ?
+%gra:	1|0|PROOT 2|0|PROOT 3|2|SFP 4|3|LP 5|3|PUNCT 6|0|PROOT
+%spa:	$DHA:QN
+*MOT:	看 好 我 手 里 .
+%mor:	v|kan4=look adv|hao3=very pro:per|wo3=I n|shou3=hand
+	post|li3=inside .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|3|SUBJ 5|3|ATT 6|0|NONE
+%spa:	$DHA:RP
+*MOT:	哪 个 大 ?
+%mor:	pro:wh|na3=where cl|ge4 v|da4=poop ?
+%gra:	1|4|ENDP 2|1|LP 3|1|PUNCT 4|0|NONE
+%spa:	$DJF:QN
+*CHI:	这 个 大 .
+%mor:	det|zhe4=this cl|ge4 v|da4=poop .
+%gra:	1|3|DET 2|1|LP 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:SA
+%cod:	$CCD
+%tur:	$turn
+*MOT:	哪 个 小 啊 ?
+%mor:	pro:wh|na3=where cl|ge4 adj|xiao3=small sfp|a1 ?
+%gra:	1|3|JCT 2|1|LP 3|0|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$DJF:QN
+*CHI:	这 个 小 .
+%mor:	det|zhe4=this cl|ge4 adj|xiao3=small .
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:NA
+%cod:	$CCD
+%tur:	$turn
+*MOT:	哪 个 小 .
+%mor:	pro:wh|na3=where cl|ge4 adj|xiao3=small .
+%gra:	1|3|JCT 2|1|LP 3|0|PROOT 4|0|PROOT
+%spa:	$DJF:AQ
+%act:	M对C的回答很不 满意, 推了C一下
+*CHI:	装 上去 .
+%mor:	v|zhuang1=install v|shang4qu4=go_up .
+%gra:	1|0|PROOT 2|1|JCT 3|0|PROOT
+%spa:	$DJF:RP
+%cod:	$CID
+*MOT:	你 装 呀 .
+%mor:	pro:per|ni3=you v|zhuang1=install sfp|ya .
+%gra:	1|0|OBJ 2|0|NONE 3|2|PROOT 4|2|PROOT
+%spa:	$NIA:CS
+*CHI:	你 也 装 .
+%mor:	pro:per|ni3=you adv|ye3=also v|zhuang1=install .
+%gra:	1|0|PROOT 2|4|ENDP 3|2|SRL 4|0|NONE
+%spa:	$NIA:RP
+%tur:	$turn
+%cod:	$CCD
+*MOT:	装 什么 ?
+%mor:	v|zhuang1=install pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|NONE
+%spa:	$NIA:QN
+*CHI:	变 魔术 .
+%mor:	v|bian4=change n|mo2shu4=magic .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:SA
+*MOT:	你 会 变 魔术 啊 ?
+%mor:	pro:per|ni3=you v:aux|hui4=will v|bian4=change n|mo2shu4=magic
+	sfp|a1 ?
+%gra:	1|3|SUBJ 2|1|PROOT 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$NIA:AQ
+*MOT:	帮帮忙 啊 .
+%mor:	v|bang1bang1mang2=help sfp|a1 .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$NIA:DW
+*MOT:	哦 ‡ 上 次 那 个 谁 给 你 变 魔术 的 ?
+%mor:	co|o1=chant beg|beg v:dirc|shang4=go_up adj|ci4=inferior
+	det|na4=that cl|ge4 pro:wh|shei2=who prep|gei3=for pro:per|ni3=you
+	v|bian4=change n|mo2shu4=magic poss|de ?
+%gra:	1|0|OBJ 2|0|OBJ 3|0|PROOT 4|7|JCT 5|4|OBJ 6|4|OBJ 7|0|OBJ 8|0|PROOT
+	9|0|PROOT 10|9|SUBJ 11|0|NONE 12|13|ENDP 13|11|PROOT
+%spa:	$DNP:QN
+*MOT:	叫 什么 ?
+%mor:	v|jiao4=call pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|NONE
+%spa:	$DNP:QN
+*MOT:	叫 谁 会 变 魔术 的 ?
+%mor:	v|jiao4=call pro:wh|shei2=who v:aux|hui4=will v|bian4=change
+	n|mo2shu4=magic poss|de ?
+%gra:	1|5|JCT 2|1|OBJ 3|1|PROOT 4|1|PROOT 5|0|NONE 6|7|ENDP 7|5|PROOT
+%spa:	$DNP:QN
+*CHI:	看 哈哈 .
+%mor:	v|kan4=look co|ha1&DIM=ha .
+%gra:	1|0|OBJ 2|0|PROOT 3|0|PROOT
+%cod:	$CID
+%spa:	$DHA:FP
+*MOT:	不 要 看 .
+%mor:	adv|bu4=not v:aux|yao4=should v|kan4=look .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$NIA:DW
+*MOT:	拍 好 再 看 .
+%mor:	v|pai1=clap adj|hao3=good adv|zai4=again v|kan4=look .
+%gra:	1|3|JCT 2|1|OBJ 3|5|ENDP 4|3|SRL 5|0|NONE
+%spa:	$NFA:PD
+*MOT:	妈妈 在 你 .
+%mor:	n:relat|ma1&DIM=mother prep|zai4=at pro:per|ni3=you .
+%gra:	1|0|PROOT 2|4|ENDP 3|2|APP 4|0|PROOT
+%spa:	$NIA:ST
+*MOT:	妈妈 要 打 了 .
+%mor:	n:relat|ma1&DIM=mother v:aux|yao4=should v|da3=hit asp|le .
+%gra:	1|0|PROOT 2|4|AUX 3|2|POSS 4|0|OBJ 5|0|NONE
+%spa:	$NIA:WD
+*CHI:	咦 .
+%mor:	co|yi2=disapproval .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$TXT:TX
+*MOT:	那 个 谁 会 变 魔术 ?
+%mor:	det|na4=that cl|ge4 pro:wh|shei2=who v:aux|hui4=will v|bian4=change
+	n|mo2shu4=magic ?
+%gra:	1|0|PROOT 2|0|OBJ 3|6|SUBJ 4|3|PROOT 5|4|POSS 6|0|PROOT 7|0|NONE
+%spa:	$DNP:QN
+*MOT:	思远 .
+%mor:	n:name|si1yuan3 .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DNP:SA
+*MOT:	思远 .
+%mor:	n:name|si1yuan3 .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DNP:CT
+*MOT:	思远 会 变 魔术 „ 对 吧 ?
+%mor:	n:name|si1yuan3 v:aux|hui4=will v|bian4=change n|mo2shu4=magic
+	end|end v|dui4=adjust sfp|ba ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|5|ROOT 7|8|ENDP
+	8|0|PROOT
+%spa:	$DNP:YQ
+*MOT:	是 吧 ?
+%mor:	v:cop|shi4=is sfp|ba ?
+%gra:	1|3|ENDP 2|1|END 3|0|NONE
+%spa:	$DNP:YQ
+*MOT:	思远 是 怎么 变 的 ?
+%mor:	n:name|si1yuan3 v:cop|shi4=is adv:wh|zen3me=how v|bian4=change
+	cleft|de ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$DNP:QN
+*MOT:	拍 个 球 .
+%mor:	v|pai1=clap cl|ge4 n|qiu2=ball .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$DNP:SA
+*MOT:	没 有 了 .
+%mor:	adv|mei2=not v|you3=have asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|PROOT
+%spa:	$DNP:ST
+*MOT:	是 吧 ?
+%mor:	v:cop|shi4=is sfp|ba ?
+%gra:	1|3|ENDP 2|1|END 3|0|NONE
+%spa:	$DNP:YQ
+%act:	C在插
+*MOT:	插 不 进去 .
+%mor:	v|cha1=insert adv|bu4=not v|jin4qu4=go_into .
+%gra:	1|0|PROOT 2|0|OBJ 3|2|ATT 4|0|PROOT
+%spa:	$DJF:ST
+*MOT:	插 不 进去 的 .
+%mor:	v|cha1=insert adv|bu4=not v|jin4qu4=go_into cleft|de .
+%gra:	1|0|PROOT 2|1|PROOT 3|1|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$DJF:PF
+*CHI:	这 好 插 吗 ?
+%mor:	pro:dem|zhe4=this adj|hao3=good v|cha1=insert sfp|ma ?
+%gra:	1|0|PROOT 2|0|NONE 3|5|ENDP 4|3|PREPO 5|2|PROOT
+%spa:	$DJF:YQ
+%cod:	$CCD
+*MOT:	这 个 好 插 .
+%mor:	det|zhe4=this cl|ge4 adj|hao3=good v|cha1=insert .
+%gra:	1|0|PROOT 2|0|PROOT 3|5|ENDP 4|3|SRL 5|0|PROOT
+%spa:	$DJF:AA
+*MOT:	插 上面 来 .
+%mor:	v|cha1=insert post|shang4mian4=above v:dirc|lai2=come .
+%gra:	1|0|OBJ 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:RP
+*MOT:	这 个 上面 可以 插 .
+%mor:	det|zhe4=this cl|ge4 post|shang4mian4=above v:aux|ke3yi3=may
+	v|cha1=insert .
+%gra:	1|0|PROOT 2|3|POSTO 3|0|OBJ 4|6|ENDP 5|4|POSS 6|0|NONE
+%spa:	$DJF:RP
+*CHI:	可以 插 .
+%mor:	v:aux|ke3yi3=may v|cha1=insert .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DJF:RT
+%tur:	$turn
+%cod:	$CCD
+%act:	C插了一会看M
+*MOT:	插 进去 了 吗 ?
+%mor:	v|cha1=insert v|jin4qu4=go_into asp|le sfp|ma ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|NONE 5|4|PUNCT
+%spa:	$DJF:YQ
+%cod:	$CCD
+*CHI:	插 不 进去 .
+%mor:	v|cha1=insert adv|bu4=not v|jin4qu4=go_into .
+%gra:	1|0|PROOT 2|0|OBJ 3|2|ATT 4|0|PROOT
+%spa:	$DJF:AN
+*MOT:	那 妈妈 帮忙 .
+%mor:	pro:dem|na4=that n:relat|ma1&DIM=mother v|bang1mang2=assist .
+%gra:	1|0|PROOT 2|3|SUBJ 3|0|PROOT 4|0|PROOT
+%spa:	$DJF:SI
+*MOT:	这 个 好 插 吗 ?
+%mor:	det|zhe4=this cl|ge4 adj|hao3=good v|cha1=insert sfp|ma ?
+%gra:	1|0|PROOT 2|0|PROOT 3|5|POSTO 4|3|SRL 5|6|ENDP 6|0|PROOT
+%spa:	$DJF:YQ
+*MOT:	这 个 好 插 的 .
+%mor:	det|zhe4=this cl|ge4 adj|hao3=good v|cha1=insert cleft|de .
+%gra:	1|0|PROOT 2|3|QUANT 3|0|PROOT 4|5|LP 5|6|ENDP 6|0|PROOT
+%spa:	$DJF:AA
+*MOT:	哦 ‡ 插 不 进去 .
+%mor:	co|o1=chant beg|beg v|cha1=insert adv|bu4=not v|jin4qu4=go_into .
+%gra:	1|0|PROOT 2|1|JCT 3|0|PROOT 4|5|JCT 5|0|NONE 6|5|PROOT
+%spa:	$DJF:CT
+*MOT:	这 个 好 插 吗 ?
+%mor:	det|zhe4=this cl|ge4 adj|hao3=good v|cha1=insert sfp|ma ?
+%gra:	1|0|PROOT 2|0|PROOT 3|5|POSTO 4|3|SRL 5|6|ENDP 6|0|PROOT
+%spa:	$DJF:YQ
+*MOT:	这 个 好 插 的 .
+%mor:	det|zhe4=this cl|ge4 adj|hao3=good v|cha1=insert cleft|de .
+%gra:	1|0|PROOT 2|3|QUANT 3|0|PROOT 4|5|LP 5|6|ENDP 6|0|PROOT
+%spa:	$DJF:AA
+*MOT:	好 ‡ 可以 了 .
+%mor:	adj|hao3=good beg|beg v:aux|ke3yi3=may asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|OBJ 5|0|NONE
+%spa:	$DJF:MK
+*CHI:	还 有 这些 颜色 .
+%mor:	adv|hai2=still v|you3=have pro:dem|zhe4xie1=these n|yan2se4=color .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DHA:SI
+%cod:	$CID
+*CHI:	还 有 这些 颜色 .
+%mor:	adv|hai2=still v|you3=have pro:dem|zhe4xie1=these n|yan2se4=color .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DJF:SI
+%cod:	$CCD
+*MOT:	什么 ?
+%mor:	pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DCC:QN
+*CHI:	还 有 这些 颜色 .
+%mor:	adv|hai2=still v|you3=have pro:dem|zhe4xie1=these n|yan2se4=color .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DJF:SA
+%cod:	$CCD
+%tur:	$turn
+*CHI:	哦 ‡ 插 进去 了 .
+%mor:	co|o1=chant beg|beg v|cha1=insert v|jin4qu4=go_into asp|le .
+%gra:	1|0|OBJ 2|0|OBJ 3|0|OBJ 4|3|NOM 5|0|OBJ 6|0|NONE
+%spa:	$DJF:ST
+*MOT:	哪 个 高 ?
+%mor:	pro:wh|na3=where cl|ge4 adj|gao1=tall ?
+%gra:	1|4|ENDP 2|1|LP 3|1|PUNCT 4|0|NONE
+*MOT:	我 问 你 .
+%mor:	pro:per|wo3=I v|wen4=ask pro:per|ni3=you .
+%gra:	1|0|PROOT 2|4|ENDP 3|2|PROOT 4|0|PROOT
+%spa:	$DJF:QN
+%act:	M抢过C手中的积木问C
+*MOT:	哪 个 高 啊 ?
+%mor:	pro:wh|na3=where cl|ge4 adj|gao1=tall sfp|a1 ?
+%gra:	1|5|ENDP 2|1|LP 3|1|PUNCT 4|1|END 5|0|PROOT
+%spa:	$DJF:QN
+*CHI:	这 个 高 .
+%mor:	det|zhe4=this cl|ge4 adj|gao1=tall .
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%tur:	$turn
+%cod:	$CCD
+*CHI:	这 个 矮 .
+%mor:	det|zhe4=this cl|ge4 adj|ai3=short .
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:SA
+%cod:	$CCD
+*MOT:	哪 个 大 ?
+%mor:	pro:wh|na3=where cl|ge4 v|da4=poop ?
+%gra:	1|4|ENDP 2|1|LP 3|1|PUNCT 4|0|NONE
+%spa:	$DJF:QN
+*MOT:	哪 个 大 ?
+%mor:	pro:wh|na3=where cl|ge4 v|da4=poop ?
+%gra:	1|4|ENDP 2|1|LP 3|1|PUNCT 4|0|NONE
+%spa:	$DJF:QN
+*CHI:	这 个 大 .
+%mor:	det|zhe4=this cl|ge4 v|da4=poop .
+%gra:	1|3|DET 2|1|LP 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:SA
+%cod:	$CCD
+*MOT:	嗯 .
+%mor:	co|en1=okay .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:AC
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:CL
+*CHI:	哦 ‡ 我 要 变 魔术 .
+%mor:	co|o1=chant beg|beg pro:per|wo3=I v:aux|yao4=should v|bian4=change
+	n|mo2shu4=magic .
+%gra:	1|0|PROOT 2|0|OBJ 3|5|SUBJ 4|3|PROOT 5|0|PROOT 6|0|PROOT 7|0|PROOT
+%spa:	$NIA:SI
+%cod:	$CID
+*MOT:	你 变 什么 魔术 啊 ?
+%mor:	pro:per|ni3=you v|bian4=change pro:wh|shen2me=what n|mo2shu4=magic
+	sfp|a1 ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$NIA:QN
+*MOT:	我 问 你 .
+%mor:	pro:per|wo3=I v|wen4=ask pro:per|ni3=you .
+%gra:	1|0|PROOT 2|4|ENDP 3|2|PROOT 4|0|PROOT
+%spa:	$DHA:SI
+*CHI:	变 魔术 .
+%mor:	v|bian4=change n|mo2shu4=magic .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:NA
+%cod:	$CCD
+*MOT:	我 来 问 你 前 后 啊 .
+%mor:	pro:per|wo3=I v:dirc|lai2=come v|wen4=ask pro:per|ni3=you
+	n|qian2=front post|hou4=behind sfp|a1 .
+%gra:	1|0|PROOT 2|0|PROOT 3|8|ENDP 4|3|PROOT 5|3|PROOT 6|3|JCT 7|3|END
+	8|0|PROOT
+%spa:	$NIA:SI
+*MOT:	这 个 前面 是 什么 啊 ?
+%mor:	det|zhe4=this cl|ge4 post|qian2mian4=front_end v:cop|shi4=is
+	pro:wh|shen2me=what sfp|a1 ?
+%gra:	1|0|PROOT 2|3|POSTO 3|0|OBJ 4|5|CMOD 5|0|PROOT 6|7|ENDP 7|0|PROOT
+%spa:	$DJF:QN
+*CHI:	前面 是 高 .
+%mor:	post|qian2mian4=front_end v:cop|shi4=is adj|gao1=tall .
+%gra:	1|0|OBJ 2|3|CMOD 3|0|OBJ 4|0|PROOT
+%spa:	$DJF:NA
+%cod:	$CCD
+*MOT:	什么 ?
+%mor:	pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:AQ
+*MOT:	过来 .
+%mor:	v|guo4lai2=come_over .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:RP
+*CHI:	变 .
+%mor:	v|bian4=change .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DHA:ST
+%act:	C举起手中的积木给M看
+*MOT:	变 好 啦 ?
+%mor:	v|bian4=change adj|hao3=good sfp|la1 ?
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:YQ
+*MOT:	坐 好 .
+%mor:	v|zuo4=sit adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	问 你 话 啊 .
+%mor:	v|wen4=ask pro:per|ni3=you n|hua4=speech sfp|a1 .
+%gra:	1|3|JCT 2|1|PROOT 3|0|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$NIA:SI
+*MOT:	讲 错 了 就 没 有 看 哈哈 了 啊 .
+%mor:	v|jiang3=speak v|cuo4=wrong asp|le adv|jiu4=just adv|mei2=not
+	v|you3=have v|kan4=look n:prop|ha1ha1=Haha_tvshow asp|le sfp|a1 .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|PROOT 5|4|PROOT 6|4|SRL 7|4|SRL
+	8|4|SRL 9|4|OBJ 10|4|END 11|4|SUBJ
+%spa:	$NFA:WD
+*MOT:	就 没 有 了 .
+%mor:	adv|jiu4=just adv|mei2=not v|you3=have asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|OBJ 5|0|PROOT
+%spa:	$NFA:WD
+*MOT:	看 好 .
+%mor:	v|kan4=look adj|hao3=good .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DHA:RP
+%act:	C动积木
+*MOT:	别 动 .
+%mor:	adv|bie2=dont v|dong4=move .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DCA:PF
+*MOT:	手 别 动 .
+%mor:	n|shou3=hand adv|bie2=dont v|dong4=move .
+%gra:	1|0|OBJ 2|4|ENDP 3|2|SRL 4|0|NONE
+%spa:	$DCA:PF
+*CHI:	我 要 .
+%mor:	pro:per|wo3=I v|yao4=want .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|NONE
+%spa:	$NIA:CS
+%tur:	$turn
+%cod:	$CCD
+*CHI:	我 要 看 .
+%mor:	pro:per|wo3=I v:aux|yao4=should v|kan4=look .
+%gra:	1|0|PROOT 2|4|ENDP 3|2|POSS 4|0|NONE
+%spa:	$NIA:GR
+%cod:	$CCD
+*MOT:	你 看好 .
+%mor:	pro:per|ni3=you
+	v|kan4hao3=believe_something_someone_will_be_worthy_in_the_future .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|NONE
+%spa:	$DHA:RP
+*MOT:	这 个 前面 .
+%mor:	det|zhe4=this cl|ge4 post|qian2mian4=front_end .
+%gra:	1|0|PROOT 2|3|POSTO 3|0|OBJ 4|0|PROOT
+%spa:	$DJF:RP
+*MOT:	警察 叔叔 前面 是 什么 ?
+%mor:	n|jing3cha2=policeman n:relat|shu2&DIM=uncle
+	post|qian2mian4=front_end v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|OBJ 3|5|JCT 4|3|SRL 5|0|PROOT 6|0|NONE
+%spa:	$DJF:QN
+*CHI:	警察 叔叔 的 对面 .
+%mor:	n|jing3cha2=policeman n:relat|shu2&DIM=uncle poss|de
+	n|dui4mian4=opposite .
+%gra:	1|0|PROOT 2|0|OBJ 3|2|BEGP 4|5|ENDP 5|0|PROOT
+%spa:	$DJF:NA
+%cod:	$CCD
+*MOT:	前面 是 什么 ?
+%mor:	post|qian2mian4=front_end v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|0|OBJ 2|0|PROOT 3|0|PROOT 4|0|NONE
+%spa:	$DJF:QN
+*CHI:	帽子 .
+%mor:	n|mao4-NOM=hat .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:NA
+%cod:	$CCD
+*MOT:	警察 叔叔 前面 是 什么 ?
+%mor:	n|jing3cha2=policeman n:relat|shu2&DIM=uncle
+	post|qian2mian4=front_end v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|OBJ 3|5|JCT 4|3|SRL 5|0|PROOT 6|0|NONE
+%spa:	$DJF:QN
+*MOT:	警察 叔叔 前面 .
+%mor:	n|jing3cha2=policeman n:relat|shu2&DIM=uncle
+	post|qian2mian4=front_end .
+%gra:	1|0|PROOT 2|0|OBJ 3|4|ENDP 4|0|PROOT
+%spa:	$DHA:CL
+*MOT:	好 .
+%mor:	adj|hao3=good .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$NIA:MK
+*MOT:	警察 叔叔 前面 是 什么 ?
+%mor:	n|jing3cha2=policeman n:relat|shu2&DIM=uncle
+	post|qian2mian4=front_end v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|OBJ 3|5|JCT 4|3|SRL 5|0|PROOT 6|0|NONE
+%spa:	$DJF:QN
+*MOT:	警察 叔叔 .
+%mor:	n|jing3cha2=policeman n:relat|shu2&DIM=uncle .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT
+%spa:	$DHA:CL
+*CHI:	哎 .
+%mor:	co|ai1=ugh .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:CL
+%act:	有积木掉地 上
+*MOT:	拣 起来 .
+%mor:	v|jian3=select v|qi3lai2=come_up .
+%gra:	1|0|PROOT 2|1|VD 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	过来 .
+%mor:	v|guo4lai2=come_over .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:RP
+*MOT:	快 点 .
+%mor:	adv|kuai4=quickly v|dian3=tap .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DHA:RP
+*CHI:	我 要 看 .
+%mor:	pro:per|wo3=I v:aux|yao4=should v|kan4=look .
+%gra:	1|0|PROOT 2|4|ENDP 3|2|POSS 4|0|NONE
+%spa:	$NIA:SI
+*MOT:	过来 .
+%mor:	v|guo4lai2=come_over .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:RP
+*MOT:	嘿嘿 .
+%mor:	co|hei1&DIM=hey .
+%gra:	1|0|OBJ 2|0|PROOT
+%spa:	$MRK:mK
+*MOT:	过来 坐 .
+%mor:	v|guo4lai2=come_over v|zuo4=sit .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DHA:RP
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:CL
+*MOT:	不 要 叫 妈妈 .
+%mor:	adv|bu4=not v:aux|yao4=should v|jiao4=call n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$NIA:PF
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:RP
+*CHI:	插 进去 .
+%mor:	v|cha1=insert v|jin4qu4=go_into .
+%gra:	1|0|PROOT 2|1|JCT 3|0|PROOT
+%spa:	$DJF:RP
+%cod:	$CID
+*MOT:	插 不 进去 的 .
+%mor:	v|cha1=insert adv|bu4=not v|jin4qu4=go_into cleft|de .
+%gra:	1|0|PROOT 2|1|PROOT 3|1|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$DJF:DW
+*MOT:	你 先 讲 好 再 给 你 插 .
+%mor:	pro:per|ni3=you adv|xian1=earlier v|jiang3=speak adj|hao3=good
+	adv|zai4=again prep|gei3=for pro:per|ni3=you v|cha1=insert .
+%gra:	1|4|SUBJ 2|1|OBJ 3|2|CPT 4|0|PROOT 5|7|JCT 6|5|PROOT 7|8|SUBJ
+	8|0|PROOT 9|0|PROOT
+%spa:	$NIA:PD
+*MOT:	说 警察 叔叔 前面 是 什么 ?
+%mor:	v|shuo1=say n|jing3cha2=policeman n:relat|shu2&DIM=uncle
+	post|qian2mian4=front_end v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|OBJ 5|6|CMOD 6|0|PROOT 7|0|PROOT
+%spa:	$DJF:QN
+*CHI:	警察 叔叔 前面 是 大 树 .
+%mor:	n|jing3cha2=policeman n:relat|shu2&DIM=uncle
+	post|qian2mian4=front_end v:cop|shi4=is adj|da4=great n|shu4=tree .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|OBJ 4|7|ENDP 5|4|PROOT 6|4|OBJ2 7|0|PROOT
+%spa:	$DJF:SA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	后面 呢 ?
+%mor:	post|hou4mian4=behind sfp|ne ?
+%gra:	1|0|OBJ 2|3|ENDP 3|0|NONE
+%spa:	$DJF:EQ
+*MOT:	后面 呢 ?
+%mor:	post|hou4mian4=behind sfp|ne ?
+%gra:	1|0|OBJ 2|3|ENDP 3|0|NONE
+%spa:	$DJF:EQ
+*CHI:	后面 .
+%mor:	post|hou4mian4=behind .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DJF:RT
+*CHI:	后面 是 什么 ?
+%mor:	post|hou4mian4=behind v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|NONE
+%spa:	$DJF:QA
+%cod:	$CCD
+*MOT:	你 说 是 什么 ?
+%mor:	pro:per|ni3=you v|shuo1=say v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DJF:QA
+*CHI:	是 天 外 .
+%mor:	v:cop|shi4=is n|tian1=day post|wai=outside .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|NONE 4|3|PROOT
+%spa:	$DJF:NA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	什么 ?
+%mor:	pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:AQ
+*CHI:	是 什么 ?
+%mor:	v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|NONE
+%spa:	$DJF:QA
+*MOT:	什么 啦 ?
+%mor:	pro:wh|shen2me=what sfp|la1 ?
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DJF:QA
+*MOT:	这 是 什么 ?
+%mor:	pro:dem|zhe4=this v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|NONE
+%spa:	$DJF:QN
+*MOT:	这 是 什么 啦 ?
+%mor:	pro:dem|zhe4=this v:cop|shi4=is pro:wh|shen2me=what sfp|la1 ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$DHA:QN
+*CHI:	大 树 .
+%mor:	v|da4=poop n|shu4=tree .
+%gra:	1|0|PROOT 2|1|TAG 3|2|PUNCT
+%spa:	$DJF:SA
+%cod:	$CCD
+%tur:	$turn
+*MOT:	这 个 是 大 树 啦 ?
+%mor:	det|zhe4=this cl|ge4 v:cop|shi4=is adj|da4=great n|shu4=tree
+	sfp|la1 ?
+%gra:	1|0|OBJ 2|0|PROOT 3|5|CMOD 4|3|PROOT 5|0|PROOT 6|5|PREPO 7|5|SUBJ
+%spa:	$DJF:AQ
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	后面 是 什么 ?
+%mor:	post|hou4mian4=behind v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|NONE
+%spa:	$DJF:QN
+%act:	C在玩手中的积木
+*MOT:	这 是 枪 啊 ?
+%mor:	pro:dem|zhe4=this v:cop|shi4=is cl|qiang1=activity sfp|a1 ?
+%gra:	1|0|OBJ 2|1|SUBJ 3|0|OBJ 4|5|ENDP 5|0|PROOT
+%spa:	$DJF:YQ
+*CHI:	啪 .
+%mor:	on|pa1=bang .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DFW:PR
+*MOT:	啊 .
+%mor:	sfp|a1 .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DFW:PR
+*MOT:	死 掉 了 .
+%mor:	adv|si3=extremely v:resc|diao4=done asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|PROOT
+%spa:	$DFW:ST
+*CHI:	啪 .
+%mor:	on|pa1=bang .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DFW:PR
+%act:	C把手中的积木指向摄像人员
+*MOT:	不 要 打 老师 了 .
+%mor:	adv|bu4=not v:aux|yao4=should v|da3=hit n|lao3shi1=teacher asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|OBJ 6|0|PROOT
+%spa:	$DFW:PF
+*MOT:	快 点 .
+%mor:	adv|kuai4=quickly v|dian3=tap .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*CHI:	啪 .
+%mor:	on|pa1=bang .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DFW:PR
+%act:	M抢过C手中的积木
+*MOT:	好 ‡ 打 老师 吗 ?
+%mor:	adj|hao3=good beg|beg v|da3=hit n|lao3shi1=teacher sfp|ma ?
+%gra:	1|2|DET 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$DFW:YQ
+*CHI:	好 .
+%mor:	adj|hao3=good .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DFW:AA
+%tur:	$turn
+*CHI:	啪 .
+%mor:	on|pa1=bang .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DFW:PR
+%act:	M把积木指向C
+*CHI:	啊 .
+%mor:	sfp|a1 .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DFW:PR
+%act:	C倒下
+*MOT:	你 死 掉 了 .
+%mor:	pro:per|ni3=you adv|si3=extremely v:resc|diao4=done asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|2|SRL 4|2|ATT 5|0|PROOT
+%spa:	$DCA:ST
+*MOT:	好 了 .
+%mor:	adj|hao3=good asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|NONE
+%spa:	$DFW:MK
+*MOT:	过来 .
+%mor:	v|guo4lai2=come_over .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:RP
+*CHI:	我 来 变 这 个 .
+%mor:	pro:per|wo3=I v:dirc|lai2=come v|bian4=change det|zhe4=this cl|ge4
+	.
+%gra:	1|2|SUBJ 2|0|PROOT 3|6|ENDP 4|3|PROOT 5|3|OBJ 6|0|PROOT
+%spa:	$NIA:SI
+%cod:	$CID
+*MOT:	不 要 来 了 .
+%mor:	adv|bu4=not v:aux|yao4=should v:dirc|lai2=come asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|OBJ 5|0|PROOT
+%spa:	$NIA:PF
+*CHI:	再 来 .
+%mor:	adv|zai4=again v:dirc|lai2=come .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:DW
+%cod:	$CCD
+*MOT:	再 来 这 个 桌子 做 不 来 .
+%mor:	adv|zai4=again v:dirc|lai2=come det|zhe4=this cl|ge4
+	n|zhuo1zi=table v|zuo4=make adv|bu4=not v:dirc|lai2=come .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|0|PROOT
+	7|0|PROOT 8|0|PROOT 9|0|PROOT
+%spa:	$NIA:CS
+*MOT:	以后 再 来 „ 好 吗 ?
+%mor:	post|yi3hou4=afterwards adv|zai4=again v:dirc|lai2=come end|end
+	adj|hao3=good sfp|ma ?
+%gra:	1|0|OBJ 2|7|ENDP 3|2|CPT 4|5|BEG 5|2|ATT 6|2|END 7|0|NONE
+%spa:	$NFA:RQ
+*MOT:	坐 好 .
+%mor:	v|zuo4=sit adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DHA:RP
+*CHI:	许 老师 .
+%mor:	quant|xu3=or_so n|lao3shi1=teacher .
+%gra:	1|2|QUANT 2|0|PROOT 3|0|PROOT
+%spa:	$DNP:ST
+*MOT:	许 老师 怎么 啦 ?
+%mor:	v:aux|zhun3=allow n|lao3shi1=teacher adv:wh|zen3me=how sfp|la1 ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DNP:QN
+*MOT:	你 喜欢 华师大 老师 还是 喜欢 王 老师 啊 ?
+%mor:	pro:per|ni3=you v|xi3huan1=like
+	n:prop|hua2shi1da4=East_China_Normal_University n|lao3shi1=teacher
+	adv|hai2shi4=still_be v|xi3huan1=like n|wang2=king
+	n|lao3shi1=teacher sfp|a1 ?
+%gra:	1|0|OBJ 2|0|OBJ 3|4|JCT 4|0|PROOT 5|6|JCT 6|0|NONE 7|6|PROOT
+	8|7|APP 9|6|END 10|6|PUNCT
+%spa:	$DHS:TQ
+*CHI:	喜欢 华师大 .
+%mor:	v|xi3huan1=like n:prop|hua2shi1da4=East_China_Normal_University .
+%gra:	1|0|NONE 2|1|COBJ 3|2|PUNCT
+%spa:	$DSS:TA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	老师 啊 .
+%mor:	n|lao3shi1=teacher sfp|a1 .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DCC:YQ
+*MOT:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHS:AC
+*MOT:	你 喜欢 王 老师 啊 ?
+%mor:	pro:per|ni3=you v|xi3huan1=like n|wang2=king n|lao3shi1=teacher
+	sfp|a1 ?
+%gra:	1|2|SUBJ 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$DHS:YQ
+*CHI:	喜欢 老师 .
+%mor:	v|xi3huan1=like n|lao3shi1=teacher .
+%gra:	1|0|NONE 2|1|TAG 3|2|PUNCT
+%spa:	$DSS:AA
+%cod:	$CCD
+*MOT:	喜欢 哪 个 老师 啊 ?
+%mor:	v|xi3huan1=like pro:wh|na3=where cl|ge4 n|lao3shi1=teacher sfp|a1 ?
+%gra:	1|0|NONE 2|3|JCT 3|1|OBJ 4|1|OBJ 5|1|END 6|1|PROOT
+%spa:	$DCC:QN
+*CHI:	喜欢 这 个 老师 .
+%mor:	v|xi3huan1=like det|zhe4=this cl|ge4 n|lao3shi1=teacher .
+%gra:	1|0|NONE 2|1|COBJ 3|4|POSTO 4|2|LP 5|2|ENUM
+%spa:	$DCC:SA
+%tur:	$turn
+%cod:	$CCD
+%act:	C指向摄像人员
+*MOT:	哦 ‡ 喜欢 这 个 老师 .
+%mor:	co|o1=chant beg|beg v|xi3huan1=like det|zhe4=this cl|ge4
+	n|lao3shi1=teacher .
+%gra:	1|0|OBJ 2|1|JCT 3|1|BEG 4|0|PROOT 5|0|PROOT 6|0|PROOT 7|0|PROOT
+%spa:	$DHS:AC
+*MOT:	呵呵 .
+%mor:	co|he1&DIM=ah .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$MRK:MK
+*MOT:	你 喜欢 王 老师 啊 ?
+%mor:	pro:per|ni3=you v|xi3huan1=like n|wang2=king n|lao3shi1=teacher
+	sfp|a1 ?
+%gra:	1|2|SUBJ 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$DHA:YQ
+*MOT:	我 问 你 .
+%mor:	pro:per|wo3=I v|wen4=ask pro:per|ni3=you .
+%gra:	1|0|PROOT 2|4|ENDP 3|2|PROOT 4|0|PROOT
+%spa:	$DHA:ST
+*CHI:	喜欢 华师大 .
+%mor:	v|xi3huan1=like n:prop|hua2shi1da4=East_China_Normal_University .
+%gra:	1|0|NONE 2|1|COBJ 3|2|PUNCT
+%spa:	$DSS:CS
+%tur:	$turn
+%cod:	$CCD
+*MOT:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHS:AC
+*CHI:	得得得@o .
+%mor:	on|得得得 .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$TXT:TX
+*MOT:	得得得@o .
+%mor:	on|得得得 .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$TXT:RT
+*MOT:	不 要 再 发 .
+%mor:	adv|bu4=not v:aux|yao4=should adv|zai4=again v|fa1=develop .
+%gra:	1|0|OBJ 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$NIA:PF
+*MOT:	拿 什么 你 说 .
+%mor:	prep|na2=with pro:wh|shen2me=what pro:per|ni3=you v|shuo1=say .
+%gra:	1|0|OBJ 2|1|PROOT 3|4|SUBJ 4|0|PROOT 5|0|PROOT
+%spa:	$DCA:QN
+*MOT:	告诉 我 拿 什么 ?
+%mor:	v|gao4su4=tell pro:per|wo3=I v|na2=hold pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT 3|5|ENDP 4|3|PROOT 5|0|NONE
+%spa:	$NIA:QN
+*CHI:	拿 这 个 .
+%mor:	v|na2=hold det|zhe4=this cl|ge4 .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$DJF:SA
+%cod:	$CCD
+*MOT:	有 几 棵 树 啊 .
+%mor:	v|you3=have quant|ji3=some cl|ke1 n|shu4=tree sfp|a1 .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|PROOT 5|6|ENDP 6|0|PROOT
+*MOT:	告诉 妈妈 .
+%mor:	v|gao4su4=tell n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DJF:RP
+*MOT:	这儿 有 几 棵 树 啊 ?
+%mor:	post|zhe4&DIA=here v|you3=have quant|ji3=some cl|ke1 n|shu4=tree
+	sfp|a1 ?
+%gra:	1|0|OBJ 2|1|ATT 3|5|MOD 4|3|JCT 5|0|PROOT 6|7|ENDP 7|0|PROOT
+%spa:	$DJF:QN
+*CHI:	一 棵 树 .
+%mor:	num|yi1=one cl|ke1 n|shu4=tree .
+%gra:	1|3|MOD 2|1|JCT 3|0|PROOT 4|0|PROOT
+%spa:	$DJF:CN
+%tur:	$turn
+%cod:	$CCD
+*CHI:	哦 ‡ 两 棵 树 .
+%mor:	co|o1=chant beg|beg num|liang3=two cl|ke1 n|shu4=tree .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|OBJ 5|0|PROOT 6|0|PROOT
+%spa:	$DJF:CN
+%cod:	$CCD
+*MOT:	一共 有 几 棵 啊 ?
+%mor:	adv|yi1gong4=altogether v|you3=have quant|ji3=some cl|ke1 sfp|a1 ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|OBJ 5|0|PROOT 6|0|PROOT
+%spa:	$DJF:QN
+*CHI:	有 二 棵 树 .
+%mor:	v|you3=have num|er4=two cl|ke1 n|shu4=tree .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|PROOT 5|0|PROOT
+%spa:	$DJF:SA
+%cod:	$CCD
+*MOT:	好 ‡ 现在 再 加 一 棵 树 呢 ?
+%mor:	adj|hao3=good beg|beg adv|xian4zai4=now adv|zai4=again
+	v|jia1=dramatise num|yi1=one cl|ke1 n|shu4=tree sfp|ne ?
+%gra:	1|0|PROOT 2|0|OBJ 3|4|JCT 4|6|JCT 5|4|SRL 6|7|QUANT 7|0|OBJ
+	8|0|PROOT 9|10|ENDP 10|0|PROOT
+%spa:	$DJF:EQ
+*MOT:	有 几 棵 树 ?
+%mor:	v|you3=have quant|ji3=some cl|ke1 n|shu4=tree ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|PROOT 5|0|NONE
+%spa:	$DJF:QN
+*CHI:	变 魔术 .
+%mor:	v|bian4=change n|mo2shu4=magic .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:ST
+%cod:	$CID
+*MOT:	老是 变 魔术 .
+%mor:	adv|lao3shi4=always v|bian4=change n|mo2shu4=magic .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$DRE:DS
+*MOT:	你 没 有 办法 怎么 变 魔术 啊 ?
+%mor:	pro:per|ni3=you adv|mei2=not v|you3=have n|ban4fa3=way
+	adv:wh|zen3me=how v|bian4=change n|mo2shu4=magic sfp|a1 ?
+%gra:	1|3|SUBJ 2|1|PROOT 3|0|PROOT 4|3|PROOT 5|0|PROOT 6|0|PROOT
+	7|0|PROOT 8|9|ENDP 9|0|PROOT
+%spa:	$NIA:DW
+*MOT:	快 点 啊 .
+%mor:	adv|kuai4=quickly v|dian3=tap sfp|a1 .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$NIA:RP
+*MOT:	来 .
+%mor:	v:dirc|lai2=come .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DHA:RP
+*MOT:	现在 有 几 棵 树 啊 ?
+%mor:	adv|xian4zai4=now v|you3=have quant|ji3=some cl|ke1 n|shu4=tree
+	sfp|a1 ?
+%gra:	1|0|OBJ 2|0|PROOT 3|0|PROOT 4|0|OBJ 5|0|PROOT 6|0|PROOT 7|0|PROOT
+%spa:	$DJF:QN
+*MOT:	数数看 .
+%mor:	v|shu3&KAN=count .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$NIA:RP
+*MOT:	快 点 .
+%mor:	adv|kuai4=quickly v|dian3=tap .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*CHI:	一 二 [x 2] .
+%mor:	num|yi1=one num|er4=two .
+%gra:	1|2|QUANT 2|3|ENDP 3|0|PROOT
+%spa:	$TXT:TX
+%cod:	$CCD
+%tur:	$turn
+*MOT:	有 几 棵 树 ?
+%mor:	v|you3=have quant|ji3=some cl|ke1 n|shu4=tree ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|PROOT 5|0|NONE
+%spa:	$DJF:QN
+*MOT:	说 .
+%mor:	v|shuo1=say .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:RP
+*CHI:	一 棵 树 .
+%mor:	num|yi1=one cl|ke1 n|shu4=tree .
+%gra:	1|3|MOD 2|1|JCT 3|0|PROOT 4|0|PROOT
+%spa:	$DJF:CN
+%cod:	$CCD
+%tur:	$turn
+*CHI:	二 棵 树 .
+%mor:	num|er4=two cl|ke1 n|shu4=tree .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT
+%spa:	$DJF:CN
+%cod:	$CCD
+*CHI:	三 棵 树 .
+%mor:	num|san1=three cl|ke1 n|shu4=tree .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT
+%spa:	$DJF:CN
+%cod:	$CCD
+*MOT:	有 几 棵 树 啊 ?
+%mor:	v|you3=have quant|ji3=some cl|ke1 n|shu4=tree sfp|a1 ?
+%gra:	1|0|PROOT 2|0|PROOT 3|4|POSTO 4|0|OBJ 5|6|ENDP 6|0|PROOT
+%spa:	$DJF:QN
+*CHI:	有 三 棵 树 .
+%mor:	v|you3=have num|san1=three cl|ke1 n|shu4=tree .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|PROOT 5|0|PROOT
+%spa:	$DJF:SA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	那么 现在 有 几 棵 树 啊 ?
+%mor:	adv|na4me=so adv|xian4zai4=now v|you3=have quant|ji3=some cl|ke1
+	n|shu4=tree sfp|a1 ?
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|0|OBJ 6|0|PROOT 7|0|PROOT
+	8|0|PROOT
+%spa:	$DJF:QN
+*MOT:	再 数数看 .
+%mor:	adv|zai4=again v|shu3&KAN=count .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	数 好 .
+%mor:	v|shu3=count adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:CL
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:CL
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:CL
+*CHI:	我 要 擦 鼻涕 .
+%mor:	pro:per|wo3=I v:aux|yao4=should v|ca1=wipe n|bi2ti4=nasal_mucus .
+%gra:	1|3|SUBJ 2|1|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$NIA:CS
+%cod:	$CID
+*MOT:	你 先 数 好 了 再 擦 .
+%mor:	pro:per|ni3=you adv|xian1=earlier v|shu3=count adj|hao3=good asp|le
+	adv|zai4=again v|ca1=wipe .
+%gra:	1|0|OBJ 2|0|OBJ 3|0|PROOT 4|0|OBJ 5|0|OBJ 6|8|ENDP 7|6|SRL 8|0|NONE
+%spa:	$NIA:CS
+*MOT:	过来 啊 .
+%mor:	v|guo4lai2=come_over sfp|a1 .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DHA:RP
+*MOT:	拣 起来 .
+%mor:	v|jian3=select v|qi3lai2=come_up .
+%gra:	1|0|PROOT 2|1|VD 3|0|PROOT
+%spa:	$NIA:RP
+%act:	C拣
+*MOT:	不 要 撞 着 头 .
+%mor:	adv|bu4=not v:aux|yao4=should v|zhuang4=run_into asp|zhe
+	n|tou2=head .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|OBJ 5|0|PROOT 6|0|PROOT
+%spa:	$DCA:RP
+*MOT:	过来过来 .
+%mor:	v|guo4lai2&DIM=come_over .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DHA:RP
+*MOT:	快 过来 .
+%mor:	adv|kuai4=quickly v|guo4lai2=come_over .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	过来 .
+%mor:	v|guo4lai2=come_over .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:RP
+*MOT:	看 头头 .
+%mor:	v|kan4=look n|tou2&DIM=head .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:当心
+*MOT:	现在 有 几 棵 树 啊 ?
+%mor:	adv|xian4zai4=now v|you3=have quant|ji3=some cl|ke1 n|shu4=tree
+	sfp|a1 ?
+%gra:	1|0|OBJ 2|0|PROOT 3|0|PROOT 4|0|OBJ 5|0|PROOT 6|0|PROOT 7|0|PROOT
+%spa:	$DJF:QN
+*MOT:	你 数数 清楚 .
+%mor:	pro:per|ni3=you v|shu3&DIM=count adj|qing1chu3=clear .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$NIA:RP
+*CHI:	不 要 看 .
+%mor:	adv|bu4=not v:aux|yao4=should v|kan4=look .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$NIA:RD
+*CHI:	不 要 .
+%mor:	adv|bu4=not v|yao4=want .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RD
+*MOT:	我 给 你 插 .
+%mor:	pro:per|wo3=I prep|gei3=for pro:per|ni3=you v|cha1=insert .
+%gra:	1|0|PROOT 2|5|ENDP 3|2|PREPO 4|2|SRL 5|0|NONE
+%spa:	$NIA:PD
+*MOT:	你 先 数 好 .
+%mor:	pro:per|ni3=you adv|xian1=earlier v|shu3=count adj|hao3=good .
+%gra:	1|0|OBJ 2|5|ENDP 3|2|CPT 4|2|ATT 5|0|NONE
+%spa:	$NIA:RP
+*MOT:	数 好 给 你 插 .
+%mor:	v|shu3=count adv|hao3=very prep|gei3=for pro:per|ni3=you
+	v|cha1=insert .
+%gra:	1|0|PROOT 2|1|OBJ 3|1|PROOT 4|1|PROOT 5|0|PROOT 6|0|PROOT
+%spa:	$NIA:PD
+*MOT:	你 数 好 .
+%mor:	pro:per|ni3=you v|shu3=count adj|hao3=good .
+%gra:	1|0|PROOT 2|4|ENDP 3|2|JCT 4|0|NONE
+%spa:	$NIA:RP
+*MOT:	数数 .
+%mor:	v|shu3&DIM=count .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:RR
+*CHI:	不 要 .
+%mor:	adv|bu4=not v|yao4=want .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RD
+%cod:	$CCD
+*CHI:	不 要 .
+%mor:	adv|bu4=not v|yao4=want .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RD
+%cod:	$CCD
+*MOT:	数 .
+%mor:	v|shu3=count .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$NIA:RR
+*MOT:	数 .
+%mor:	v|shu3=count .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$NIA:RR
+*CHI:	一 棵 大 树 .
+%mor:	num|yi1=one cl|ke1 v|da4=poop n|shu4=tree .
+%gra:	1|2|MOD 2|3|QUANT 3|0|OBJ 4|3|PROOT 5|0|PROOT
+%spa:	$DJF:CN
+%cod:	$CCD
+%tur:	$turn
+*CHI:	二 棵 大 树 .
+%mor:	num|er4=two cl|ke1 v|da4=poop n|shu4=tree .
+%gra:	1|0|PROOT 2|3|QUANT 3|0|OBJ 4|3|PROOT 5|0|PROOT
+%spa:	$DJF:CN
+%cod:	$CCD
+*CHI:	三 棵 大 树 .
+%mor:	num|san1=three cl|ke1 v|da4=poop n|shu4=tree .
+%gra:	1|0|PROOT 2|0|OBJ 3|5|ENDP 4|3|OBJ 5|0|PROOT
+%spa:	$DJF:CN
+%cod:	$CCD
+*CHI:	四 棵 大 树 .
+%mor:	num|si4=four cl|ke1 v|da4=poop n|shu4=tree .
+%gra:	1|0|PROOT 2|0|OBJ 3|5|ENDP 4|3|OBJ 5|0|PROOT
+%spa:	$DJF:CN
+%cod:	$CCD
+*CHI:	五 棵 大 树 .
+%mor:	num|wu3=five cl|ke1 v|da4=poop n|shu4=tree .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|3|OBJ 5|3|ENUM
+%spa:	$DJF:CN
+%cod:	$CCD
+*CHI:	有 五 棵 大 树 .
+%mor:	v|you3=have num|wu3=five cl|ke1 v|da4=poop n|shu4=tree .
+%gra:	1|0|OBJ 2|0|PROOT 3|0|OBJ 4|0|NONE 5|4|PROOT 6|4|PROOT
+%spa:	$DJF:ST
+%cod:	$CCD
+*MOT:	几 棵 啊 ?
+%mor:	quant|ji3=some cl|ke1 sfp|a1 ?
+%gra:	1|0|PROOT 2|0|OBJ 3|4|ENDP 4|0|NONE
+%spa:	$DJF:QN
+*CHI:	有 五 棵 .
+%mor:	v|you3=have num|wu3=five cl|ke1 .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|PROOT
+%spa:	$DJF:SA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	有 五 棵 .
+%mor:	v|you3=have num|wu3=five cl|ke1 .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|PROOT
+%spa:	$DJF:AC
+*CHI:	插 这 个 树 .
+%mor:	v|cha1=insert det|zhe4=this cl|ge4 n|shu4=tree .
+%gra:	1|0|PROOT 2|0|PROOT 3|4|POSTO 4|0|OBJ 5|0|PROOT
+%spa:	$DJF:FP
+*MOT:	你 把 这 个 放 旁边 .
+%mor:	pro:per|ni3=you prep|ba3=object_marker det|zhe4=this cl|ge4
+	v|fang4=put post|pang2bian1=side .
+%gra:	1|0|PROOT 2|0|PROOT 3|5|DET 4|3|LP 5|0|PROOT 6|0|OBJ 7|0|PROOT
+%spa:	$NIA:CS
+*MOT:	现在 有 几 棵 树 啊 ?
+%mor:	adv|xian4zai4=now v|you3=have quant|ji3=some cl|ke1 n|shu4=tree
+	sfp|a1 ?
+%gra:	1|0|OBJ 2|0|PROOT 3|0|PROOT 4|0|OBJ 5|0|PROOT 6|0|PROOT 7|0|PROOT
+%spa:	$DJF:QN
+*MOT:	数数看 .
+%mor:	v|shu3&KAN=count .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DJF:RP
+*CHI:	一 个 咪咪 .
+%mor:	num|yi1=one cl|ge4 adv|mi1mi1=smilingly .
+%gra:	1|2|MOD 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DHA:ST
+*CHI:	一 个 咪咪 .
+%mor:	num|yi1=one cl|ge4 adv|mi1mi1=smilingly .
+%gra:	1|2|MOD 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:ST
+*MOT:	你 不 要 插 .
+%mor:	pro:per|ni3=you adv|bu4=not v:aux|yao4=should v|cha1=insert .
+%gra:	1|0|PROOT 2|3|JCT 3|5|ENDP 4|3|POSS 5|0|NONE
+%spa:	$NIA:PF
+*MOT:	成天 插 .
+%mor:	adv|cheng2tian1=all_day_long v|cha1=insert .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DRE:DS
+*MOT:	快 来 .
+%mor:	adv|kuai4=quickly v:dirc|lai2=come .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	不 要 弄 了 .
+%mor:	adv|bu4=not v:aux|yao4=should v|nong4=make asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|OBJ 5|0|PROOT
+%spa:	$DCA:PF
+*CHI:	这 个 .
+%mor:	det|zhe4=this cl|ge4 .
+%gra:	1|3|ENDP 2|1|LP 3|0|PROOT
+%spa:	$DHA:CS
+*MOT:	放 好 .
+%mor:	v|fang4=put adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	来 .
+%mor:	v:dirc|lai2=come .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DHA:RP
+*MOT:	擦 鼻涕 .
+%mor:	v|ca1=wipe n|bi2ti4=nasal_mucus .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	过来 .
+%mor:	v|guo4lai2=come_over .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:RP
+*MOT:	擦 了 就 舒服 了 .
+%mor:	v|ca1=wipe asp|le adv|jiu4=just adj|shu1fu2=comfortable asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|6|ENDP 5|4|PTOP 6|0|PROOT
+%spa:	$NIA:GR
+*MOT:	哼 .
+%mor:	co|heng1=humph .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:RP
+*MOT:	再 哼 .
+%mor:	adv|zai4=again co|heng1=humph .
+%gra:	1|0|OBJ 2|0|PROOT 3|0|PROOT
+%spa:	$DJF:RP
+*CHI:	这 个 .
+%mor:	det|zhe4=this cl|ge4 .
+%gra:	1|3|ENDP 2|1|LP 3|0|PROOT
+%spa:	$DHA:ST
+*MOT:	哎哟 .
+%mor:	co|ai1yo1=arrgh .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:ET
+*MOT:	坏 掉 了 吧 .
+%mor:	v:resc|huai4=spoil v:resc|diao4=done asp|le sfp|ba .
+%gra:	1|0|PROOT 2|5|ENDP 3|2|OBJ 4|2|END 5|0|PROOT
+%spa:	$DJF:ST
+*MOT:	妈妈 给 你 插 .
+%mor:	n:relat|ma1&DIM=mother prep|gei3=for pro:per|ni3=you v|cha1=insert
+	.
+%gra:	1|0|PROOT 2|5|ENDP 3|2|PREPO 4|2|SRL 5|0|PROOT
+%spa:	$DJF:RP
+*MOT:	过来 .
+%mor:	v|guo4lai2=come_over .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:RP
+*MOT:	坐 好 .
+%mor:	v|zuo4=sit adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	坐 好 插 .
+%mor:	v|zuo4=sit adj|hao3=good v|cha1=insert .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|NONE 4|3|PROOT
+%spa:	$NIA:RP
+*MOT:	过来 .
+%mor:	v|guo4lai2=come_over .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:RP
+*MOT:	坐 上去 .
+%mor:	v|zuo4=sit v|shang4qu4=go_up .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	你 不 坐 .
+%mor:	pro:per|ni3=you adv|bu4=not v|zuo4=sit .
+%gra:	1|0|PROOT 2|4|ENDP 3|2|SRL 4|0|NONE
+*MOT:	我 走 啦 .
+%mor:	pro:per|wo3=I v:dirc|zou3=go_away sfp|la1 .
+%gra:	1|2|SUBJ 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$NIA:WD
+*MOT:	坐 好 .
+%mor:	v|zuo4=sit adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	快点 .
+%mor:	adv|kuai4dian3=hurrily .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:RP
+*MOT:	坐 好 .
+%mor:	v|zuo4=sit adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	坐 好 插 呀 .
+%mor:	v|zuo4=sit adj|hao3=good v|cha1=insert sfp|ya .
+%gra:	1|0|PROOT 2|0|PROOT 3|5|ENDP 4|3|PREPO 5|0|PROOT
+%spa:	$NIA:RP
+*MOT:	她 拍 不 到 了 .
+%mor:	pro:per|ta1=she n|pai1=beat adv|bu4=not v:resc|dao4=arrive asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|3|SRL 5|3|ATT 6|0|PROOT
+%spa:	$NIA:GR
+*MOT:	快点 坐 好 .
+%mor:	adv|kuai4dian3=hurrily v|zuo4=sit adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$NIA:RP
+*MOT:	拍 不 到 了 老师 .
+%mor:	n|pai1=beat adv|bu4=not v:resc|dao4=arrive asp|le
+	n|lao3shi1=teacher .
+%gra:	1|0|OBJ 2|5|JCT 3|2|SRL 4|2|ATT 5|6|ENDP 6|0|PROOT
+%spa:	$NIA:GR
+*CHI:	哦 ‡ 拍 不 到 了 .
+%mor:	co|o1=chant beg|beg n|pai1=beat adv|bu4=not v:resc|dao4=arrive
+	asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|7|ENDP 5|4|SRL 6|4|ATT 7|0|NONE
+%spa:	$NIA:AD
+%tur:	$turn
+%cod:	$CCD
+*MOT:	拍 不 到 了 .
+%mor:	n|pai1=beat adv|bu4=not v:resc|dao4=arrive asp|le .
+%gra:	1|0|PROOT 2|5|ENDP 3|2|CPT 4|2|SRL 5|0|NONE
+%spa:	$NIA:RT
+*MOT:	坐 好 .
+%mor:	v|zuo4=sit adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	好 ‡ 坐 吧 ?
+%mor:	adj|hao3=good beg|beg v|zuo4=sit sfp|ba ?
+%gra:	1|0|OBJ 2|1|JCT 3|1|BEG 4|5|ENDP 5|0|PROOT
+%spa:	$DJF:YQ
+*MOT:	不 是 就 这样 插 进去 吗 ?
+%mor:	adv|bu4=not v:cop|shi4=is adv|jiu4=just pro:dem|zhe4yang4=so_such
+	v|cha1=insert v|jin4qu4=go_into sfp|ma ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|0|PROOT
+	7|0|PROOT 8|0|PROOT
+%spa:	$DJF:YQ
+*MOT:	这 个 拔 不 出来 的 .
+%mor:	det|zhe4=this cl|ge4 v|ba2=pull adv|bu4=not v|chu1lai2=go_out
+	cleft|de .
+%gra:	1|0|OBJ 2|0|PROOT 3|0|PROOT 4|3|PROOT 5|3|OBJ 6|7|ENDP 7|0|PROOT
+%spa:	$DJF:ST
+*MOT:	这 个 插 不 进去 的 .
+%mor:	det|zhe4=this cl|ge4 v|cha1=insert adv|bu4=not v|jin4qu4=go_into
+	cleft|de .
+%gra:	1|3|DET 2|1|LP 3|0|PROOT 4|3|PROOT 5|3|PROOT 6|7|ENDP 7|0|PROOT
+%spa:	$DJF:ST
+%act:	C抬头朝M看
+*MOT:	哦 ?
+%mor:	co|o1=chant ?
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DCA:ET
+*CHI:	插 上 了 .
+%mor:	v|cha1=insert v:dirc|shang4=go_up asp|le .
+%gra:	1|0|OBJ 2|1|NOM 3|0|OBJ 4|0|NONE
+%spa:	$DJF:ET
+%cod:	$CCD
+*MOT:	插 上 了 啊 .
+%mor:	v|cha1=insert v:dirc|shang4=go_up asp|le sfp|a1 .
+%gra:	1|0|OBJ 2|1|NOM 3|0|OBJ 4|5|ENDP 5|0|PROOT
+%spa:	$DJF:AP
+*CHI:	老师 看 .
+%mor:	n|lao3shi1=teacher v|kan4=look .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$NIA:RP
+%tur:	$turn
+%cod:	$CCD
+*CHI:	看 ‡ 插 上 了 .
+%mor:	v|kan4=look beg|beg v|cha1=insert v:dirc|shang4=go_up asp|le .
+%gra:	1|0|OBJ 2|0|OBJ 3|0|PROOT 4|3|VD 5|0|OBJ 6|0|NONE
+%spa:	$NIA:RP
+%cod:	$CCD
+*MOT:	等 一会儿 看 .
+%mor:	v|deng3=wait n:tm|yi4huir4=for_a_while v|kan4=look .
+%gra:	1|0|OBJ 2|0|OBJ 3|2|ATT 4|0|PROOT
+%spa:	$NIA:CS
+*MOT:	等 一会儿 看 .
+%mor:	v|deng3=wait n:tm|yi4huir4=for_a_while v|kan4=look .
+%gra:	1|0|OBJ 2|0|OBJ 3|2|ATT 4|0|PROOT
+%spa:	$NIA:CS
+*CHI:	看 我 插 上 了 .
+%mor:	v|kan4=look pro:per|wo3=I v|cha1=insert v:dirc|shang4=go_up asp|le
+	.
+%gra:	1|0|PROOT 2|0|OBJ 3|6|ENDP 4|3|VD 5|3|PTOP 6|0|NONE
+%spa:	$NIA:CS
+%tur:	$turn
+%cod:	$CCD
+*MOT:	不 看 了 .
+%mor:	adv|bu4=not v|kan4=look asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|PROOT
+%spa:	$NIA:DW
+*CHI:	再 看 一 次 就 不 看 了 .
+%mor:	adv|zai4=again v|kan4=look num|yi1=one cl|ci4=activity
+	adv|jiu4=just adv|bu4=not v|kan4=look asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|0|PROOT
+	7|0|PROOT 8|0|OBJ 9|0|PROOT
+%tur:	$turn
+%spa:	$NIA:CS
+%cod:	$CCD
+*MOT:	等 一会儿 看 .
+%mor:	v|deng3=wait n:tm|yi4huir4=for_a_while v|kan4=look .
+%gra:	1|0|OBJ 2|0|OBJ 3|2|ATT 4|0|PROOT
+%spa:	$NIA:CS
+*CHI:	再 看 一 次 就 不 看 了 .
+%mor:	adv|zai4=again v|kan4=look num|yi1=one cl|ci4=activity
+	adv|jiu4=just adv|bu4=not v|kan4=look asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|0|PROOT
+	7|0|PROOT 8|0|OBJ 9|0|PROOT
+%spa:	$NIA:CS
+%cod:	$CCD
+%tur:	$turn
+*MOT:	那 老师 就 关 掉 了 .
+%mor:	pro:dem|na4=that n|lao3shi1=teacher adv|jiu4=just v|guan1=shut
+	v:resc|diao4=done asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|7|ENDP 4|3|SRL 5|3|SRL 6|3|SRL 7|0|NONE
+%spa:	$NIA:WD
+*MOT:	不 拍 了 .
+%mor:	adv|bu4=not v|pai1=clap asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|PROOT
+%spa:	$NIA:WD
+*MOT:	快点 插 .
+%mor:	adv|kuai4dian3=hurrily v|cha1=insert .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*CHI:	老师 不 看 了 .
+%mor:	n|lao3shi1=teacher adv|bu4=not v|kan4=look asp|le .
+%gra:	1|0|PROOT 2|5|ENDP 3|2|SRL 4|2|ATT 5|0|NONE
+%spa:	$NIA:AD
+%tur:	$turn
+%cod:	$CCD
+*MOT:	哎 ‡ 老师 生气 了 .
+%mor:	co|ai1=ugh beg|beg n|lao3shi1=teacher v|sheng1qi4=get_angry asp|le
+	.
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|6|ENDP 5|4|OBJ 6|0|PROOT
+%spa:	$NIA:ST
+*MOT:	拍 好 再 看 .
+%mor:	v|pai1=clap adj|hao3=good adv|zai4=again v|kan4=look .
+%gra:	1|3|JCT 2|1|OBJ 3|5|ENDP 4|3|SRL 5|0|NONE
+%spa:	$NFA:PD
+*MOT:	拍 好 再 给 老师 看 „ 好 啊 ?
+%mor:	v|pai1=clap adj|hao3=good adv|zai4=again prep|gei3=for
+	n|lao3shi1=teacher v|kan4=look end|end adj|hao3=good sfp|a1 ?
+%gra:	1|3|JCT 2|1|PROOT 3|4|JCT 4|7|JCT 5|4|BEGP 6|4|SRL 7|10|ENDP
+	8|7|NOM 9|7|END 10|0|PROOT
+%spa:	$NFA:RQ
+*MOT:	拍 好 录像 给 你 看 的 .
+%mor:	v|pai1=clap adj|hao3=good n|lu4xiang4=videotape prep|gei3=for
+	pro:per|ni3=you v|kan4=look cleft|de .
+%gra:	1|0|PROOT 2|1|OBJ 3|0|PROOT 4|7|LP 5|4|PREPO 6|4|SRL 7|8|ENDP
+	8|0|PROOT
+%spa:	$NFA:RP
+*MOT:	坐 好 .
+%mor:	v|zuo4=sit adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	把 这 个 东西 做 好 .
+%mor:	prep|ba3=object_marker det|zhe4=this cl|ge4 n|dong1xi=thing
+	v|zuo4=make adj|hao3=good .
+%gra:	1|0|OBJ 2|0|PROOT 3|0|OBJ 4|0|PROOT 5|7|ENDP 6|5|JCT 7|0|PROOT
+%spa:	$DJF:RP
+*MOT:	哪 个 高 ?
+%mor:	pro:wh|na3=where cl|ge4 adj|gao1=tall ?
+%gra:	1|4|ENDP 2|1|LP 3|1|PUNCT 4|0|NONE
+*MOT:	哪 个 矮 啊 ?
+%mor:	pro:wh|na3=where cl|ge4 adj|ai3=short sfp|a1 ?
+%gra:	1|2|MOD 2|0|PROOT 3|0|PROOT 4|3|END 5|3|ENUM
+%spa:	$DJF:TQ
+*CHI:	这 个 高 .
+%mor:	det|zhe4=this cl|ge4 adj|gao1=tall .
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%tur:	$turn
+%cod:	$CCD
+*CHI:	这 个 矮 .
+%mor:	det|zhe4=this cl|ge4 adj|ai3=short .
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:TA
+%cod:	$CCD
+*MOT:	哦 ‡ 矮 的 放 在 这儿 .
+%mor:	co|o1=chant beg|beg adj|ai3=short nom|de v|fang4=put prep|zai4=at
+	post|zhe4&DIA=here .
+%gra:	1|2|DET 2|0|OBJ 3|0|PROOT 4|8|ENDP 5|4|PUNCT 6|4|PUNCT 7|4|PREPO
+	8|0|PROOT
+%spa:	$DJF:ST
+*CHI:	xxx .
+%spa:	$TXT:TX
+%act:	C插了一 个东西给M看
+*MOT:	哎 ‡ 有 几 个 圈圈 啊 ?
+%mor:	co|ai1=ugh beg|beg v|you3=have quant|ji3=some cl|ge4
+	n|quan1quan1=circles sfp|a1 ?
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|3|PROOT 5|6|POSTO 6|0|PROOT 7|8|ENDP
+	8|0|PROOT
+%spa:	$DJF:QN
+*CHI:	有 [/] 有 .
+%mor:	v|you3=have .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:NA
+*MOT:	有 红绿灯 吗 ?
+%mor:	v|you3=have n|hong2lv4deng1=traffic_light sfp|ma ?
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:YQ
+*MOT:	你 手 上 这 个 .
+%mor:	pro:per|ni3=you n|shou3=hand post|shang4=above det|zhe4=this cl|ge4
+	.
+%gra:	1|0|OBJ 2|1|SUBJ 3|1|ATT 4|6|ENDP 5|4|LP 6|0|PROOT
+%spa:	$DHA:ST
+*CHI:	有 [/] 有 .
+%mor:	v|you3=have .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:AA
+%cod:	$CCD
+*CHI:	我 知道 了 .
+%mor:	pro:per|wo3=I v|zhi1dao4=know asp|le .
+%gra:	1|0|OBJ 2|0|OBJ 3|0|OBJ 4|0|PROOT
+%spa:	$DJF:ST
+*MOT:	你 再 插 哪里 啊 ?
+%mor:	pro:per|ni3=you adv|zai4=again v|cha1=insert pro:wh|na3li3=where
+	sfp|a1 ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$DJF:QN
+*CHI:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:SA
+*CHI:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:SA
+%act:	C插完抬头看M
+*MOT:	哦 ‡ 插 进去 了 .
+%mor:	co|o1=chant beg|beg v|cha1=insert v|jin4qu4=go_into asp|le .
+%gra:	1|0|OBJ 2|0|OBJ 3|0|OBJ 4|3|NOM 5|0|OBJ 6|0|NONE
+%spa:	$DJF:AC
+*MOT:	警察 叔叔 来 了 .
+%mor:	n|jing3cha2=policeman n:relat|shu2&DIM=uncle v:dirc|lai2=come
+	asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|5|ENDP 4|3|JCT 5|0|PROOT
+%spa:	$DHA:ST
+%act:	M举起警察 叔叔
+*MOT:	坐 好 .
+%mor:	v|zuo4=sit adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DJF:RP
+*MOT:	坐 好 .
+%mor:	v|zuo4=sit adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DJF:RP
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:CL
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:CL
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:CL
+*MOT:	干吗 ?
+%mor:	pro:wh|gan4ma2=what ?
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:QN
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:CL
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:CL
+*MOT:	我 不 睬 你 .
+%mor:	pro:per|wo3=I adv|bu4=not v|cai3=see pro:per|ni3=you .
+%gra:	1|0|PROOT 2|0|OBJ 3|2|SRL 4|2|ATT 5|0|PROOT
+%spa:	$NIA:WD
+*MOT:	插 进去 了 吗 ?
+%mor:	v|cha1=insert v|jin4qu4=go_into asp|le sfp|ma ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|NONE 5|4|PUNCT
+%spa:	$DJF:YQ
+*CHI:	插 进去 .
+%mor:	v|cha1=insert v|jin4qu4=go_into .
+%gra:	1|0|PROOT 2|1|JCT 3|0|PROOT
+%spa:	$DJF:AA
+%cod:	$CCD
+*MOT:	坐 好 .
+%mor:	v|zuo4=sit adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DHA:RP
+*MOT:	坐 好 .
+%mor:	v|zuo4=sit adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DJF:RP
+%act:	M拍椅子让C坐
+*MOT:	不 好 拔 出来 .
+%mor:	adv|bu4=not adj|hao3=good v|ba2=pull v|chu1lai2=go_out .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DCA:PF
+%act:	C在桌子上推车
+*MOT:	这 是 什么 车 啊 ?
+%mor:	pro:dem|zhe4=this v:cop|shi4=is pro:wh|shen2me=what n|che1=vehicle
+	sfp|a1 ?
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|NONE
+%spa:	$DJF:QN
+*MOT:	牛 车 啊 ?
+%mor:	n|niu2=ox n|che1=vehicle sfp|a1 ?
+%gra:	1|2|MOD 2|0|PROOT 3|4|ENDP 4|0|NONE
+%spa:	$DJF:YQ
+*CHI:	xxx .
+%spa:	$DJF:ST
+*MOT:	这 是 什么 车 啊 ?
+%mor:	pro:dem|zhe4=this v:cop|shi4=is pro:wh|shen2me=what n|che1=vehicle
+	sfp|a1 ?
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|NONE
+%spa:	$DJF:QN
+*MOT:	告诉 妈妈 .
+%mor:	v|gao4su4=tell n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+*MOT:	什么 是 交通 工具 啊 ?
+%mor:	pro:wh|shen2me=what v:cop|shi4=is n|jiao1tong1=traffic
+	n|gong1ju4=tool sfp|a1 ?
+%gra:	1|0|PROOT 2|4|CMOD 3|2|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$NIA:RP
+*MOT:	你 知道 吗 ?
+%mor:	pro:per|ni3=you v|zhi1dao4=know sfp|ma ?
+%gra:	1|2|SUBJ 2|0|OBJ 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:YQ
+*CHI:	这 是 交通 工具 .
+%mor:	pro:dem|zhe4=this v:cop|shi4=is n|jiao1tong1=traffic
+	n|gong1ju4=tool .
+%gra:	1|0|PROOT 2|4|CMOD 3|2|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DJF:SA
+%cod:	$CCD
+*MOT:	哪 个 是 ?
+%mor:	pro:wh|na3=where cl|ge4 v:cop|shi4=is ?
+%gra:	1|2|MOD 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$DJF:QN
+*MOT:	哪 个 是 交通 工具 ?
+%mor:	pro:wh|na3=where cl|ge4 v:cop|shi4=is n|jiao1tong1=traffic
+	n|gong1ju4=tool ?
+%gra:	1|3|DET 2|1|LP 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$DJF:QN
+*MOT:	讲 啊 .
+%mor:	v|jiang3=speak sfp|a1 .
+%gra:	1|3|ENDP 2|1|PREPO 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	你 知道 什么 叫 交通 工具 .
+%mor:	pro:per|ni3=you v|zhi1dao4=know pro:wh|shen2me=what v|jiao4=call
+	n|jiao1tong1=traffic n|gong1ju4=tool .
+%gra:	1|0|OBJ 2|0|OBJ 3|0|PROOT 4|6|JCT 5|4|PROOT 6|0|PROOT 7|0|PROOT
+%spa:	$DCC:QN
+%act:	M拉C
+*CHI:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:ED
+*MOT:	坐 下来 .
+%mor:	v|zuo4=sit v|xia4lai2=come_down .
+%gra:	1|0|OBJ 2|1|NOM 3|0|PROOT
+%spa:	$DHA:RP
+*CHI:	嘿 .
+%mor:	co|hei1=hey .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$MRK:MK
+*MOT:	什么 是 交通 工具 啊 ?
+%mor:	pro:wh|shen2me=what v:cop|shi4=is n|jiao1tong1=traffic
+	n|gong1ju4=tool sfp|a1 ?
+%gra:	1|0|PROOT 2|4|CMOD 3|2|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$DCC:QN
+*MOT:	能不能 告诉 我 啊 ?
+%mor:	v:aux|neng2&DIM=can v|gao4su4=tell pro:per|wo3=I sfp|a1 ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|5|ENDP 5|0|NONE
+%spa:	$NIA:RQ
+*MOT:	什么 是 交通 工具 ?
+%mor:	pro:wh|shen2me=what v:cop|shi4=is n|jiao1tong1=traffic
+	n|gong1ju4=tool ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$DCC:QN
+*MOT:	讲 啊 .
+%mor:	v|jiang3=speak sfp|a1 .
+%gra:	1|3|ENDP 2|1|PREPO 3|0|PROOT
+%spa:	$DHA:RP
+*CHI:	不 是 交通 工具 .
+%mor:	adv|bu4=not v:cop|shi4=is n|jiao1tong1=traffic n|gong1ju4=tool .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DJF:ST
+%tur:	$turn
+%cod:	$CCD
+*MOT:	哦 ‡ 不 是 交通 工具 .
+%mor:	co|o1=chant beg|beg adv|bu4=not v:cop|shi4=is n|jiao1tong1=traffic
+	n|gong1ju4=tool .
+%gra:	1|2|ENDP 2|0|OBJ 3|5|JCT 4|3|SRL 5|0|PROOT 6|7|ENDP 7|0|PROOT
+%spa:	$DJF:AC
+*MOT:	谁 呀 ?
+%mor:	pro:wh|shei2=who sfp|ya ?
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DJF:QN
+*MOT:	火车 什么 ?
+%mor:	n|huo3che1=train pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|3|ENDP 3|0|NONE
+%spa:	$DJF:EQ
+*CHI:	火车 是 交通 工具 .
+%mor:	n|huo3che1=train v:cop|shi4=is n|jiao1tong1=traffic n|gong1ju4=tool
+	.
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$DJF:SA
+%tur:	$turn
+*MOT:	还有 呢 ?
+%mor:	conj|hai2you3=as_well_as sfp|ne ?
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DJF:EQ
+%act:	C把做的积木放在嘴上
+*MOT:	在 干吗 ?
+%mor:	prep|zai4=at pro:wh|gan4ma2=what ?
+%gra:	1|0|PROOT 2|1|APP 3|0|NONE
+%spa:	$DCA:QN
+*MOT:	这 是 什么 东西 啊 ?
+%mor:	pro:dem|zhe4=this v:cop|shi4=is pro:wh|shen2me=what n|dong1xi=thing
+	sfp|a1 ?
+%gra:	1|2|SUBJ 2|0|PROOT 3|0|OBJ 4|0|PROOT 5|6|ENDP 6|0|NONE
+%spa:	$DJF:QN
+*CHI:	吃 这 个 .
+%mor:	v|chi1=eat det|zhe4=this cl|ge4 .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$DRE:SA
+*MOT:	吃 什么 ?
+%mor:	v|chi1=eat pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|NONE
+%spa:	$DRE:QN
+*CHI:	这 个 .
+%mor:	det|zhe4=this cl|ge4 .
+%gra:	1|3|ENDP 2|1|LP 3|0|PROOT
+%spa:	$DRE:SA
+%tur:	$turn
+%cod:	$CCD
+*CHI:	这 个 .
+%mor:	det|zhe4=this cl|ge4 .
+%gra:	1|3|ENDP 2|1|LP 3|0|PROOT
+%spa:	$DRE:SA
+%act:	C去碰桌子上的盒子
+*MOT:	回来 .
+%mor:	v|hui2lai2=come_back .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:RP
+*CHI:	这儿 没 有 了 .
+%mor:	post|zhe4&DIA=here adv|mei2=not v|you3=have asp|le .
+%gra:	1|0|OBJ 2|5|ENDP 3|2|SRL 4|2|ATT 5|0|NONE
+%spa:	$DJF:ST
+%tur:	$turn
+%cod:	$CID
+*MOT:	里面 是 没 有 了 呀 .
+%mor:	post|li3mian4=inside v:cop|shi4=is adv|mei2=not v|you3=have asp|le
+	sfp|ya .
+%gra:	1|0|OBJ 2|0|PROOT 3|2|PROOT 4|2|ROOT 5|0|OBJ 6|7|ENDP 7|0|PROOT
+%spa:	$DJF:AP
+*MOT:	没 有 了 呀 .
+%mor:	adv|mei2=not v|you3=have asp|le sfp|ya .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|PROOT 5|0|PROOT
+%spa:	$DJF:AP
+*MOT:	好 了 .
+%mor:	adj|hao3=good asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|NONE
+%spa:	$DJF:MK
+*MOT:	没 有 了 .
+%mor:	adv|mei2=not v|you3=have asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|PROOT
+%spa:	$DJF:ST
+*MOT:	过来 .
+%mor:	v|guo4lai2=come_over .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:RP
+*MOT:	你 在 吃 什么 东西 啊 ?
+%mor:	pro:per|ni3=you adv|zai4=currently v|chi1=eat pro:wh|shen2me=what
+	n|dong1xi=thing sfp|a1 ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|OBJ 5|0|PROOT 6|7|ENDP 7|0|PROOT
+%spa:	$DRE:QN
+*MOT:	这 个 什么 东西 啊 ?
+%mor:	det|zhe4=this cl|ge4 pro:wh|shen2me=what n|dong1xi=thing sfp|a1 ?
+%gra:	1|0|PROOT 2|0|PROOT 3|5|MOD 4|3|SRL 5|6|ENDP 6|0|PROOT
+%spa:	$DJF:QN
+*MOT:	吃 什么 ?
+%mor:	v|chi1=eat pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|NONE
+%spa:	$DRE:QN
+*CHI:	蛋糕 .
+%mor:	n|dan4gao1=cake .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:SA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	蛋糕 .
+%mor:	n|dan4gao1=cake .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:RT
+*MOT:	这 是 像 什么 啊 ?
+%mor:	pro:dem|zhe4=this v:cop|shi4=is v|xiang4=be_like
+	pro:wh|shen2me=what sfp|a1 ?
+%gra:	1|2|SUBJ 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$DJF:EQ
+*CHI:	棒棒糖 .
+%mor:	n|bang4bang4tang2=lolipop .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:SA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	哦 ‡ 有点 像 的 .
+%mor:	co|o1=chant beg|beg adv|you3dian3=a_little_bit v|xiang4=be_like
+	cleft|de .
+%gra:	1|0|PROOT 2|0|OBJ 3|6|ENDP 4|3|SRL 5|3|ATT 6|0|PROOT
+%spa:	$DJF:AC
+*MOT:	你 吃 了 还 甜 的 ? [+ gram]
+%mor:	pro:per|ni3=you v|chi1=eat asp|le adv|hai2=still adj|tian2=sweet
+	nom|de ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|5|JCT 5|0|PROOT 6|5|POSS 7|0|PROOT
+%spa:	$DFW:YQ
+%act:	M把苹果树放到C的嘴边
+*MOT:	没 有 .
+%mor:	adv|mei2=not v|you3=have .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DFW:DS
+*MOT:	假装 吃 的 .
+%mor:	v|jia3zhuang1=pretend v|chi1=eat cleft|de .
+%gra:	1|0|PROOT 2|1|OBJ 3|4|ENDP 4|0|PROOT
+%spa:	$DFW:RP
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:CL
+%act:	C回到位置上碰了桌子一下
+*MOT:	哎呀 .
+%mor:	co|ai1ya1=jeez .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:ED
+*MOT:	你 把 人家 桌子 弄 坏 了 .
+%mor:	pro:per|ni3=you prep|ba3=object_marker pro:per|ren2jia1=people
+	n|zhuo1zi=table v|nong4=make v:resc|huai4=spoil asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|5|SUBJ 4|3|PROOT 5|0|PROOT 6|0|PROOT 7|0|OBJ
+	8|0|PROOT
+%spa:	$DRE:DS
+*MOT:	你 拍 了 就 有 望尘 了 .
+%mor:	pro:per|ni3=you v|pai1=clap asp|le adv|jiu4=just v|you3=have
+	n:name|wang4chen2 asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|8|ENDP 5|4|SRL 6|4|SRL 7|4|SRL
+	8|0|PROOT
+%spa:	$NIA:ST
+*MOT:	你 没 有 拍 就 没 有 望尘 .
+%mor:	pro:per|ni3=you adv|mei2=not v|you3=have n|pai1=beat adv|jiu4=just
+	adv|mei2=not v|you3=have n:name|wang4chen2 .
+%gra:	1|3|SUBJ 2|1|PROOT 3|0|PROOT 4|0|OBJ 5|9|ENDP 6|5|PROOT 7|5|SRL
+	8|5|SRL 9|0|NONE
+%spa:	$NIA:ST
+*MOT:	这 个 是 棒棒糖 啊 ?
+%mor:	det|zhe4=this cl|ge4 v:cop|shi4=is n|bang4bang4tang2=lolipop sfp|a1
+	?
+%gra:	1|3|DET 2|1|LP 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|NONE
+%spa:	$DJF:YQ
+*CHI:	这 个 是 棒棒糖 .
+%mor:	det|zhe4=this cl|ge4 v:cop|shi4=is n|bang4bang4tang2=lolipop .
+%gra:	1|0|PROOT 2|0|PROOT 3|4|CMOD 4|0|PROOT 5|0|PROOT
+%spa:	$DJF:AA
+*MOT:	这 个 不 是 棒棒糖 .
+%mor:	det|zhe4=this cl|ge4 adv|bu4=not v:cop|shi4=is
+	n|bang4bang4tang2=lolipop .
+%gra:	1|6|ENDP 2|1|LP 3|5|JCT 4|3|SRL 5|1|LP 6|0|PROOT
+%spa:	$DJF:DW
+*MOT:	这 两 个 一样 吗 ?
+%mor:	pro:dem|zhe4=this num|liang3=two cl|ge4 adj|yi1yang4=same sfp|ma ?
+%gra:	1|0|PROOT 2|1|PROOT 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|NONE
+%spa:	$DJF:YQ
+*CHI:	一样 .
+%mor:	adj|yi1yang4=same .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:AA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	这 两 个 呢 ?
+%mor:	pro:dem|zhe4=this num|liang3=two cl|ge4 sfp|ne ?
+%gra:	1|0|PROOT 2|3|MOD 3|4|POSTO 4|5|ENDP 5|0|NONE
+%spa:	$DJF:YQ
+*CHI:	不 一样 .
+%mor:	adv|bu4=not adj|yi1yang4=same .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DJF:AN
+%tur:	$turn
+%cod:	$CCD
+*MOT:	哎 ‡ 不 一样 .
+%mor:	co|ai1=ugh beg|beg adv|bu4=not adj|yi1yang4=same .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DJF:AC
+*CHI:	一样 .
+%mor:	adj|yi1yang4=same .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:ST
+%cod:	$CCD
+%tur:	$turn
+*CHI:	一样 .
+%mor:	adj|yi1yang4=same .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:ST
+%cod:	$CCD
+*MOT:	去 .
+%mor:	v:dirc|qu4=go .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DRE:DS
+%cod:	$CCD
+%act:	M用手刮了C一下
+*CHI:	一样 .
+%mor:	adj|yi1yang4=same .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:ST
+%cod:	$CCD
+%tur:	$turn
+*MOT:	我 不 理 你 了 .
+%mor:	pro:per|wo3=I adv|bu4=not v|li3=manage pro:per|ni3=you asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|2|SRL 4|2|ATT 5|0|OBJ 6|0|PROOT
+%spa:	$NIA:WD
+*CHI:	不 一样 .
+%mor:	adv|bu4=not adj|yi1yang4=same .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:ST
+%cod:	$CCD
+%tur:	$turn
+*MOT:	嗯 .
+%mor:	co|en1=okay .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:AP
+*MOT:	哪 两 个 一样 的 ?
+%mor:	pro:wh|na3=where num|liang3=two cl|ge4 adj|yi1yang4=same nom|de ?
+%gra:	1|2|JCT 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$DJF:QN
+*MOT:	给 妈妈 找 个 一样 的 拿 出来 .
+%mor:	prep|gei3=for n:relat|ma1&DIM=mother v|zhao3=search cl|ge4
+	adj|yi1yang4=same nom|de prep|na2=with v|chu1lai2=go_out .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|NONE 4|3|PROOT 5|3|PROOT 6|3|SFP 7|6|PROOT
+	8|7|VD 9|3|PUNCT
+%spa:	$DJF:RP
+*MOT:	一样 啊 这 两 个 ?
+%mor:	adj|yi1yang4=same sfp|a1 pro:dem|zhe4=this num|liang3=two cl|ge4 ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|CPT 4|5|QUANT 5|3|LP 6|3|PUNCT
+%spa:	$DJF:YQ
+*CHI:	一样 .
+%mor:	adj|yi1yang4=same .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:AA
+%cod:	$CCD
+%tur:	$turn
+*MOT:	代 妈妈 找 .
+%mor:	v|dai4=take_the_place_of n:relat|ma1&DIM=mother v|zhao3=search .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|NONE 4|3|PUNCT
+%spa:	$NIA:RP
+%act:	C抢过M手中的两 个积木
+*MOT:	这 两 棵 大 树 一样 吗 ?
+%mor:	pro:dem|zhe4=this num|liang3=two cl|ke1 v|da4=poop n|shu4=tree
+	adj|yi1yang4=same sfp|ma ?
+%gra:	1|0|OBJ 2|1|PROOT 3|0|OBJ 4|0|PROOT 5|4|PROOT 6|0|PROOT 7|8|ENDP
+	8|0|PROOT
+%spa:	$DHA:YQ
+*CHI:	一样 .
+%mor:	adj|yi1yang4=same .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:AA
+%cod:	$CCD
+%tur:	$turn
+*MOT:	嗯 .
+%mor:	co|en1=okay .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:AC
+*CHI:	一 二 三 四 五 .
+%mor:	num|yi1=one num|er4=two num|san1=three num|si4=four num|wu3=five .
+%gra:	1|5|BEG 2|1|ENUM 3|1|ENUM 4|1|ENUM 5|6|ENDP 6|0|PROOT
+%spa:	$TXT:TX
+*MOT:	跟 妈妈 找 这 个 一样 的 有 吗 ?
+%mor:	prep|gen1=with n:relat|ma1&DIM=mother v|zhao3=search det|zhe4=this
+	cl|ge4 adj|yi1yang4=same nom|de v|you3=have sfp|ma ?
+%gra:	1|0|OBJ 2|0|PROOT 3|9|MOD 4|3|PROOT 5|3|PROOT 6|3|PROOT 7|3|PROOT
+	8|3|SRL 9|10|ENDP 10|0|PROOT
+%spa:	$DHA:YQ
+*MOT:	这 个 ?
+%mor:	det|zhe4=this cl|ge4 ?
+%gra:	1|3|ENDP 2|1|LP 3|0|PROOT
+%spa:	$DHA:YQ
+*CHI:	没 有 .
+%mor:	adv|mei2=not v|you3=have .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%cod:	$CCD
+%spa:	$DJF:AN
+*MOT:	哦 ‡ 没 有 .
+%mor:	co|o1=chant beg|beg adv|mei2=not v|you3=have .
+%gra:	1|0|OBJ 2|0|OBJ 3|5|ENDP 4|3|SRL 5|0|PROOT
+%spa:	$DJF:AC
+*MOT:	这 个 一样 的 有 吗 ?
+%mor:	det|zhe4=this cl|ge4 adj|yi1yang4=same nom|de v|you3=have sfp|ma ?
+%gra:	1|0|OBJ 2|0|PROOT 3|0|PROOT 4|6|MOD 5|4|PUNCT 6|7|ENDP 7|0|NONE
+%spa:	$DHA:YQ
+*MOT:	看看 .
+%mor:	v|kan4&DIM=look .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:RP
+*MOT:	有 吗 ?
+%mor:	v|you3=have sfp|ma ?
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DJF:YQ
+*CHI:	没 有 一样 的 .
+%mor:	adv|mei2=not v|you3=have adj|yi1yang4=same nom|de .
+%gra:	1|0|OBJ 2|0|PROOT 3|0|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$DJF:AN
+%cod:	$CCD
+%tur:	$turn
+*MOT:	没 有 啊 ?
+%mor:	adv|mei2=not v|you3=have sfp|a1 ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$DCC:YQ
+*CHI:	没 有 .
+%mor:	adv|mei2=not v|you3=have .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%cod:	$CCD
+%spa:	$DCC:AN
+*MOT:	这 是 什么 啦 ?
+%mor:	pro:dem|zhe4=this v:cop|shi4=is pro:wh|shen2me=what sfp|la1 ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$DJF:QN
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:CL
+*MOT:	这 是 什么 ?
+%mor:	pro:dem|zhe4=this v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|NONE
+%spa:	$DJF:QN
+*MOT:	大 树 在不在 长 啊 ?
+%mor:	v|da4=poop n|shu4=tree adv|zai4&QUE=currently adj|chang2=long
+	sfp|a1 ?
+%gra:	1|0|OBJ 2|0|PROOT 3|6|ENDP 4|3|ATT 5|3|SFP 6|0|NONE
+%spa:	$DJF:YQ
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	唱歌 了 你 .
+%mor:	v|chang4ge1=sing asp|le pro:per|ni3=you .
+%gra:	1|0|PROOT 2|1|OBJ 3|0|PROOT 4|0|NONE
+%spa:	$DCA:DS
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	轱辘轱辘@o .
+%mor:	on|轱辘轱辘 .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$TXT:TX
+*MOT:	轱辘轱辘@o .
+%mor:	on|轱辘轱辘 .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$TXT:TX
+*CHI:	轱辘轱辘@o .
+%mor:	on|轱辘轱辘 .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$TXT:TX
+*MOT:	好 冷 啊 .
+%mor:	adv|hao3=very adj|leng3=cool sfp|a1 .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$TXT:TX
+*MOT:	过来 .
+%mor:	v|guo4lai2=come_over .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:RP
+*MOT:	你 看 .
+%mor:	pro:per|ni3=you v|kan4=look .
+%gra:	1|0|PROOT 2|1|SUBJ 3|0|NONE
+%spa:	$DHA:RP
+*MOT:	哪 个 大 ?
+%mor:	pro:wh|na3=where cl|ge4 v|da4=poop ?
+%gra:	1|4|ENDP 2|1|LP 3|1|PUNCT 4|0|NONE
+*MOT:	哪 个 小 ?
+%mor:	pro:wh|na3=where cl|ge4 adj|xiao3=small ?
+%gra:	1|3|JCT 2|1|LP 3|0|PROOT 4|0|NONE
+%spa:	$DJF:TQ
+*CHI:	这 个 大 .
+%mor:	det|zhe4=this cl|ge4 v|da4=poop .
+%cod:	$CCD
+%gra:	1|3|DET 2|1|LP 3|4|ENDP 4|0|PROOT
+%tur:	$turn
+*MOT:	这 个 小 .
+%mor:	det|zhe4=this cl|ge4 adj|xiao3=small .
+%cod:	$CCD
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:TA
+*CHI:	哎哟 .
+%mor:	co|ai1yo1=arrgh .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:ED
+*MOT:	你 看 这 个 哪 个 大 ?
+%mor:	pro:per|ni3=you v|kan4=look det|zhe4=this cl|ge4 pro:wh|na3=where
+	cl|ge4 v|da4=poop ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|8|ENDP 6|5|LP 7|5|PUNCT
+	8|0|PROOT
+%spa:	$NIA:RP
+%act:	C没反映
+*MOT:	哎 ‡ 看看 这 个 哪 个 大 ?
+%mor:	co|ai1=ugh beg|beg v|kan4&DIM=look det|zhe4=this cl|ge4
+	pro:wh|na3=where cl|ge4 v|da4=poop ?
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|9|ENDP 7|6|LP
+	8|6|PUNCT 9|0|NONE
+%spa:	$DHA:QN
+%act:	M用积木拍C的嘴巴
+*MOT:	快点 [/] 快点 .
+%mor:	adv|kuai4dian3=hurrily .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:RP
+*CHI:	有 吗 ?
+%mor:	v|you3=have sfp|ma ?
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DJF:YQ
+*MOT:	你 过来 .
+%mor:	pro:per|ni3=you v|guo4lai2=come_over .
+%gra:	1|2|SUBJ 2|0|PROOT 3|0|PROOT
+%spa:	$DHA:RP
+*MOT:	看 着 我 .
+%mor:	v|kan4=look asp|zhe pro:per|wo3=I .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|NONE
+%spa:	$DHA:RP
+*MOT:	哪 个 大 ?
+%mor:	pro:wh|na3=where cl|ge4 v|da4=poop ?
+%gra:	1|4|ENDP 2|1|LP 3|1|PUNCT 4|0|NONE
+%spa:	$DJF:QN
+*CHI:	我 要 看见 望尘 .
+%mor:	pro:per|wo3=I v:aux|yao4=should v|kan4jian4=see n:name|wang4chen2 .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|3|PROOT 5|0|PROOT
+%spa:	$NIA:SI
+%cod:	$CID
+%act:	C走向拍摄的地方
+*MOT:	看不见 望尘 了 .
+%mor:	v|kan4jian4&QUE=see n:name|wang4chen2 asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|NONE
+%spa:	$NIA:CS
+*MOT:	过来 就 有 了 .
+%mor:	v|guo4lai2=come_over adv|jiu4=just v|you3=have asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|2|SRL 4|0|OBJ 5|0|NONE
+%spa:	$NIA:RP
+*MOT:	过来 .
+%mor:	v|guo4lai2=come_over .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:RP
+*MOT:	过来 就 有 了 .
+%mor:	v|guo4lai2=come_over adv|jiu4=just v|you3=have asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|2|SRL 4|0|OBJ 5|0|NONE
+%spa:	$NIA:ST
+*MOT:	快 .
+%mor:	adv|kuai4=quickly .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:RP
+*MOT:	你 告诉 老师 哪 个 大 哪 个 小 就 有 了 .
+%mor:	pro:per|ni3=you v|gao4su4=tell n|lao3shi1=teacher pro:wh|na3=where
+	cl|ge4 v|da4=poop pro:wh|na3=where cl|ge4 adj|xiao3=small
+	adv|jiu4=just v|you3=have asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|6|QUANT 5|4|APP 6|0|PROOT 7|9|JCT
+	8|7|LP 9|0|PROOT 10|13|ENDP 11|10|SRL 12|10|SRL 13|0|PROOT
+%spa:	$NIA:RP
+*MOT:	快点 过来 .
+%mor:	adv|kuai4dian3=hurrily v|guo4lai2=come_over .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	过来 .
+%mor:	v|guo4lai2=come_over .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:RP
+*MOT:	告诉 老师 哪 个 大 哪 个 小 啊 ?
+%mor:	v|gao4su4=tell n|lao3shi1=teacher pro:wh|na3=where cl|ge4
+	v|da4=poop pro:wh|na3=where cl|ge4 adj|xiao3=small sfp|a1 ?
+%gra:	1|0|OBJ 2|0|PROOT 3|5|QUANT 4|3|APP 5|0|PROOT 6|8|JCT 7|6|LP
+	8|0|PROOT 9|10|ENDP 10|0|PROOT
+%spa:	$NIA:RP
+*MOT:	看 好 .
+%mor:	v|kan4=look adj|hao3=good .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DHA:RP
+*MOT:	看 好 .
+%mor:	v|kan4=look adj|hao3=good .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DHA:RP
+*MOT:	看 好 眼睛 .
+%mor:	v|kan4=look adj|hao3=good n|yan3jing1=eye .
+%gra:	1|0|PROOT 2|1|JCT 3|2|SRL 4|0|PROOT
+%spa:	$DHA:RP
+*MOT:	不 跟 你 玩 啦 .
+%mor:	adv|bu4=not prep|gen1=with pro:per|ni3=you v|wan2=play sfp|la1 .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|0|PROOT
+%spa:	$NIA:WD
+*MOT:	哪 个 大 ?
+%mor:	pro:wh|na3=where cl|ge4 v|da4=poop ?
+%gra:	1|4|ENDP 2|1|LP 3|1|PUNCT 4|0|NONE
+*MOT:	哪 个 小 ?
+%mor:	pro:wh|na3=where cl|ge4 adj|xiao3=small ?
+%gra:	1|3|JCT 2|1|LP 3|0|PROOT 4|0|NONE
+%spa:	$DJF:TQ
+*MOT:	看 好 .
+%mor:	v|kan4=look adj|hao3=good .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DHA:RP
+*CHI:	这 个 大 .
+%mor:	det|zhe4=this cl|ge4 v|da4=poop .
+%gra:	1|3|DET 2|1|LP 3|4|ENDP 4|0|PROOT
+%tur:	$turn
+%cod:	$CCD
+*CHI:	这 个 小 .
+%mor:	det|zhe4=this cl|ge4 adj|xiao3=small .
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:TA
+%cod:	$CCD
+*MOT:	看 清楚 哪 个 大 哪 个 小 啊 ?
+%mor:	v|kan4=look adj|qing1chu3=clear pro:wh|na3=where cl|ge4 v|da4=poop
+	pro:wh|na3=where cl|ge4 adj|xiao3=small sfp|a1 ?
+%gra:	1|0|OBJ 2|5|QUANT 3|2|PTOP 4|3|PTOP 5|0|PROOT 6|8|JCT 7|6|LP
+	8|0|PROOT 9|10|ENDP 10|0|PROOT
+%spa:	$DJF:TQ
+*CHI:	这 个 大 .
+%mor:	det|zhe4=this cl|ge4 v|da4=poop .
+%gra:	1|3|DET 2|1|LP 3|4|ENDP 4|0|PROOT
+%tur:	$turn
+%cod:	$CCD
+*CHI:	这 个 小 .
+%mor:	det|zhe4=this cl|ge4 adj|xiao3=small .
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:TA
+%cod:	$CCD
+*MOT:	眼睛 也 不 看 着 的 .
+%mor:	n|yan3jing1=eye adv|ye3=also adv|bu4=not v|kan4=look asp|zhe
+	poss|de .
+%gra:	1|0|PROOT 2|0|NONE 3|2|PROOT 4|3|SRL 5|2|OBJ 6|2|ROOT 7|2|SUBJ
+%spa:	$DRE:CR
+*CHI:	哎 [x 3] .
+%mor:	co|ai1=ugh .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$TXT:TX
+%act:	C在插积木
+*MOT:	这 个 插 进去 是 干 什么 的 ?
+%mor:	det|zhe4=this cl|ge4 v|cha1=insert v|jin4qu4=go_into v:cop|shi4=is
+	v|gan4=do pro:wh|shen2me=what poss|de ?
+%gra:	1|0|PROOT 2|4|SUBJ 3|2|PUNCT 4|0|PROOT 5|0|PROOT 6|0|PROOT 7|9|JCT
+	8|9|ENDP 9|0|NONE
+%spa:	$DCA:QN
+*MOT:	这 插 什么 东西 啊 这 个 ?
+%mor:	pro:dem|zhe4=this v|cha1=insert pro:wh|shen2me=what n|dong1xi=thing
+	sfp|a1 det|zhe4=this cl|ge4 ?
+%gra:	1|0|PROOT 2|0|OBJ 3|2|OBJ 4|0|PROOT 5|8|ENDP 6|5|OBJ 7|5|APP
+	8|0|PROOT
+%spa:	$DHA:QN
+*MOT:	啊 ?
+%mor:	sfp|a1 ?
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DJF:EQ
+*CHI:	xxx .
+%spa:	$TXT:TX
+%act:	C在敲桌子
+*MOT:	不 要 弄 啊 .
+%mor:	adv|bu4=not v:aux|yao4=should v|nong4=make sfp|a1 .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DCA:PF
+*MOT:	玻璃 要 被 你 弄 坏 了 .
+%mor:	n|bo1li2=glass v|yao4=want prep|bei4=by pro:per|ni3=you
+	v|nong4=make v:resc|huai4=spoil asp|le .
+%gra:	1|0|PROOT 2|5|JCT 3|2|PROOT 4|2|PROOT 5|0|PROOT 6|5|PRED 7|5|JCT
+	8|0|PROOT
+%spa:	$NIA:GR
+*MOT:	这 个 是 草地 呀 .
+%mor:	det|zhe4=this cl|ge4 v:cop|shi4=is n|cao3di4=grassland sfp|ya .
+%gra:	1|3|DET 2|1|LP 3|4|CMOD 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$DJF:ST
+%act:	C在敲积木
+*MOT:	哎哟 .
+%mor:	co|ai1yo1=arrgh .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:ET
+*MOT:	这 个 插 进去 啦 .
+%mor:	det|zhe4=this cl|ge4 v|cha1=insert v|jin4qu4=go_into sfp|la1 .
+%gra:	1|0|OBJ 2|4|SUBJ 3|2|PUNCT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$DJF:ST
+*MOT:	插 进去 干 什么 呢 ?
+%mor:	v|cha1=insert v|jin4qu4=go_into v|gan4=do pro:wh|shen2me=what
+	sfp|ne ?
+%gra:	1|0|OBJ 2|0|PROOT 3|2|OBJ 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$DJF:QN
+*MOT:	把 这 个 大 树 插 上去 .
+%mor:	prep|ba3=object_marker det|zhe4=this cl|ge4 v|da4=poop n|shu4=tree
+	v|cha1=insert v|shang4qu4=go_up .
+%gra:	1|0|PROOT 2|4|DET 3|2|LP 4|0|OBJ 5|0|PROOT 6|0|NONE 7|6|PROOT
+	8|6|PROOT
+%spa:	$DJF:SI
+%act:	M自己插树
+*MOT:	一 棵 大 树 看 到 没 有 啊 ?
+%mor:	num|yi1=one cl|ke1 v|da4=poop n|shu4=tree v|kan4=look
+	v:resc|dao4=arrive adv|mei2=not v|you3=have sfp|a1 ?
+%gra:	1|0|OBJ 2|0|OBJ 3|7|JCT 4|3|OBJ 5|3|OBJ 6|3|OM 7|10|ENDP 8|7|SRL
+	9|7|ATT 10|0|NONE
+%spa:	$DJF:YQ
+*MOT:	再 插 个 大 树 „ 好 吗 ?
+%mor:	adv|zai4=again v|cha1=insert cl|ge4 v|da4=poop n|shu4=tree end|end
+	adj|hao3=good sfp|ma ?
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|0|PROOT 7|0|PROOT
+	8|9|ENDP 9|0|PROOT
+%spa:	$NIA:RQ
+*MOT:	把 这 个 拔 出来 .
+%mor:	prep|ba3=object_marker det|zhe4=this cl|ge4 v|ba2=pull
+	v|chu1lai2=go_out .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|PROOT 5|4|VD 6|0|PROOT
+%spa:	$DJF:RP
+*CHI:	xxx .
+%spa:	$TXT:TX
+*CHI:	走 [x 3] .
+%mor:	v:dirc|zou3=go_away .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$TXT:TX
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	唱 什么 歌 啊 ?
+%mor:	v|chang4=sing pro:wh|shen2me=what n|ge1=song sfp|a1 ?
+%gra:	1|5|ENDP 2|1|PROOT 3|1|PROOT 4|1|END 5|0|PROOT
+%spa:	$DCC:QN
+*MOT:	嘿嘿 .
+%mor:	co|hei1&DIM=hey .
+%gra:	1|0|OBJ 2|0|PROOT
+%spa:	$MRK:MK
+*MOT:	唱 什么 歌 啊 „ 望尘 ?
+%mor:	v|chang4=sing pro:wh|shen2me=what n|ge1=song sfp|a1 end|end
+	n:name|wang4chen2 ?
+%gra:	1|5|JCT 2|1|OBJ 3|1|PROOT 4|1|END 5|7|ENDP 6|5|ROOT 7|0|NONE
+%spa:	$DCC:QN
+%act:	C在拨弄积木
+*MOT:	大 树 卡 住 了 .
+%mor:	v|da4=poop n|shu4=tree v|ka3=get_stuck v:resc|zhu4=inhabit asp|le .
+%gra:	1|0|PROOT 2|1|PROOT 3|0|PROOT 4|3|VR 5|0|OBJ 6|0|NONE
+%spa:	$DJF:ST
+*MOT:	倒 下来 了 .
+%mor:	v|dao4=pour v|xia4lai2=come_down asp|le .
+%gra:	1|0|OBJ 2|1|NOM 3|0|OBJ 4|0|NONE
+%spa:	$DJF:ST
+*MOT:	不 好 弄 坏 的 .
+%mor:	adv|bu4=not adj|hao3=good n|long1=Longtang adj|huai4=bad nom|de .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$DJF:PF
+%act:	M想拿C手中的积木
+*CHI:	我 自己 .
+%mor:	pro:per|wo3=I pro:per|zi4ji3=self .
+%gra:	1|0|PROOT 2|1|SUBJ 3|0|PROOT
+%spa:	$NIA:CS
+*MOT:	插 成 什么 样子 .
+%mor:	v|cha1=insert v:resc|cheng2=become adv:wh|shen2me=what
+	n|yang4-NOM=appearance .
+%gra:	1|2|JCT 2|0|NONE 3|2|PROOT 4|2|PROOT 5|2|PROOT
+*MOT:	你 看看 .
+%mor:	pro:per|ni3=you v|kan4&DIM=look .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|NONE
+%spa:	$DJF:CR
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	大 树 要 倒 下来 啦 ?
+%mor:	v|da4=poop n|shu4=tree v:aux|yao4=should v|dao4=pour
+	v|xia4lai2=come_down sfp|la1 ?
+%gra:	1|0|OBJ 2|0|PROOT 3|4|AUX 4|0|PROOT 5|4|VD 6|7|ENDP 7|0|PROOT
+%spa:	$DJF:YQ
+*MOT:	啊 ?
+%mor:	sfp|a1 ?
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DJF:YQ
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	破坏 绿化 .
+%mor:	v|po4huai4=violate v|lv4hua4=make_a_place_green .
+%gra:	1|0|PROOT 2|1|JCT 3|0|PROOT
+%spa:	$DSS:ST
+*MOT:	唱 什么 歌 呀 ?
+%mor:	v|chang4=sing pro:wh|shen2me=what n|ge1=song sfp|ya ?
+%gra:	1|4|POSTO 2|1|PROOT 3|1|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$DCC:QN
+*MOT:	这 是 ?
+%mor:	pro:dem|zhe4=this v:cop|shi4=is ?
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DCC:YQ
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	尘尘 ‡ 把 这 个 积木 拣 起来 .
+%mor:	n:name|chen2chen2 beg|beg prep|ba3=object_marker det|zhe4=this
+	cl|ge4 n|ji1mu4=toy_building_bricks v|jian3=select v|qi3lai2=come_up
+	.
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|0|PROOT 7|0|PROOT
+	8|0|PROOT 9|0|PROOT
+%spa:	$NIA:RP
+*MOT:	掉 在 凳子 上 .
+%mor:	v:resc|diao4=done prep|zai4=at n|deng4-NOM=stool post|shang4=above
+	.
+%gra:	1|2|JCT 2|0|PROOT 3|2|PROOT 4|2|SRL 5|2|SUBJ
+%spa:	$DHA:ST
+*MOT:	快点 .
+%mor:	adv|kuai4dian3=hurrily .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:RP
+%act:	C去凳子 上拿
+*MOT:	拿 到 妈妈 这 边 来 .
+%mor:	v|na2=hold v:resc|dao4=arrive n:relat|ma1&DIM=mother
+	pro:dem|zhe4=this adv|bian1=simultaneously v:dirc|lai2=come .
+%gra:	1|0|OBJ 2|0|PROOT 3|0|PROOT 4|6|SUBJ 5|4|PROOT 6|7|ENDP 7|0|PROOT
+%spa:	$NIA:RP
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	这 能 插 啊 ?
+%mor:	pro:dem|zhe4=this v:aux|neng2=can v|cha1=insert sfp|a1 ?
+%gra:	1|0|OBJ 2|4|AUX 3|2|POSS 4|0|NONE 5|4|PUNCT
+%spa:	$DJF:AQ
+*MOT:	这 像 什么 样子 啊 ?
+%mor:	pro:dem|zhe4=this v|xiang4=be_like pro:wh|shen2me=what
+	n|yang4-NOM=appearance sfp|a1 ?
+%gra:	1|2|QUANT 2|0|NONE 3|2|PROOT 4|2|PROOT 5|2|PROOT 6|2|PROOT
+%spa:	$DJF:AQ
+*MOT:	乱七八糟 .
+%mor:	n|luang4qi1ba1zao1=mess .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:CR
+*CHI:	像 这 个 样子 .
+%mor:	adj|xiang4=same det|zhe4=this cl|ge4 n|yang4-NOM=appearance .
+%gra:	1|0|PROOT 2|5|ENDP 3|4|POSTO 4|2|LP 5|0|PROOT
+%spa:	$DJF:DW
+%tur:	$turn
+%cod:	$CCD
+*MOT:	像 什么 样子 啊 ?
+%mor:	v|xiang4=be_like pro:wh|shen2me=what n|yang4-NOM=appearance sfp|a1
+	?
+%gra:	1|0|PROOT 2|1|PROOT 3|0|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$DJF:AQ
+*MOT:	乱七八糟 .
+%mor:	n|luang4qi1ba1zao1=mess .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:CR
+*MOT:	<敲>[/] 敲 门 怎么 说 ?
+%mor:	v|qiao1=knock n|men2=door adv:wh|zen3me=how v|shuo1=say ?
+%gra:	1|0|PROOT 2|0|PROOT 3|5|ENDP 4|3|SRL 5|0|NONE
+%spa:	$DFW:QN
+*MOT:	咄咄咄@o .
+%mor:	on|咄咄咄 .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DFW:SA
+*MOT:	怎么 说 啊 ?
+%mor:	adv:wh|zen3me=how v|shuo1=say sfp|a1 ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|NONE 4|3|PUNCT
+%spa:	$DFW:QN
+*CHI:	一 二 三 .
+%mor:	num|yi1=one num|er4=two num|san1=three .
+%gra:	1|2|BEG 2|3|QUANT 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:SS
+*CHI:	爸爸 来 了 .
+%mor:	n:relat|ba4&DIM=father v:dirc|lai2=come asp|le .
+%gra:	1|0|PROOT 2|4|ENDP 3|2|JCT 4|0|PROOT
+%spa:	$DJF:ST
+%cod:	$CID
+*MOT:	爸爸 .
+%mor:	n:relat|ba4&DIM=father .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:RT
+*MOT:	不 是 爸爸 .
+%mor:	adv|bu4=not v:cop|shi4=is n:relat|ba4&DIM=father .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$DJF:DW
+*MOT:	是 老师 .
+%mor:	v:cop|shi4=is n|lao3shi1=teacher .
+%gra:	1|2|CMOD 2|0|PROOT 3|0|NONE
+%spa:	$DJF:CT
+*MOT:	爸爸 去 推 那 个 车 了 .
+%mor:	n:relat|ba4&DIM=father v:dirc|qu4=go v|tui1=push det|na4=that
+	cl|ge4 n|che1=vehicle asp|le .
+%gra:	1|0|OBJ 2|3|JCT 3|8|ENDP 4|3|PROOT 5|3|PROOT 6|3|PROOT 7|3|OBJ
+	8|0|PROOT
+%spa:	$DRE:ST
+*CHI:	爸爸 先 下去 .
+%mor:	n:relat|ba4&DIM=father adv|xian1=earlier v|xia4qu4=go_down .
+%gra:	1|0|OBJ 2|4|ENDP 3|2|CPT 4|0|NONE
+%spa:	$DRE:ST
+%tur:	$turn
+%cod:	$CCD
+*MOT:	嗯 .
+%mor:	co|en1=okay .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DRE:AC
+*MOT:	爸爸 去 买 东西 了 .
+%mor:	n:relat|ba4&DIM=father v:dirc|qu4=go v|mai3=buy n|dong1xi=thing
+	asp|le .
+%gra:	1|0|PROOT 2|6|ENDP 3|2|OBJ 4|2|PROOT 5|2|JCT 6|0|PROOT
+%spa:	$DRE:ST
+*MOT:	刚才 不 是 跟 你 说 了 吗 ?
+%mor:	adv|gang1cai2=just_now adv|bu4=not v:cop|shi4=is prep|gen1=with
+	pro:per|ni3=you v|shuo1=say asp|le sfp|ma ?
+%gra:	1|0|OBJ 2|1|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|0|PROOT 7|0|OBJ
+	8|9|ENDP 9|0|PROOT
+%spa:	$DRE:YQ
+*MOT:	过 一会儿 再 来 .
+%mor:	adv|guo4=excessively n:tm|yi4huir4=for_a_while adv|zai4=again
+	v:dirc|lai2=come .
+%gra:	1|0|OBJ 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$NFA:ST
+*MOT:	你 看 这 个 好玩 吗 ?
+%mor:	pro:per|ni3=you v|kan4=look det|zhe4=this cl|ge4
+	adj|hao3wan2=amusing sfp|ma ?
+%gra:	1|2|SUBJ 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|7|ENDP 7|0|PROOT
+%spa:	$DHA:YQ
+*MOT:	会 转 吗 ?
+%mor:	v:aux|hui4=will v|zhuan3=turn sfp|ma ?
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:DR
+*CHI:	我 会 转 .
+%mor:	pro:per|wo3=I v:aux|hui4=will v|zhuan3=turn .
+%gra:	1|3|SUBJ 2|1|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$NIA:ST
+%tur:	$turn
+%cod:	$CCD
+*CHI:	我 会 转 .
+%mor:	pro:per|wo3=I v:aux|hui4=will v|zhuan3=turn .
+%gra:	1|3|SUBJ 2|1|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$NIA:ST
+%cod:	$CCD
+*MOT:	那 你 转 个 大 风车 .
+%mor:	conj|na4=so pro:per|ni3=you v|zhuan3=turn cl|ge4 v|da4=poop
+	n|feng1che1=windmill .
+%gra:	1|0|OBJ 2|3|SUBJ 3|1|OBJ 4|1|OBJ 5|1|OBJ 6|1|OBJ 7|0|PROOT
+%spa:	$NIA:RP
+*MOT:	你 转 吧 .
+%mor:	pro:per|ni3=you v|zhuan3=turn sfp|ba .
+%gra:	1|2|SUBJ 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$NIA:RP
+*MOT:	大 风车 啊 这 是 .
+%mor:	v|da4=poop n|feng1che1=windmill sfp|a1 pro:dem|zhe4=this
+	v:cop|shi4=is .
+%gra:	1|0|PROOT 2|0|PROOT 3|5|SUBJ 4|3|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$DJF:ST
+%act:	C转了掉在地 上
+*MOT:	好 [/] 好 ‡ 掉掉 了 .
+%mor:	adj|hao3=good beg|beg v:resc|diao4&DIM=done asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|OBJ 5|0|NONE
+%spa:	$DCA:ST
+*MOT:	站 起来 转 .
+%mor:	v|zhan4=to_stand v|qi3lai2=come_up v|zhuan3=turn .
+%gra:	1|0|OBJ 2|1|VD 3|1|ATT 4|0|PROOT
+%spa:	$NIA:RP
+*MOT:	站 起来 .
+%mor:	v|zhan4=to_stand v|qi3lai2=come_up .
+%gra:	1|2|LINK 2|3|ENDP 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	站 起来 转 .
+%mor:	v|zhan4=to_stand v|qi3lai2=come_up v|zhuan3=turn .
+%gra:	1|0|OBJ 2|1|VD 3|1|ATT 4|0|PROOT
+%spa:	$NIA:RP
+*MOT:	站 起来 转 .
+%mor:	v|zhan4=to_stand v|qi3lai2=come_up v|zhuan3=turn .
+%gra:	1|0|OBJ 2|1|VD 3|1|ATT 4|0|PROOT
+%spa:	$NIA:RP
+*MOT:	妈妈 给 你 转转 看看 .
+%mor:	n:relat|ma1&DIM=mother prep|gei3=for pro:per|ni3=you
+	v|zhuan3&DIM=turn v|kan4&DIM=look .
+%gra:	1|0|PROOT 2|1|PROOT 3|5|SUBJ 4|3|SUBJ 5|6|ENDP 6|0|PROOT
+%spa:	$NIA:FP
+*MOT:	妈妈 给 你 转转 .
+%mor:	n:relat|ma1&DIM=mother prep|gei3=for pro:per|ni3=you
+	v|zhuan3&DIM=turn .
+%gra:	1|0|PROOT 2|5|ENDP 3|2|PREPO 4|2|SRL 5|0|PROOT
+%spa:	$NIA:FP
+*MOT:	过来 .
+%mor:	v|guo4lai2=come_over .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:RP
+*MOT:	站 起来 .
+%mor:	v|zhan4=to_stand v|qi3lai2=come_up .
+%gra:	1|2|LINK 2|3|ENDP 3|0|PROOT
+%spa:	$DHA:RP
+*MOT:	站 这 上面 来 转 .
+%mor:	v|zhan4=to_stand pro:dem|zhe4=this post|shang4mian4=above
+	v:dirc|lai2=come v|zhuan3=turn .
+%gra:	1|3|JCT 2|1|PROOT 3|0|OBJ 4|3|ATT 5|0|NONE 6|5|PROOT
+%spa:	$NIA:RP
+*MOT:	轻 点 .
+%mor:	adj|qing1=gentle n|dian3=dot .
+%gra:	1|0|PROOT 2|1|APP 3|0|PROOT
+%spa:	$DHA:DS
+*MOT:	坏 掉 了 .
+%mor:	v:resc|huai4=spoil v:resc|diao4=done asp|le .
+%gra:	1|0|PROOT 2|4|ENDP 3|2|OBJ 4|0|PROOT
+%spa:	$DJF:GR
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	这 方向盘 你 看 啊 .
+%mor:	pro:dem|zhe4=this n|fang1xiang4pan2=steering_wheel pro:per|ni3=you
+	v|kan4=look sfp|a1 .
+%gra:	1|0|PROOT 2|0|PROOT 3|5|MOD 4|3|SUBJ 5|6|ENDP 6|0|PROOT
+%spa:	$DHA:RP
+*MOT:	哎 ‡ 望尘 .
+%mor:	co|ai1=ugh beg|beg n:name|wang4chen2 .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|NONE
+%spa:	$DHA:CL
+*MOT:	方向盘 .
+%mor:	n|fang1xiang4pan2=steering_wheel .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:ST
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	嗯 ‡ 对 了 .
+%mor:	co|en1=okay beg|beg v|dui4=adjust asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|OBJ 5|0|NONE
+%spa:	$DCA:AB
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	嗯 ‡ 这 装 什么 ?
+%mor:	co|en1=okay beg|beg pro:dem|zhe4=this v|zhuang1=install
+	pro:wh|shen2me=what ?
+%gra:	1|0|OBJ 2|0|OBJ 3|0|PROOT 4|5|JCT 5|0|PROOT 6|0|NONE
+%spa:	$DJF:QN
+*MOT:	这 什么 东西 „ 望尘 ?
+%mor:	pro:dem|zhe4=this pro:wh|shen2me=what n|dong1xi=thing end|end
+	n:name|wang4chen2 ?
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|5|ENDP 5|6|ENDP 6|0|NONE
+%spa:	$DJF:QN
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	这 个 干 什么 ?
+%mor:	det|zhe4=this cl|ge4 v|gan4=do pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|OBJ 3|0|NONE 4|3|PROOT 5|3|OM
+%spa:	$DJF:QN
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	干 什么 ?
+%mor:	v|gan4=do pro:wh|shen2me=what ?
+%gra:	1|0|OBJ 2|1|PROOT 3|0|NONE
+%spa:	$DJF:QN
+*MOT:	这 是 大 什么 东西 啊 这 是 ?
+%mor:	pro:dem|zhe4=this v:cop|shi4=is v|da4=poop pro:wh|shen2me=what
+	n|dong1xi=thing sfp|a1 pro:dem|zhe4=this v:cop|shi4=is ?
+%gra:	1|0|OBJ 2|0|PROOT 3|2|PROOT 4|6|JCT 5|4|PROOT 6|0|NONE 7|6|PROOT
+	8|6|OBJ 9|6|PROOT
+%spa:	$DJF:QN
+*CHI:	大 树 .
+%mor:	v|da4=poop n|shu4=tree .
+%gra:	1|0|PROOT 2|1|TAG 3|2|PUNCT
+%spa:	$DJF:SA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	噢哟 ‡ 车子 树 啊 ? [+ gram]
+%mor:	co|噢哟 beg|beg n|che1zi=vehicle n|shu4=tree sfp|a1 ?
+%gra:	1|0|OBJ 2|0|OBJ 3|0|PROOT 4|3|APP 5|6|ENDP 6|0|PROOT
+%spa:	$DJF:ET
+*MOT:	是 圣诞树 .
+%mor:	v:cop|shi4=is n|sheng4dan4shu4=Christmas_tree .
+%gra:	1|2|CMOD 2|0|PROOT 3|0|NONE
+%spa:	$DJF:CT
+*MOT:	这 像 圣诞树 啊 ?
+%mor:	pro:dem|zhe4=this v|xiang4=be_like n|sheng4dan4shu4=Christmas_tree
+	sfp|a1 ?
+%gra:	1|0|PROOT 2|0|NONE 3|2|PROOT 4|2|PROOT 5|2|PROOT
+%spa:	$DJF:YQ
+*CHI:	是 圣诞树 .
+%mor:	v:cop|shi4=is n|sheng4dan4shu4=Christmas_tree .
+%gra:	1|2|CMOD 2|0|PROOT 3|0|NONE
+%spa:	$DJF:AA
+%tur:	$turn
+*MOT:	圣诞树 怎么 唱歌 啊 ?
+%mor:	n|sheng4dan4shu4=Christmas_tree adv:wh|zen3me=how v|chang4ge1=sing
+	sfp|a1 ?
+%gra:	1|0|PROOT 2|4|MOD 3|2|SRL 4|0|NONE 5|4|PUNCT
+%spa:	$DNP:QN
+*CHI:	xxx .
+%spa:	$NIA:SA
+*MOT:	圣诞 歌 怎么 唱 的 ?
+%mor:	n|sheng4dan4=Christmas n|ge1=song adv:wh|zen3me=how v|chang4=sing
+	cleft|de ?
+%gra:	1|0|PROOT 2|0|PROOT 3|5|AUX 4|3|SRL 5|0|ROOT 6|5|PUNCT
+%spa:	$DNP:QN
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	merry_christmas_to_you@s:eng 对 吗 ?
+%mor:	L2|merry_christmas_to_you v|dui4=adjust sfp|ma ?
+%gra:	1|0|PROOT 2|0|NONE 3|2|PROOT 4|2|PROOT
+%spa:	$DNP:YQ
+*MOT:	圣诞树 .
+%mor:	n|sheng4dan4shu4=Christmas_tree .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DNP:ST
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	拔 不 下来 了 .
+%mor:	v|ba2=pull adv|bu4=not v|xia4lai2=come_down asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|2|SRL 4|2|ATT 5|0|PROOT
+%spa:	$DJF:ST
+*CHI:	哎哟嘿@o .
+%mor:	on|哎哟嘿 .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$MRK:MK
+*MOT:	拔 不 下来 怎么 办 ?
+%mor:	v|ba2=pull adv|bu4=not v|xia4lai2=come_down adv:wh|zen3me=how
+	v|ban4=handle ?
+%gra:	1|0|PROOT 2|5|JCT 3|2|SRL 4|2|ATT 5|0|NONE 6|5|PUNCT
+%spa:	$DJF:QN
+*MOT:	插 不 上去 了 .
+%mor:	v|cha1=insert adv|bu4=not v|shang4qu4=go_up asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|2|SRL 4|2|ATT 5|0|PROOT
+%spa:	$DJF:ST
+*CHI:	这 个 .
+%mor:	det|zhe4=this cl|ge4 .
+%gra:	1|3|ENDP 2|1|LP 3|0|PROOT
+%spa:	$DHA:ST
+%act:	C拿M跟前的积木
+*MOT:	你 拿 什么 ?
+%mor:	pro:per|ni3=you v|na2=hold pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|4|ENDP 3|2|PROOT 4|0|NONE
+%spa:	$DCA:QN
+*MOT:	到 这 边 来 .
+%mor:	v:resc|dao4=arrive pro:dem|zhe4=this adv|bian1=simultaneously
+	v:dirc|lai2=come .
+%gra:	1|2|JCT 2|4|SUBJ 3|2|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$NIA:RP
+%act:	M指着位置让C去 坐
+*MOT:	眼睛 面对 着 老师 啊 . [+ gram]
+%mor:	n|yan3jing1=eye v|mian4dui4=face_up asp|zhe n|lao3shi1=teacher
+	sfp|a1 .
+%gra:	1|2|SUBJ 2|4|JCT 3|2|OBJ 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$NIA:RP
+*CHI:	宝山 路 .
+%mor:	n:prop|bao3shan1=Baoshan n|lu4=road .
+%gra:	1|0|NONE 2|3|ENDP 3|1|ENUM
+%spa:	$DNP:ST
+%cod:	$CID
+*MOT:	不 是 宝山 路 .
+%mor:	adv|bu4=not v:cop|shi4=is n:prop|bao3shan1=Baoshan n|lu4=road .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DNP:DW
+*CHI:	这样 的 .
+%mor:	pro:dem|zhe4yang4=so_such nom|de .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DJF:ST
+%tur:	$turn
+*CHI:	宝山 路 .
+%mor:	n:prop|bao3shan1=Baoshan n|lu4=road .
+%gra:	1|0|NONE 2|3|ENDP 3|1|ENUM
+%spa:	$DNP:ST
+%cod:	$CCD
+*MOT:	华师大 在 哪里 啊 ?
+%mor:	n:prop|hua2shi1da4=East_China_Normal_University prep|zai4=at
+	pro:wh|na3li3=where sfp|a1 ?
+%gra:	1|0|NONE 2|1|PROOT 3|1|PTOP 4|1|END 5|1|ENUM
+%spa:	$DNP:QN
+*MOT:	在 哪里 下来 轻轨 啊 ?
+%mor:	prep|zai4=at pro:wh|na3li3=where v|xia4lai2=come_down
+	n|qing1gui3=light_rail sfp|a1 ?
+%gra:	1|0|OBJ 2|6|ENDP 3|2|SRL 4|2|SRL 5|2|END 6|0|PROOT
+%spa:	$DNP:QN
+*MOT:	华师大 从 哪里 下来 ?
+%mor:	n:prop|hua2shi1da4=East_China_Normal_University prep|cong2=from
+	pro:wh|na3li3=where v|xia4lai2=come_down ?
+%gra:	1|5|ENDP 2|1|OBJ 3|1|PREPO 4|1|PUNCT 5|0|NONE
+%spa:	$DNP:QN
+%act:	M抢走C手中的积木
+*CHI:	哼 .
+%mor:	co|heng1=humph .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:RD
+*MOT:	轻轨 在 哪里 下来 啊 ?
+%mor:	n|qing1gui3=light_rail prep|zai4=at pro:wh|na3li3=where
+	v|xia4lai2=come_down sfp|a1 ?
+%gra:	1|0|PROOT 2|5|POSTO 3|2|VD 4|2|SRL 5|6|ENDP 6|0|NONE
+%spa:	$DNP:QN
+*CHI:	金沙江 路 下来 .
+%mor:	n:prop|jin1sha1jiang1=Jinsha_River n|lu4=road v|xia4lai2=come_down
+	.
+%gra:	1|2|JCT 2|3|SUBJ 3|4|ENDP 4|0|NONE
+%spa:	$DNP:SA
+%cod:	$CCD
+%tur:	$turn
+*MOT:	对 了 .
+%mor:	v|dui4=adjust asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|NONE
+%spa:	$DNP:AP
+*MOT:	插 不 进去 了 .
+%mor:	v|cha1=insert adv|bu4=not v|jin4qu4=go_into asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|2|SRL 4|2|ATT 5|0|PROOT
+%spa:	$DJF:ST
+*MOT:	这里 插 不 进去 了 .
+%mor:	post|zhe4li3=here v|cha1=insert adv|bu4=not v|jin4qu4=go_into
+	asp|le .
+%gra:	1|0|OBJ 2|1|ATT 3|6|ENDP 4|3|SRL 5|3|ATT 6|0|NONE
+%spa:	$DJF:ST
+*MOT:	哎哟 ‡ 插 不 进去 了 .
+%mor:	co|ai1yo1=arrgh beg|beg v|cha1=insert adv|bu4=not v|jin4qu4=go_into
+	asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|OBJ 5|4|SRL 6|4|ATT 7|0|PROOT
+%spa:	$DJF:ST
+*MOT:	妈妈 帮 你 来 插 .
+%mor:	n:relat|ma1&DIM=mother v|bang1=help pro:per|ni3=you
+	v:dirc|lai2=come v|cha1=insert .
+%gra:	1|0|PROOT 2|1|SUBJ 3|5|SUBJ 4|3|SUBJ 5|6|ENDP 6|0|PROOT
+%spa:	$NIA:SI
+*MOT:	要 妈妈 帮忙 吗 ?
+%mor:	v:aux|yao4=should n:relat|ma1&DIM=mother v|bang1mang2=assist sfp|ma
+	?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$NIA:YQ
+*MOT:	要不要 ?
+%mor:	v|yao4&DIM=want ?
+%gra:	1|0|OBJ 2|0|NONE
+%spa:	$NIA:YQ
+*MOT:	要 妈妈 帮忙 吗 ?
+%mor:	v:aux|yao4=should n:relat|ma1&DIM=mother v|bang1mang2=assist sfp|ma
+	?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$NIA:YQ
+*CHI:	妈妈 帮 .
+%mor:	n:relat|ma1&DIM=mother v|bang1=help .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$NIA:AA
+%tur:	$turn
+%cod:	$CCD
+*MOT:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:AD
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:CL
+%act:	C走开
+*MOT:	嗯 ?
+%mor:	co|en1=okay ?
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:EQ
+*MOT:	过来 .
+%mor:	v|guo4lai2=come_over .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:RP
+*MOT:	还 没 好 .
+%mor:	adv|hai2=still adv|mei2=not adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$NIA:CS
+*MOT:	还 没 结束 呢 .
+%mor:	adv|hai2=still adv|mei2=not v|jie2shu4=end sfp|ne .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$NIA:CS
+*CHI:	纸头 呢 ?
+%mor:	n|zhi3tou2=paper sfp|ne ?
+%gra:	1|0|PROOT 2|3|ENDP 3|0|NONE
+%spa:	$DJF:EQ
+%cod:	$CID
+*MOT:	这 个 纸头 没 有 了 .
+%mor:	det|zhe4=this cl|ge4 n|zhi3tou2=paper adv|mei2=not v|you3=have
+	asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|7|ENDP 5|4|SRL 6|4|ATT 7|0|NONE
+%spa:	$DJF:SA
+*MOT:	纸头 没 有 放 进去 .
+%mor:	n|zhi3tou2=paper adv|mei2=not v|you3=have v|fang4=put
+	v|jin4qu4=go_into .
+%gra:	1|0|PROOT 2|3|JCT 3|5|JCT 4|3|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$DJF:GR
+*MOT:	没 有 纸头 .
+%mor:	adv|mei2=not v|you3=have n|zhi3tou2=paper .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$DJF:ST
+*CHI:	这 个 纸头 .
+%mor:	det|zhe4=this cl|ge4 n|zhi3tou2=paper .
+%gra:	1|4|ENDP 2|3|POSTO 3|1|LP 4|0|PROOT
+%spa:	$NIA:CS
+%cod:	$CCD
+%tur:	$turn
+*MOT:	不 要 看 纸头 .
+%mor:	adv|bu4=not v:aux|yao4=should v|kan4=look n|zhi3tou2=paper .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$NIA:RD
+*MOT:	完 了 才 能 看 纸头 .
+%mor:	v:resc|wan2=finish asp|le adv|cai2=just v:aux|neng2=can v|kan4=look
+	n|zhi3tou2=paper .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|NONE 4|3|PROOT 5|3|CPT 6|3|SRL 7|3|ENUM
+%spa:	$NFA:GR
+*MOT:	啊 .
+%mor:	sfp|a1 .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DHA:CL
+*MOT:	做 完 了 才 能 看 纸头 .
+%mor:	v|zuo4=make v:resc|wan2=finish asp|le adv|cai2=just v:aux|neng2=can
+	v|kan4=look n|zhi3tou2=paper .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|NONE 5|4|PROOT 6|4|CPT 7|4|SRL
+	8|4|ENUM
+%spa:	$NFA:ST
+*MOT:	那 不 是 纸头 .
+%mor:	pro:dem|na4=that adv|bu4=not v:cop|shi4=is n|zhi3tou2=paper .
+%gra:	1|0|PROOT 2|1|PROOT 3|4|CMOD 4|0|PROOT 5|0|PROOT
+%spa:	$DJF:ST
+*MOT:	是 复印机 .
+%mor:	v:cop|shi4=is n|fu4yin4ji1=copy_machine .
+%gra:	1|2|CMOD 2|0|PROOT 3|0|NONE
+%spa:	$DJF:CT
+*CHI:	复印机 用 什么 ?
+%mor:	n|fu4yin4ji1=copy_machine v|yong4=use pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|4|ENDP 3|2|PROOT 4|0|NONE
+%spa:	$DJF:QN
+%cod:	$CCD
+*MOT:	复印机 复印 纸头 的 呀 .
+%mor:	n|fu4yin4ji1=copy_machine v|fu4yin4=copy n|zhi3tou2=paper poss|de
+	sfp|ya .
+%gra:	1|3|JCT 2|1|PUNCT 3|0|NONE 4|6|ENDP 5|4|PREPO 6|3|PROOT
+%spa:	$DJF:SA
+*MOT:	小朋友 不 好 用 复印机 的 „ 对 吧 ?
+%mor:	n|xiao3peng2you3=little_child adv|bu4=not adj|hao3=good
+	prep|yong4=with n|fu4yin4ji1=copy_machine poss|de end|end
+	v|dui4=adjust sfp|ba ?
+%gra:	1|0|OBJ 2|4|JCT 3|2|SRL 4|7|JCT 5|4|APP 6|4|BEGP 7|9|ENDP 8|7|ROOT
+	9|10|ENDP 10|0|NONE
+%spa:	$DJF:RQ
+*CHI:	再 复印 .
+%mor:	adv|zai4=again v|fu4yin4=copy .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:DW
+%cod:	$CCD
+*CHI:	再 复印 一会儿 就 不 复印 . [+ gram]
+%mor:	adv|zai4=again v|fu4yin4=copy n:tm|yi4huir4=for_a_while
+	adv|jiu4=just adv|bu4=not v|fu4yin4=copy .
+%gra:	1|0|PROOT 2|1|SRL 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|0|PROOT 7|0|PROOT
+%spa:	$NIA:ST
+%cod:	$CCD
+%tur:	$turn
+*MOT:	什么 复印 一会儿 ?
+%mor:	pro:wh|shen2me=what v|fu4yin4=copy n:tm|yi4huir4=for_a_while ?
+%gra:	1|0|PROOT 2|1|SRL 3|4|ENDP 4|0|PROOT
+%spa:	$NIA:AQ
+*MOT:	你 又 不 会 复印 .
+%mor:	pro:per|ni3=you adv|you4=again adv|bu4=not v:aux|hui4=will
+	v|fu4yin4=copy .
+%gra:	1|0|PROOT 2|3|JCT 3|4|JCT 4|6|JCT 5|6|ENDP 6|0|NONE
+%spa:	$NIA:ST
+*MOT:	你 会 吗 ?
+%mor:	pro:per|ni3=you n|hui4=meeting sfp|ma ?
+%gra:	1|0|PROOT 2|3|MOD 3|0|NONE 4|3|PUNCT
+%spa:	$NIA:DR
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	你 会 吗 ?
+%mor:	pro:per|ni3=you n|hui4=meeting sfp|ma ?
+%gra:	1|0|PROOT 2|3|MOD 3|0|NONE 4|3|PUNCT
+%spa:	$NIA:DR
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	都 拆 开 干 什么 啦 ?
+%mor:	adv|dou1=all v|chai1=separate v:resc|kai1=open v|gan4=do
+	pro:wh|shen2me=what sfp|la1 ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|OBJ 5|0|PROOT 6|7|ENDP 7|0|PROOT
+%spa:	$DCA:QN
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	你 不 要 拆 啊 .
+%mor:	pro:per|ni3=you adv|bu4=not v:aux|yao4=should v|chai1=separate
+	sfp|a1 .
+%gra:	1|0|PROOT 2|0|NONE 3|2|SRL 4|2|CPT 5|2|SRL 6|2|ENUM
+%spa:	$NIA:PF
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	哎哟 ‡ 你 老是 唱 什么 东西 ?
+%mor:	co|ai1yo1=arrgh beg|beg pro:per|ni3=you adv|lao3shi4=always
+	v|chang4=sing pro:wh|shen2me=what n|dong1xi=thing ?
+%gra:	1|0|OBJ 2|0|OBJ 3|0|PROOT 4|8|JCT 5|4|SRL 6|4|ATT 7|4|SRL 8|0|NONE
+%spa:	$TXT:AQ
+*CHI:	喀嚓 [/] 喀嚓 .
+%mor:	co|ka1cha1=kacha .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$PRO:PR
+*CHI:	插 不 进去 .
+%mor:	v|cha1=insert adv|bu4=not v|jin4qu4=go_into .
+%gra:	1|0|PROOT 2|0|OBJ 3|2|ATT 4|0|PROOT
+%spa:	$DJF:ST
+*MOT:	插 不 进去 .
+%mor:	v|cha1=insert adv|bu4=not v|jin4qu4=go_into .
+%gra:	1|0|PROOT 2|0|OBJ 3|2|ATT 4|0|PROOT
+%spa:	$DJF:AP
+*CHI:	插 不 进去 .
+%mor:	v|cha1=insert adv|bu4=not v|jin4qu4=go_into .
+%gra:	1|0|PROOT 2|0|OBJ 3|2|ATT 4|0|PROOT
+%spa:	$DJF:ST
+%cod:	$CCD
+*MOT:	好 了 .
+%mor:	adj|hao3=good asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|NONE
+%spa:	$DJF:MK
+*MOT:	进去 了 .
+%mor:	v|jin4qu4=go_into asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|NONE
+%spa:	$DJF:ST
+*MOT:	可以 了 .
+%mor:	v:aux|ke3yi3=may asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT
+%spa:	$DJF:ST
+*MOT:	哎哟 ‡ 插 不 进去 .
+%mor:	co|ai1yo1=arrgh beg|beg v|cha1=insert adv|bu4=not v|jin4qu4=go_into
+	.
+%gra:	1|0|PROOT 2|1|BEGP 3|0|PROOT 4|6|ENDP 5|4|SRL 6|0|NONE
+%spa:	$DJF:ST
+*MOT:	大 树 这样 放 的 啊 ?
+%mor:	v|da4=poop n|shu4=tree pro:dem|zhe4yang4=so_such v|fang4=put
+	cleft|de sfp|a1 ?
+%gra:	1|3|JCT 2|3|JCT 3|4|SUBJ 4|0|PROOT 5|7|ENDP 6|5|END 7|0|PROOT
+%spa:	$DJF:YQ
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:CL
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:CL
+*MOT:	干吗 ?
+%mor:	pro:wh|gan4ma2=what ?
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:QN
+*MOT:	嘿 .
+%mor:	co|hei1=hey .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$MRK:MK
+*MOT:	这 都 像 妖怪 了 .
+%mor:	pro:dem|zhe4=this adv|dou1=all v|xiang4=be_like n|yao1guai4=monster
+	asp|le .
+%gra:	1|0|PROOT 2|6|ENDP 3|2|SRL 4|2|SRL 5|2|SRL 6|0|NONE
+%spa:	$DJF:ST
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	做 个 妖怪 .
+%mor:	v|zuo4=make cl|ge4 n|yao1guai4=monster .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$DJF:ST
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	嗯 ?
+%mor:	co|en1=okay ?
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:EQ
+*MOT:	插 好 了 吗 ?
+%mor:	v|cha1=insert adj|hao3=good asp|le sfp|ma ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|5|ENDP 5|0|NONE
+%spa:	$DJF:YQ
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	插 好 了 问 你 .
+%mor:	v|cha1=insert adj|hao3=good asp|le v|wen4=ask pro:per|ni3=you .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|6|ENDP 5|4|PROOT 6|0|PROOT
+%spa:	$DHA:SI
+%act:	M用胳膊碰C了一下
+*MOT:	插 好 了 吗 ?
+%mor:	v|cha1=insert adj|hao3=good asp|le sfp|ma ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|5|ENDP 5|0|NONE
+%spa:	$DJF:YQ
+*MOT:	插 好 了 吗 ?
+%mor:	v|cha1=insert adj|hao3=good asp|le sfp|ma ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|5|ENDP 5|0|NONE
+%spa:	$DJF:YQ
+*CHI:	插 好 了 .
+%mor:	v|cha1=insert adj|hao3=good asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|NONE
+%spa:	$DJF:AA
+%cod:	$CCD
+%tur:	$turn
+*MOT:	插 好 了 .
+%mor:	v|cha1=insert adj|hao3=good asp|le .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|NONE
+%spa:	$DJF:AC
+*MOT:	好 了 .
+%mor:	adj|hao3=good asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|NONE
+%spa:	$DJF:MK
+*MOT:	喏 ‡ 给 这 个 给 你 插 .
+%mor:	co|nuo4=hey beg|beg prep|gei3=for det|zhe4=this cl|ge4
+	prep|gei3=for pro:per|ni3=you v|cha1=insert .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|0|PROOT 7|0|PROOT
+	8|7|SUBJ 9|0|NONE
+%spa:	$DHA:RP
+%act:	M递给C一 个小积木
+*MOT:	你 要 用 这 个 方法 给 这 个 插 .
+%mor:	pro:per|ni3=you v:aux|yao4=should prep|yong4=with det|zhe4=this
+	cl|ge4 n|fang1fa3=method v|gei3=give det|zhe4=this cl|ge4
+	v|cha1=insert .
+%gra:	1|0|PROOT 2|0|PROOT 3|6|JCT 4|3|PROOT 5|3|OBJ 6|0|PROOT 7|0|PROOT
+	8|7|PROOT 9|7|PROOT 10|7|PROOT 11|0|PROOT
+%spa:	$NIA:RP
+*MOT:	知道 吗 ?
+%mor:	v|zhi1dao4=know sfp|ma ?
+%gra:	1|0|OBJ 2|3|ENDP 3|0|PROOT
+%spa:	$NIA:YQ
+*MOT:	哎 ‡ 这 个 插 在 外面 .
+%mor:	co|ai1=ugh beg|beg det|zhe4=this cl|ge4 v|cha1=insert prep|zai4=at
+	post|wai4mian4=outside .
+%gra:	1|2|ENDP 2|0|OBJ 3|0|PROOT 4|0|OBJ 5|4|PUNCT 6|4|PUNCT 7|4|LINK
+	8|0|PROOT
+%spa:	$DJF:AB
+*MOT:	插 这里 .
+%mor:	v|cha1=insert post|zhe4li3=here .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT
+%spa:	$DJF:RP
+*CHI:	xxx .
+%spa:	$TXT:TX
+*MOT:	干嘛 把 它 拔 出来 了 啊 ?
+%mor:	pro:wh|gan4ma2=what prep|ba3=object_marker pro:per|ta1=it
+	v|ba2=pull v|chu1lai2=go_out asp|le sfp|a1 ?
+%gra:	1|0|OBJ 2|1|OBJ 3|1|PREPO 4|0|PROOT 5|4|VD 6|0|OBJ 7|8|ENDP
+	8|0|NONE
+%spa:	$DCA:DS
+*MOT:	不 拔 下来 啊 .
+%mor:	adv|bu4=not v|ba2=pull v|xia4lai2=come_down sfp|a1 .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DCA:PF
+*MOT:	拔 下来 干嘛 呀 ?
+%mor:	v|ba2=pull v|xia4lai2=come_down pro:wh|gan4ma2=what sfp|ya ?
+%gra:	1|0|OBJ 2|1|ATT 3|4|MOD 4|0|NONE 5|4|PUNCT
+%spa:	$DCA:QN
+*MOT:	好 ‡ 放 好 .
+%mor:	adj|hao3=good beg|beg v|fang4=put adj|hao3=good .
+%gra:	1|0|PROOT 2|0|OBJ 3|5|ENDP 4|3|SRL 5|0|PROOT
+%spa:	$NIA:RP
+%act:	C想走
+*MOT:	不 要 拿 走 .
+%mor:	adv|bu4=not v:aux|yao4=should v|na2=hold v:dirc|zou3=go_away .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$NIA:PF
+*MOT:	放 好 .
+%mor:	v|fang4=put adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DJF:RP
+*CHI:	掉 下来 了 .
+%mor:	v:resc|diao4=done v|xia4lai2=come_down asp|le .
+%gra:	1|0|PROOT 2|1|VD 3|0|OBJ 4|0|NONE
+%tur:	$turn
+%cod:	$CID
+%spa:	$DJF:ST
+*MOT:	自己 拣 起来 .
+%mor:	pro:per|zi4ji3=self v|jian3=select v|qi3lai2=come_up .
+%gra:	1|2|SUBJ 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$NIA:RP
+*MOT:	拣 起来 啊 .
+%mor:	v|jian3=select v|qi3lai2=come_up sfp|a1 .
+%gra:	1|3|POSTO 2|1|VD 3|4|ENDP 4|0|PROOT
+%spa:	$NIA:RP
+*MOT:	没 有 掉 啊 .
+%mor:	adv|mei2=not v|you3=have v:resc|diao4=done sfp|a1 .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$DJF:DW
+*MOT:	刚才 那 个 声音 不 是 的 .
+%mor:	adv|gang1cai2=just_now det|na4=that cl|ge4 n|sheng1yin1=sound
+	adv|bu4=not v:cop|shi4=is poss|de .
+%gra:	1|0|OBJ 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|0|PROOT 7|0|PROOT
+	8|0|PROOT
+%spa:	$DRE:GR
+*MOT:	是 弄 的 别 的 东西 .
+%mor:	v:cop|shi4=is v|nong4=make cleft|de adv|bie2=dont nom|de
+	n|dong1xi=thing .
+%gra:	1|3|AUX 2|1|OBJ 3|0|NONE 4|3|PROOT 5|3|PROOT 6|3|PROOT 7|3|PROOT
+%spa:	$DRE:GR
+*MOT:	过来 过来 .
+%mor:	v|guo4lai2=come_over v|guo4lai2=come_over .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DHA:RP
+*CHI:	我 要 看 .
+%mor:	pro:per|wo3=I v:aux|yao4=should v|kan4=look .
+%gra:	1|0|PROOT 2|4|ENDP 3|2|POSS 4|0|NONE
+%spa:	$NIA:FP
+%tur:	$turn
+%cod:	$CCD
+*CHI:	我 要 看 .
+%mor:	pro:per|wo3=I v:aux|yao4=should v|kan4=look .
+%gra:	1|0|PROOT 2|4|ENDP 3|2|POSS 4|0|NONE
+%spa:	$NIA:FP
+%cod:	$CCD
+*CHI:	我 要 看 .
+%mor:	pro:per|wo3=I v:aux|yao4=should v|kan4=look .
+%gra:	1|0|PROOT 2|4|ENDP 3|2|POSS 4|0|NONE
+%spa:	$NIA:FP
+%cod:	$CCD
+*MOT:	你 要 看 什么 看 .
+%mor:	pro:per|ni3=you v:aux|yao4=should v|kan4=look pro:wh|shen2me=what
+	v|kan4=look .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$NIA:DS
+*CHI:	我 要 看 .
+%mor:	pro:per|wo3=I v:aux|yao4=should v|kan4=look .
+%gra:	1|0|PROOT 2|4|ENDP 3|2|POSS 4|0|NONE
+%spa:	$NIA:FP
+%tur:	$turn
+%cod:	$CCD
+*MOT:	不 让 你 看 .
+%mor:	adv|bu4=not v|rang4=allow pro:per|ni3=you v|kan4=look .
+%gra:	1|0|OBJ 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT
+%spa:	$NIA:PF
+*MOT:	脏 死 了 .
+%mor:	adj|zang1=dirty adj|si3=dead asp|le .
+%gra:	1|0|PROOT 2|4|ENDP 3|2|PTOP 4|0|PROOT
+%spa:	$DJF:GR
+%act:	M拍了C身上一下
+*MOT:	哎 ‡ 你 跟 妈妈 做 一样 „ 好 吗 ?
+%mor:	co|ai1=ugh beg|beg pro:per|ni3=you prep|gen1=with
+	n:relat|ma1&DIM=mother v|zuo4=make adj|yi1yang4=same end|end
+	adj|hao3=good sfp|ma ?
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|9|JCT 7|6|PROOT
+	8|6|PROOT 9|0|NONE 10|9|PREPO 11|9|ENUM
+%spa:	$NIA:RQ
+*MOT:	跟 妈妈 做 一样 „ 好 吗 ?
+%mor:	prep|gen1=with n:relat|ma1&DIM=mother v|zuo4=make adj|yi1yang4=same
+	end|end adj|hao3=good sfp|ma ?
+%gra:	1|0|PROOT 2|0|PROOT 3|6|JCT 4|3|PROOT 5|3|PROOT 6|0|NONE 7|6|PREPO
+	8|6|ENUM
+%spa:	$NIA:RQ
+*MOT:	看 好 妈妈 .
+%mor:	v|kan4=look adj|hao3=good n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$NIA:RP
+*MOT:	看 好 .
+%mor:	v|kan4=look adj|hao3=good .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	望尘 ‡ 跟 妈妈 做 一样 .
+%mor:	n:name|wang4chen2 beg|beg prep|gen1=with n:relat|ma1&DIM=mother
+	v|zuo4=make adj|yi1yang4=same .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|0|PROOT 7|0|PROOT
+%spa:	$NIA:RP
+*MOT:	快点 .
+%mor:	adv|kuai4dian3=hurrily .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:RP
+*MOT:	跟 妈妈 一样 的 .
+%mor:	prep|gen1=with n:relat|ma1&DIM=mother adj|yi1yang4=same nom|de .
+%gra:	1|0|OBJ 2|0|PROOT 3|0|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$NIA:RP
+*MOT:	快点 .
+%mor:	adv|kuai4dian3=hurrily .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:RP
+*MOT:	看 ‡ 妈妈 做 一样 的 .
+%mor:	v|kan4=look beg|beg n:relat|ma1&DIM=mother v|zuo4=make
+	adj|yi1yang4=same nom|de .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|3|SUBJ 5|0|PROOT 6|7|ENDP 7|0|PROOT
+%spa:	$NIA:RP
+*MOT:	快点 .
+%mor:	adv|kuai4dian3=hurrily .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:RP
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DHA:CL
+*MOT:	跟 妈妈 拿 做 . [+ gram]
+%mor:	prep|gen1=with n:relat|ma1&DIM=mother v|na2=hold v|zuo4=make .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|3|PROOT 5|0|PROOT
+%spa:	$NIA:RP
+*MOT:	拿 一 个 一样 的 .
+%mor:	v|na2=hold num|yi1=one cl|ge4 adj|yi1yang4=same nom|de .
+%gra:	1|0|PROOT 2|3|MOD 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$NIA:RP
+*CHI:	拿 一 个 一样 的 .
+%mor:	v|na2=hold num|yi1=one cl|ge4 adj|yi1yang4=same nom|de .
+%gra:	1|0|PROOT 2|3|MOD 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$NIA:AD
+%cod:	$CCD
+*MOT:	掉 地 上 了 .
+%mor:	v:resc|diao4=done n|di4=earth post|shang4=above asp|le .
+%gra:	1|0|PROOT 2|5|ENDP 3|2|VD 4|2|PTOP 5|0|PROOT
+%spa:	$DJF:ST
+*MOT:	做 跟 妈妈 一样 的 .
+%mor:	v|zuo4=make prep|gen1=with n:relat|ma1&DIM=mother adj|yi1yang4=same
+	nom|de .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$DHA:RP
+*MOT:	快点 .
+%mor:	adv|kuai4dian3=hurrily .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:RP
+*CHI:	哦哟 ‡ 掉掉 了 .
+%mor:	co|oyo1=oh beg|beg v:resc|diao4&DIM=done asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|5|ENDP 4|3|OBJ 5|0|PROOT
+%spa:	$DJF:ST
+%cod:	$CID
+*MOT:	坏蛋 .
+%mor:	n|huai4dan4=scoundrel .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DSS:ST
+%act:	M拣
+*MOT:	让 你 做 一样 的 你 不 做 „ 对 吧 ?
+%mor:	v|rang4=allow pro:per|ni3=you v|zuo4=make adj|yi1yang4=same nom|de
+	pro:per|ni3=you adv|bu4=not v|zuo4=make end|end v|dui4=adjust sfp|ba
+	?
+%gra:	1|0|PROOT 2|3|SUBJ 3|1|OBJ 4|0|PROOT 5|9|JCT 6|5|PROOT 7|9|JCT
+	8|7|SRL 9|0|PROOT 10|9|ROOT 11|12|ENDP 12|0|PROOT
+%spa:	$DRE:DS
+*MOT:	做 跟 妈妈 一样 的 .
+%mor:	v|zuo4=make prep|gen1=with n:relat|ma1&DIM=mother adj|yi1yang4=same
+	nom|de .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$NIA:RP
+*MOT:	快点 .
+%mor:	adv|kuai4dian3=hurrily .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:RP
+*MOT:	快点 做 .
+%mor:	adv|kuai4dian3=hurrily v|zuo4=make .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	做 一样 的 .
+%mor:	v|zuo4=make adj|yi1yang4=same nom|de .
+%gra:	1|0|PROOT 2|0|PROOT 3|4|ENDP 4|0|PROOT
+%spa:	$NIA:RP
+*MOT:	快点 .
+%mor:	adv|kuai4dian3=hurrily .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:RP
+*MOT:	快 做 个 一样 的 .
+%mor:	adv|kuai4=quickly v|zuo4=make cl|ge4 adj|yi1yang4=same nom|de .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$NIA:RP
+*CHI:	不 要 做 个 一样 .
+%mor:	adv|bu4=not v:aux|yao4=should v|zuo4=make cl|ge4 adj|yi1yang4=same
+	.
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT 5|0|PROOT 6|0|PROOT
+%spa:	$NIA:RD
+%tur:	$turn
+%cod:	$CCD
+*MOT:	为什么 ?
+%mor:	adv:wh|wei4shen2me=how_come ?
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$NIA:QN
+*CHI:	一 二 一 .
+%mor:	num|yi1=one num|er4=two num|yi1=one .
+%gra:	1|0|PROOT 2|3|CLASS 3|0|NONE 4|3|PUNCT
+%spa:	$TXT:TX
+*MOT:	快点 .
+%mor:	adv|kuai4dian3=hurrily .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:RP
+*MOT:	快点 做 好 .
+%mor:	adv|kuai4dian3=hurrily v|zuo4=make adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|PROOT
+%spa:	$NIA:RP
+*MOT:	让 你 做 了 .
+%mor:	v|rang4=allow pro:per|ni3=you v|zuo4=make asp|le .
+%gra:	1|0|OBJ 2|3|SUBJ 3|1|COMP 4|0|OBJ 5|0|NONE
+*MOT:	你 还 在 唱 .
+%mor:	pro:per|ni3=you adv|hai2=still adv|zai4=currently v|chang4=sing .
+%gra:	1|0|PROOT 2|5|ENDP 3|2|PROOT 4|2|SRL 5|0|NONE
+%spa:	$DRE:DS
+*MOT:	做 个 一样 的 .
+%mor:	v|zuo4=make cl|ge4 adj|yi1yang4=same nom|de .
+%gra:	1|0|OBJ 2|0|PROOT 3|0|PROOT 4|5|ENDP 5|0|PROOT
+%spa:	$NIA:RP
+*MOT:	快点 .
+%mor:	adv|kuai4dian3=hurrily .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$NIA:RP
+*MOT:	快 做 个 一样 的 .
+%mor:	adv|kuai4=quickly v|zuo4=make cl|ge4 adj|yi1yang4=same nom|de .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|PROOT 5|6|ENDP 6|0|PROOT
+%spa:	$NIA:RP
+*MOT:	一样 的 .
+%mor:	adj|yi1yang4=same nom|de .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	快 做 .
+%mor:	adv|kuai4=quickly v|zuo4=make .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	快点 啊 .
+%mor:	adv|kuai4dian3=hurrily sfp|a1 .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DJF:RP
+*MOT:	快 .
+%mor:	adv|kuai4=quickly .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:RP
+*MOT:	五 四 三 二 一 .
+%mor:	num|wu3=five num|si4=four num|san1=three num|er4=two num|yi1=one .
+%gra:	1|0|PROOT 2|1|ENUM 3|1|ENUM 4|5|CLASS 5|0|NONE 6|5|PUNCT
+%spa:	$DJF:SS
+*MOT:	时间 到 .
+%mor:	n|shi2jian1=time v:resc|dao4=arrive .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DJF:MK
+*MOT:	做 好 了 吗 ?
+%mor:	v|zuo4=make adj|hao3=good asp|le sfp|ma ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|OBJ 4|0|NONE 5|4|PUNCT
+%spa:	$DJF:YQ
+*MOT:	一样 吗 ?
+%mor:	adj|yi1yang4=same sfp|ma ?
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DJF:YQ
+*CHI:	一样 .
+%tur:	$turn
+%cod:	$CCD
+%mor:	adj|yi1yang4=same .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:AA
+*CHI:	一样 .
+%mor:	adj|yi1yang4=same .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:AA
+%cod:	$CCD
+*CHI:	一样 .
+%mor:	adj|yi1yang4=same .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:AA
+%cod:	$CCD
+*CHI:	一样 .
+%mor:	adj|yi1yang4=same .
+%gra:	1|0|PROOT 2|0|PROOT
+%spa:	$DJF:AA
+%cod:	$CCD
+*MOT:	拔 不 下来 .
+%mor:	v|ba2=pull adv|bu4=not v|xia4lai2=come_down .
+%gra:	1|0|PROOT 2|1|PROOT 3|1|JCT 4|0|PROOT
+%spa:	$DJF:ST
+*CHI:	一样 的 .
+%mor:	adj|yi1yang4=same nom|de .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DFJ:ST
+%tur:	$turn
+%cod:	$CCD
+*CHI:	一样 的 .
+%mor:	adj|yi1yang4=same nom|de .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DJF:ST
+%cod:	$CCD
+*MOT:	做 好 .
+%mor:	v|zuo4=make adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$DJF:RP
+*MOT:	你 还 要 干 什么 啦 ?
+%mor:	pro:per|ni3=you adv|hai2=still v:aux|yao4=should v|gan4=do
+	pro:wh|shen2me=what sfp|la1 ?
+%gra:	1|0|PROOT 2|0|NONE 3|2|PROOT 4|2|CPT 5|2|SRL 6|2|END 7|2|ENUM
+%spa:	$NIA:QN
+*MOT:	坐 好 .
+%mor:	v|zuo4=sit adj|hao3=good .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*MOT:	快点 过来 .
+%mor:	adv|kuai4dian3=hurrily v|guo4lai2=come_over .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+*CHI:	一样 的 .
+%mor:	adj|yi1yang4=same nom|de .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DJF:ST
+*CHI:	一样 的 .
+%tur:	$turn
+%mor:	adj|yi1yang4=same nom|de .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DJF:ST
+*CHI:	一样 的 .
+%mor:	adj|yi1yang4=same nom|de .
+%gra:	1|0|PROOT 2|3|ENDP 3|0|PROOT
+%spa:	$DJF:ST
+%act:	M帮C擦鼻涕
+*MOT:	快 哼 .
+%mor:	adv|kuai4=quickly co|heng1=humph .
+%gra:	1|0|OBJ 2|0|PROOT 3|0|PROOT
+%spa:	$DJF:RP
+*MOT:	好 .
+%mor:	adj|hao3=good .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$DJF:MK
+*MOT:	掉掉 一 个 .
+%mor:	v:resc|diao4&DIM=done num|yi1=one cl|ge4 .
+%gra:	1|0|PROOT 2|3|MOD 3|4|ENDP 4|0|PROOT
+%spa:	$DJF:ST
+*CHI:	这 是 什么 ?
+%mor:	pro:dem|zhe4=this v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT 4|0|NONE
+%spa:	$DJF:QN
+*MOT:	掉掉 一 个 吗 ?
+%mor:	v:resc|diao4&DIM=done num|yi1=one cl|ge4 sfp|ma ?
+%gra:	1|0|PROOT 2|3|MOD 3|4|POSTO 4|0|OBJ 5|0|PROOT
+%spa:	$DJF:YQ
+*MOT:	你 手 里 给 我 看看 .
+%mor:	pro:per|ni3=you n|shou3=hand post|li3=inside prep|gei3=for
+	pro:per|wo3=I v|kan4&DIM=look .
+%gra:	1|0|PROOT 2|1|PTOP 3|2|VD 4|7|ENDP 5|4|PREPO 6|4|SRL 7|0|NONE
+%spa:	$DJF:RP
+*MOT:	还有 几 个 里面 ?
+%mor:	conj|hai2you3=as_well_as quant|ji3=some cl|ge4 post|li3mian4=inside
+	?
+%gra:	1|0|PROOT 2|0|PROOT 3|4|POSTO 4|0|OBJ 5|0|NONE
+%spa:	$DJF:QN
+*MOT:	哦 ‡ 对 了 .
+%mor:	co|o1=chant beg|beg v|dui4=adjust asp|le .
+%gra:	1|0|PROOT 2|0|OBJ 3|0|PROOT 4|0|OBJ 5|0|NONE
+%spa:	$DJF:ST
+*MOT:	比赛 .
+%mor:	v|bi3sai4=compete_in_a_game_activity_match .
+%gra:	1|2|ENDP 2|0|PROOT
+%spa:	$NIA:RP
+*MOT:	五 四 三 二 一 .
+%mor:	num|wu3=five num|si4=four num|san1=three num|er4=two num|yi1=one .
+%gra:	1|0|PROOT 2|1|ENUM 3|1|ENUM 4|5|CLASS 5|0|NONE 6|5|PUNCT
+%spa:	$NIA:SS
+%act:	C走开
+*MOT:	快点 过来 .
+%mor:	adv|kuai4dian3=hurrily v|guo4lai2=come_over .
+%gra:	1|0|PROOT 2|0|PROOT 3|0|PROOT
+%spa:	$NIA:RP
+@End

@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>15260</WindowHeight>
+  <WindowWidth>25600</WindowWidth>
+  <Date1904/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="RedText">
+    <Font ss:FontName="Calibri" ss:Size="12" ss:Color="#FF0000"/>
+  </Style>
+  <Style ss:ID="TallText">
+    <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="tianjie72.mxwrd.mlu.xls">
+  <Table ss:DefaultColumnWidth="95" ss:DefaultRowHeight="15">
+   <Row>
+    <Cell><Data ss:Type="String">File</Data></Cell>
+    <Cell><Data ss:Type="String">Language</Data></Cell>
+    <Cell><Data ss:Type="String">Corpus</Data></Cell>
+    <Cell><Data ss:Type="String">Code</Data></Cell>
+    <Cell><Data ss:Type="String">Age</Data></Cell>
+    <Cell><Data ss:Type="String">Sex</Data></Cell>
+    <Cell><Data ss:Type="String">Group</Data></Cell>
+    <Cell><Data ss:Type="String">Race</Data></Cell>
+    <Cell><Data ss:Type="String">SES</Data></Cell>
+    <Cell><Data ss:Type="String">Role</Data></Cell>
+    <Cell><Data ss:Type="String">Education</Data></Cell>
+    <Cell><Data ss:Type="String">Custom field</Data></Cell>
+    <Cell><Data ss:Type="String">*CHI:</Data></Cell>
+    <Cell><Data ss:Type="String">n|bai2cai4=cabbage</Data></Cell>
+    <Cell><Data ss:Type="String">n|bei4zi=quilt</Data></Cell>
+    <Cell><Data ss:Type="String">n|bi2-NOM=nose</Data></Cell>
+    <Cell><Data ss:Type="String">n|bi2ti4=nasal_mucus</Data></Cell>
+    <Cell><Data ss:Type="String">n|biao3xian4=display</Data></Cell>
+    <Cell><Data ss:Type="String">n|cao3=grass</Data></Cell>
+    <Cell><Data ss:Type="String">n|che1=vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">n|chuang2=bed</Data></Cell>
+    <Cell><Data ss:Type="String">n|deng1=lantern</Data></Cell>
+    <Cell><Data ss:Type="String">n|deng3=class</Data></Cell>
+    <Cell><Data ss:Type="String">n|di4=earth</Data></Cell>
+    <Cell><Data ss:Type="String">n|dian4nao3=computer</Data></Cell>
+    <Cell><Data ss:Type="String">n|diao4che1=crane</Data></Cell>
+    <Cell><Data ss:Type="String">n|dong1xi=thing</Data></Cell>
+    <Cell><Data ss:Type="String">n|du4-NOM=belly</Data></Cell>
+    <Cell><Data ss:Type="String">n|gao1jia4=flyover</Data></Cell>
+    <Cell><Data ss:Type="String">n|gong1ju4=tool</Data></Cell>
+    <Cell><Data ss:Type="String">n|gong1ren2=worker</Data></Cell>
+    <Cell><Data ss:Type="String">n|gong1yuan2=park</Data></Cell>
+    <Cell><Data ss:Type="String">n|gou1=J</Data></Cell>
+    <Cell><Data ss:Type="String">n|gu3=drum</Data></Cell>
+    <Cell><Data ss:Type="String">n|gui1ze2=rule</Data></Cell>
+    <Cell><Data ss:Type="String">n|hu1lu=snore</Data></Cell>
+    <Cell><Data ss:Type="String">n|hua2ban3=skateboard</Data></Cell>
+    <Cell><Data ss:Type="String">n|hua2ban3che1=skateboard_car</Data></Cell>
+    <Cell><Data ss:Type="String">n|hui2shi4=matter</Data></Cell>
+    <Cell><Data ss:Type="String">n|hui4-DIA=meeting</Data></Cell>
+    <Cell><Data ss:Type="String">n|jia1ren2=family_members</Data></Cell>
+    <Cell><Data ss:Type="String">n|jia1yong4=family_expense</Data></Cell>
+    <Cell><Data ss:Type="String">n|jiao1tong1=traffic</Data></Cell>
+    <Cell><Data ss:Type="String">n|jing3cha2=policeman</Data></Cell>
+    <Cell><Data ss:Type="String">n|ke4=subject</Data></Cell>
+    <Cell><Data ss:Type="String">n|luo2bo=radish</Data></Cell>
+    <Cell><Data ss:Type="String">n|nai3=milk</Data></Cell>
+    <Cell><Data ss:Type="String">n|nai3ping2=baby_bottle</Data></Cell>
+    <Cell><Data ss:Type="String">n|nai3zui3=nipple</Data></Cell>
+    <Cell><Data ss:Type="String">n|nao3-NOM=brain</Data></Cell>
+    <Cell><Data ss:Type="String">n|ping2=bottle</Data></Cell>
+    <Cell><Data ss:Type="String">n|ping2guo3=apple</Data></Cell>
+    <Cell><Data ss:Type="String">n|qian2=money</Data></Cell>
+    <Cell><Data ss:Type="String">n|shan4zi=fan</Data></Cell>
+    <Cell><Data ss:Type="String">n|shi4gu4=accident</Data></Cell>
+    <Cell><Data ss:Type="String">n|shu4=tree</Data></Cell>
+    <Cell><Data ss:Type="String">n|shui3=water</Data></Cell>
+    <Cell><Data ss:Type="String">n|tang2=sugar</Data></Cell>
+    <Cell><Data ss:Type="String">n|tian1=day</Data></Cell>
+    <Cell><Data ss:Type="String">n|tu4=rabbit</Data></Cell>
+    <Cell><Data ss:Type="String">n|wa1tu3che1=bulldozer</Data></Cell>
+    <Cell><Data ss:Type="String">n|wan2ju4=toy</Data></Cell>
+    <Cell><Data ss:Type="String">n|yan3jing1=eye</Data></Cell>
+    <Cell><Data ss:Type="String">n|yao4=medicine</Data></Cell>
+    <Cell><Data ss:Type="String">n|yun2duo3=cloud_mass</Data></Cell>
+    <Cell><Data ss:Type="String">n|zui3=mouth</Data></Cell>
+    <Cell><Data ss:Type="String">n|zui3ba0=mouth</Data></Cell>
+    <Cell><Data ss:Type="String">Types</Data></Cell>
+    <Cell><Data ss:Type="String">Token</Data></Cell>
+    <Cell><Data ss:Type="String">TTR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tianjie72,d:\TALKBANK\CLAN\DATA\1_ASD\72\</Data></Cell>
+    <Cell><Data ss:Type="String">zho</Data></Cell>
+    <Cell><Data ss:Type="String">Shanghai</Data></Cell>
+    <Cell><Data ss:Type="String">CHI</Data></Cell>
+    <Cell><Data ss:Type="String">6;00.</Data></Cell>
+    <Cell><Data ss:Type="String">male</Data></Cell>
+    <Cell><Data ss:Type="String">.</Data></Cell>
+    <Cell><Data ss:Type="String">.</Data></Cell>
+    <Cell><Data ss:Type="String">.</Data></Cell>
+    <Cell><Data ss:Type="String">Target_Child</Data></Cell>
+    <Cell><Data ss:Type="String">.</Data></Cell>
+    <Cell><Data ss:Type="String">.</Data></Cell>
+    <Cell><Data ss:Type="Number">333</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="Number">147</Data></Cell>
+    <Cell><Data ss:Type="Number">0.367</Data></Cell>
+   </Row>
+   <Row>
+   </Row>
+  </Table>
+ </Worksheet>
+</Workbook>

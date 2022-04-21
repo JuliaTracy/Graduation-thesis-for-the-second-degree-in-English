@@ -1,0 +1,16 @@
+*CHI:	一 个 两 个 三 个 四 个 五 个 六 个 .
+%mor:	num|yi1=one cl|ge4 num|liang3=two cl|ge4 num|san1=three cl|ge4
+	num|si4=four cl|ge4 num|wu3=five cl|ge4 num|liu4=six cl|ge4 .
+*CHI:	一 条 两 条 三 条 四 条 五 条 .
+%mor:	num|yi1=one cl|tiao2 num|liang3=two cl|tiao2 num|san1=three
+	cl|tiao2 num|si4=four cl|tiao2 num|wu3=five cl|tiao2 .
+*CHI:	你 觉得 像不像 光能 使者 上面 的 那 个 .
+%mor:	pro:per|ni3=you v|jue2de=think v|xiang4&DIM=be_like
+	n|guang1neng2=luminous_energy n|shi3zhe3=emissary
+	post|shang4mian4=above poss|de det|na4=that cl|ge4 .
+*CHI:	这 个 应该 放 在 这 个 里面 .
+%mor:	det|zhe4=this cl|ge4 v:aux|ying1gai1=should v|fang4=place
+	prep|zai4=at det|zhe4=this cl|ge4 post|li3mian4=inside .
+*CHI:	一 角, 两 角, 三 角, 四 角 .
+%mor:	num|yi1=one n|jiao3=horn cm|cm num|liang3=two n|jiao3=horn cm|cm
+	num|san1=three n|jiao3=horn cm|cm num|si4=four cl|jiao3 .
